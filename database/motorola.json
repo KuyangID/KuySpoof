@@ -1,0 +1,3407 @@
+[
+    {
+        "model": "201M",
+        "device": "scorpion_mini_t",
+        "fingerprint": "MOTOROLA/scorpion_mini_t/scorpion_mini_t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "201M",
+        "device": "smq_t",
+        "fingerprint": "MOTOROLA/smq_t/smq_t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "A853",
+        "device": "umts_sholes",
+        "fingerprint": "MOTOROLA/umts_sholes/umts_sholes:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "A854",
+        "device": "miler",
+        "fingerprint": "MOTOROLA/miler/miler:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "A953",
+        "device": "umts_milestone2",
+        "fingerprint": "MOTOROLA/umts_milestone2/umts_milestone2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "A955",
+        "device": "cdma_droid2",
+        "fingerprint": "MOTOROLA/cdma_droid2/cdma_droid2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CSV2K",
+        "device": "stanford",
+        "fingerprint": "MOTOROLA/stanford/stanford:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CSV4K",
+        "device": "zhongshan",
+        "fingerprint": "MOTOROLA/zhongshan/zhongshan:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "DROID BIONIC",
+        "device": "cdma_targa",
+        "fingerprint": "MOTOROLA/cdma_targa/cdma_targa:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "DROID PRO",
+        "device": "cdma_venus2",
+        "fingerprint": "MOTOROLA/cdma_venus2/cdma_venus2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "DROID Pro",
+        "device": "cdma_venus2",
+        "fingerprint": "MOTOROLA/cdma_venus2/cdma_venus2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "DROID RAZR HD",
+        "device": "vanquish",
+        "fingerprint": "MOTOROLA/vanquish/vanquish:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "DROID X2",
+        "device": "daytona",
+        "fingerprint": "MOTOROLA/daytona/daytona:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "DROID2",
+        "device": "cdma_droid2",
+        "fingerprint": "MOTOROLA/cdma_droid2/cdma_droid2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "DROID2 GLOBAL",
+        "device": "cdma_droid2we",
+        "fingerprint": "MOTOROLA/cdma_droid2we/cdma_droid2we:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "DROID3",
+        "device": "cdma_solana",
+        "fingerprint": "MOTOROLA/cdma_solana/cdma_solana:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "DROID4",
+        "device": "cdma_maserati",
+        "fingerprint": "MOTOROLA/cdma_maserati/cdma_maserati:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "DROIDX",
+        "device": "cdma_shadow",
+        "fingerprint": "MOTOROLA/cdma_shadow/cdma_shadow:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "DVM4KA01",
+        "device": "GMP",
+        "fingerprint": "MOTOROLA/gmp/gmp:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Defy 2",
+        "device": "BM2S1E",
+        "fingerprint": "MOTOROLA/bm2s1e/bm2s1e:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Devour",
+        "device": "calgary",
+        "fingerprint": "MOTOROLA/calgary/calgary:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Droid",
+        "device": "sholes",
+        "fingerprint": "MOTOROLA/sholes/sholes:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "EVOLVE",
+        "device": "EVOLVE",
+        "fingerprint": "MOTOROLA SOLUTIONS/evolve/evolve:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Hawaii",
+        "device": "hawaii",
+        "fingerprint": "MOTOROLA/hawaii/hawaii:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ISW11M",
+        "device": "sunfire",
+        "fingerprint": "MOTOROLA/sunfire/sunfire:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LEX F10",
+        "device": "LEXF10",
+        "fingerprint": "MOTOROLA SOLUTIONS/lexf10/lexf10:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LEX L10g",
+        "device": "lexl10g",
+        "fingerprint": "MOTOROLA SOLUTIONS/lexl10g/lexl10g:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LEX L10ig",
+        "device": "lexl10ig",
+        "fingerprint": "MOTOROLA SOLUTIONS/lexl10ig/lexl10ig:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LEX L11",
+        "device": "lexl11g_64",
+        "fingerprint": "MOTOROLA SOLUTIONS/lexl11g_64/lexl11g_64:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LEX L11a",
+        "device": "lexl11g_64",
+        "fingerprint": "MOTOROLA SOLUTIONS/lexl11g_64/lexl11g_64:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LEX L11e",
+        "device": "lexl11g_64",
+        "fingerprint": "MOTOROLA SOLUTIONS/lexl11g_64/lexl11g_64:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LEX L11j",
+        "device": "lexl11g_64",
+        "fingerprint": "MOTOROLA SOLUTIONS/lexl11g_64/lexl11g_64:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LEX L11l",
+        "device": "lexl11g_64",
+        "fingerprint": "MOTOROLA SOLUTIONS/lexl11g_64/lexl11g_64:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "M-51E",
+        "device": "M-51E",
+        "fingerprint": "MOTOROLA/m-51e/m-51e:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "M-51E",
+        "device": "M-51F",
+        "fingerprint": "MOTOROLA/m-51f/m-51f:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "M-51F",
+        "device": "M-51F",
+        "fingerprint": "MOTOROLA/m-51f/m-51f:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MB200",
+        "device": "morrison",
+        "fingerprint": "MOTOROLA/morrison/morrison:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MB300",
+        "device": "motus",
+        "fingerprint": "MOTOROLA/motus/motus:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MB501",
+        "device": "zeppelin",
+        "fingerprint": "MOTOROLA/zeppelin/zeppelin:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MB502",
+        "device": "umts_basil",
+        "fingerprint": "MOTOROLA/umts_basil/umts_basil:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MB511",
+        "device": "umts_ruth",
+        "fingerprint": "MOTOROLA/umts_ruth/umts_ruth:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MB525",
+        "device": "umts_jordan",
+        "fingerprint": "MOTOROLA/umts_jordan/umts_jordan:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MB526",
+        "device": "umts_jordan",
+        "fingerprint": "MOTOROLA/umts_jordan/umts_jordan:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MB810",
+        "device": "cdma_shadow",
+        "fingerprint": "MOTOROLA/cdma_shadow/cdma_shadow:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MB855",
+        "device": "sunfire",
+        "fingerprint": "MOTOROLA/sunfire/sunfire:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MB860",
+        "device": "olympus",
+        "fingerprint": "MOTOROLA/olympus/olympus:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MB861",
+        "device": "olympus",
+        "fingerprint": "MOTOROLA/olympus/olympus:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MB886",
+        "device": "qinara",
+        "fingerprint": "MOTOROLA/qinara/qinara:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ME501",
+        "device": "zeppelin",
+        "fingerprint": "MOTOROLA/zeppelin/zeppelin:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ME511",
+        "device": "umts_ruth",
+        "fingerprint": "MOTOROLA/umts_ruth/umts_ruth:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ME525",
+        "device": "umts_jordan",
+        "fingerprint": "MOTOROLA/umts_jordan/umts_jordan:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ME525+",
+        "device": "umts_jordan",
+        "fingerprint": "MOTOROLA/umts_jordan/umts_jordan:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ME600",
+        "device": "motus",
+        "fingerprint": "MOTOROLA/motus/motus:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ME722",
+        "device": "umts_milestone2",
+        "fingerprint": "MOTOROLA/umts_milestone2/umts_milestone2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ME811",
+        "device": "cdma_shadow",
+        "fingerprint": "MOTOROLA/cdma_shadow/cdma_shadow:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ME860",
+        "device": "olympus",
+        "fingerprint": "MOTOROLA/olympus/olympus:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MOT41F",
+        "device": "landen",
+        "fingerprint": "MOTOROLA/landen/landen:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MSLB-MKZ900",
+        "device": "mkz_sdm660_64",
+        "fingerprint": "MOTOROLA SOLUTIONS/mkz_sdm660_64/mkz_sdm660_64:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MSLB-MKZ900i",
+        "device": "mkz_sdm660_64",
+        "fingerprint": "MOTOROLA SOLUTIONS/mkz_sdm660_64/mkz_sdm660_64:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MSLB-MKZ900ti",
+        "device": "mkz_sdm660_64",
+        "fingerprint": "MOTOROLA SOLUTIONS/mkz_sdm660_64/mkz_sdm660_64:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MSLB-MKZ920",
+        "device": "mkz_sdm660_64",
+        "fingerprint": "MOTOROLA SOLUTIONS/mkz_sdm660_64/mkz_sdm660_64:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MSLB-MKZ920ti",
+        "device": "mkz_sdm660_64",
+        "fingerprint": "MOTOROLA SOLUTIONS/mkz_sdm660_64/mkz_sdm660_64:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MZ601",
+        "device": "umts_everest",
+        "fingerprint": "MOTOROLA/umts_everest/umts_everest:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MZ601",
+        "device": "umts_hubble",
+        "fingerprint": "MOTOROLA/umts_hubble/umts_hubble:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MZ604",
+        "device": "wifi_hubble",
+        "fingerprint": "MOTOROLA/wifi_hubble/wifi_hubble:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MZ605",
+        "device": "umts_hubble",
+        "fingerprint": "MOTOROLA/umts_hubble/umts_hubble:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MZ606",
+        "device": "wifi_hubble",
+        "fingerprint": "MOTOROLA/wifi_hubble/wifi_hubble:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MZ609",
+        "device": "fleming",
+        "fingerprint": "MOTOROLA/fleming/fleming:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MZ617",
+        "device": "pasteur",
+        "fingerprint": "MOTOROLA/pasteur/pasteur:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Milestone",
+        "device": "umts_sholes",
+        "fingerprint": "MOTOROLA/umts_sholes/umts_sholes:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Milestone PLUS",
+        "device": "cdma_venus2",
+        "fingerprint": "MOTOROLA/cdma_venus2/cdma_venus2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Milestone X",
+        "device": "cdma_shadow",
+        "fingerprint": "MOTOROLA/cdma_shadow/cdma_shadow:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Milestone X2",
+        "device": "daytona",
+        "fingerprint": "MOTOROLA/daytona/daytona:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Milestone XT720",
+        "device": "sholest",
+        "fingerprint": "MOTOROLA/sholest/sholest:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Moto 360",
+        "device": "minnow",
+        "fingerprint": "MOTOROLA/minnow/minnow:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Moto 360",
+        "device": "mola",
+        "fingerprint": "MOTOROLA/mola/mola:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Moto 360",
+        "device": "smelt",
+        "fingerprint": "MOTOROLA/smelt/smelt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Moto C",
+        "device": "namath",
+        "fingerprint": "MOTOROLA/namath/namath:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Moto C",
+        "device": "watson",
+        "fingerprint": "MOTOROLA/watson/watson:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Moto E",
+        "device": "nora_8917",
+        "fingerprint": "MOTOROLA/nora_8917/nora_8917:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Moto E",
+        "device": "nora_8917_n",
+        "fingerprint": "MOTOROLA/nora_8917_n/nora_8917_n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Moto E",
+        "device": "rhannah",
+        "fingerprint": "MOTOROLA/rhannah/rhannah:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Moto E",
+        "device": "pettyl",
+        "fingerprint": "MOTOROLA/pettyl/pettyl:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Moto E",
+        "device": "rjames_f",
+        "fingerprint": "MOTOROLA/rjames_f/rjames_f:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Moto E",
+        "device": "ahannah",
+        "fingerprint": "MOTOROLA/ahannah/ahannah:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Moto E",
+        "device": "hannah",
+        "fingerprint": "MOTOROLA/hannah/hannah:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Moto E (4)",
+        "device": "perry",
+        "fingerprint": "MOTOROLA/perry/perry:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Moto E (4)",
+        "device": "perry_f",
+        "fingerprint": "MOTOROLA/perry_f/perry_f:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Moto E (4)",
+        "device": "sperry",
+        "fingerprint": "MOTOROLA/sperry/sperry:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Moto E (4)",
+        "device": "woods_f",
+        "fingerprint": "MOTOROLA/woods_f/woods_f:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Moto E (4)",
+        "device": "woods_fn",
+        "fingerprint": "MOTOROLA/woods_fn/woods_fn:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Moto E (4) Plus",
+        "device": "nicklaus_f",
+        "fingerprint": "MOTOROLA/nicklaus_f/nicklaus_f:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Moto E (4) Plus",
+        "device": "nicklaus_fn",
+        "fingerprint": "MOTOROLA/nicklaus_fn/nicklaus_fn:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Moto E (4) Plus",
+        "device": "owens",
+        "fingerprint": "MOTOROLA/owens/owens:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Moto G (4)",
+        "device": "sanders_n",
+        "fingerprint": "MOTOROLA/sanders_n/sanders_n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Moto G (4)",
+        "device": "sanders_nt",
+        "fingerprint": "MOTOROLA/sanders_nt/sanders_nt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Moto G (4)",
+        "device": "athene",
+        "fingerprint": "MOTOROLA/athene/athene:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Moto G (4)",
+        "device": "athene_t",
+        "fingerprint": "MOTOROLA/athene_t/athene_t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Moto G (4)",
+        "device": "athene_f",
+        "fingerprint": "MOTOROLA/athene_f/athene_f:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Moto G (5)",
+        "device": "cedric",
+        "fingerprint": "MOTOROLA/cedric/cedric:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Moto G (5) Plus",
+        "device": "evert_n",
+        "fingerprint": "MOTOROLA/evert_n/evert_n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Moto G (5S)",
+        "device": "montana",
+        "fingerprint": "MOTOROLA/montana/montana:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Moto G (5S)",
+        "device": "montana_n",
+        "fingerprint": "MOTOROLA/montana_n/montana_n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Moto G (5S) Plus",
+        "device": "sanders",
+        "fingerprint": "MOTOROLA/sanders/sanders:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Moto G (5S) Plus",
+        "device": "sanders_n",
+        "fingerprint": "MOTOROLA/sanders_n/sanders_n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Moto G (5S) Plus",
+        "device": "sanders_nt",
+        "fingerprint": "MOTOROLA/sanders_nt/sanders_nt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Moto G Play",
+        "device": "harpia_n",
+        "fingerprint": "MOTOROLA/harpia_n/harpia_n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Moto G Play",
+        "device": "harpia",
+        "fingerprint": "MOTOROLA/harpia/harpia:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Moto G Play",
+        "device": "harpia_t",
+        "fingerprint": "MOTOROLA/harpia_t/harpia_t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Moto G Play",
+        "device": "aljeter",
+        "fingerprint": "MOTOROLA/aljeter/aljeter:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Moto G Play",
+        "device": "aljeter_n",
+        "fingerprint": "MOTOROLA/aljeter_n/aljeter_n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Moto G Play",
+        "device": "jeter",
+        "fingerprint": "MOTOROLA/jeter/jeter:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Moto X Play",
+        "device": "lux",
+        "fingerprint": "MOTOROLA/lux/lux:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Moto X Play",
+        "device": "lux_uds",
+        "fingerprint": "MOTOROLA/lux_uds/lux_uds:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Moto X Pro",
+        "device": "shamu_t",
+        "fingerprint": "MOTOROLA/shamu_t/shamu_t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Moto Z (2)",
+        "device": "nash",
+        "fingerprint": "MOTOROLA/nash/nash:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Moto Z (2)",
+        "device": "messi",
+        "fingerprint": "MOTOROLA/messi/messi:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Moto Z2 Play",
+        "device": "albus",
+        "fingerprint": "MOTOROLA/albus/albus:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Moto Z3 Play",
+        "device": "beckham",
+        "fingerprint": "MOTOROLA/beckham/beckham:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Moto Z3 Play",
+        "device": "foles",
+        "fingerprint": "MOTOROLA/foles/foles:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MotoA953",
+        "device": "umts_milestone2",
+        "fingerprint": "MOTOROLA/umts_milestone2/umts_milestone2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MotoE2",
+        "device": "otus",
+        "fingerprint": "MOTOROLA/otus/otus:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MotoE2",
+        "device": "otus_ds",
+        "fingerprint": "MOTOROLA/otus_ds/otus_ds:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MotoE2",
+        "device": "surnia_cdma",
+        "fingerprint": "MOTOROLA/surnia_cdma/surnia_cdma:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MotoE2(4G-LTE)",
+        "device": "surnia_cdma",
+        "fingerprint": "MOTOROLA/surnia_cdma/surnia_cdma:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MotoE2(4G-LTE)",
+        "device": "surnia_uds",
+        "fingerprint": "MOTOROLA/surnia_uds/surnia_uds:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MotoE2(4G-LTE)",
+        "device": "surnia_umts",
+        "fingerprint": "MOTOROLA/surnia_umts/surnia_umts:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MotoG3",
+        "device": "osprey_cdma",
+        "fingerprint": "MOTOROLA/osprey_cdma/osprey_cdma:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MotoG3",
+        "device": "osprey_u2",
+        "fingerprint": "MOTOROLA/osprey_u2/osprey_u2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MotoG3",
+        "device": "osprey_ud2",
+        "fingerprint": "MOTOROLA/osprey_ud2/osprey_ud2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MotoG3",
+        "device": "osprey_uds",
+        "fingerprint": "MOTOROLA/osprey_uds/osprey_uds:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MotoG3",
+        "device": "osprey_umts",
+        "fingerprint": "MOTOROLA/osprey_umts/osprey_umts:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MotoG3",
+        "device": "merlin",
+        "fingerprint": "MOTOROLA/merlin/merlin:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MotoG3-TE",
+        "device": "merlin",
+        "fingerprint": "MOTOROLA/merlin/merlin:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MotoMB511",
+        "device": "umts_ruth",
+        "fingerprint": "MOTOROLA/umts_ruth/umts_ruth:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MotoroiX",
+        "device": "cdma_shadow",
+        "fingerprint": "MOTOROLA/cdma_shadow/cdma_shadow:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Motorola Defy",
+        "device": "bathena",
+        "fingerprint": "MOTOROLA/bathena/bathena:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Motorola Electrify",
+        "device": "sunfire",
+        "fingerprint": "MOTOROLA/sunfire/sunfire:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Motorola MOT-XT681",
+        "device": "ironmaxct_cdma",
+        "fingerprint": "MOTOROLA/ironmaxct_cdma/ironmaxct_cdma:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Motorola Titanium",
+        "device": "rubicon",
+        "fingerprint": "MOTOROLA/rubicon/rubicon:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Motorola XT720",
+        "device": "sholest",
+        "fingerprint": "MOTOROLA/sholest/sholest:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Motorola-XT502",
+        "device": "XT502",
+        "fingerprint": "MOTOROLA/xt502/xt502:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Motorola_HS1",
+        "device": "Motorola_HS1",
+        "fingerprint": "MOTOROLA/motorola_hs1/motorola_hs1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nexus 6",
+        "device": "shamu",
+        "fingerprint": "MOTOROLA/shamu/shamu:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "RAZR HD",
+        "device": "vanquish_u",
+        "fingerprint": "MOTOROLA/vanquish_u/vanquish_u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "SabahLite",
+        "device": "sabahl",
+        "fingerprint": "MOTOROLA/sabahl/sabahl:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TC55",
+        "device": "TC55",
+        "fingerprint": "MOTOROLA SOLUTIONS/tc55/tc55:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TC55CH",
+        "device": "TC55CH",
+        "fingerprint": "MOTOROLA SOLUTIONS/tc55ch/tc55ch:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ThinkPhone 25 by motorola",
+        "device": "vienna",
+        "fingerprint": "MOTOROLA/vienna/vienna:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ThinkPhone by motorola",
+        "device": "bronco",
+        "fingerprint": "MOTOROLA/bronco/bronco:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Titanium",
+        "device": "rubicon",
+        "fingerprint": "MOTOROLA/rubicon/rubicon:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "WX442",
+        "device": "cdma_ciena",
+        "fingerprint": "MOTOROLA/cdma_ciena/cdma_ciena:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "WX445",
+        "device": "cdma_ciena",
+        "fingerprint": "MOTOROLA/cdma_ciena/cdma_ciena:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT0000",
+        "device": "otus",
+        "fingerprint": "MOTOROLA/otus/otus:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1002",
+        "device": "falcon_umts",
+        "fingerprint": "MOTOROLA/falcon_umts/falcon_umts:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1003",
+        "device": "falcon_umts",
+        "fingerprint": "MOTOROLA/falcon_umts/falcon_umts:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1008",
+        "device": "falcon_umts",
+        "fingerprint": "MOTOROLA/falcon_umts/falcon_umts:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1019",
+        "device": "condor_cdma",
+        "fingerprint": "MOTOROLA/condor_cdma/condor_cdma:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1021",
+        "device": "lux",
+        "fingerprint": "MOTOROLA/lux/lux:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1021",
+        "device": "condor_umts",
+        "fingerprint": "MOTOROLA/condor_umts/condor_umts:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1021",
+        "device": "otus_ds",
+        "fingerprint": "MOTOROLA/otus_ds/otus_ds:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1021",
+        "device": "lux_uds",
+        "fingerprint": "MOTOROLA/lux_uds/lux_uds:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1022",
+        "device": "condor_umtsds",
+        "fingerprint": "MOTOROLA/condor_umtsds/condor_umtsds:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1023",
+        "device": "condor_umts",
+        "fingerprint": "MOTOROLA/condor_umts/condor_umts:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1028",
+        "device": "falcon_cdma",
+        "fingerprint": "MOTOROLA/falcon_cdma/falcon_cdma:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1030",
+        "device": "obakem",
+        "fingerprint": "MOTOROLA/obakem/obakem:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1031",
+        "device": "falcon_cdma",
+        "fingerprint": "MOTOROLA/falcon_cdma/falcon_cdma:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1032",
+        "device": "falcon_umts",
+        "fingerprint": "MOTOROLA/falcon_umts/falcon_umts:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1033",
+        "device": "falcon_umtsds",
+        "fingerprint": "MOTOROLA/falcon_umtsds/falcon_umtsds:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1034",
+        "device": "falcon_umts",
+        "fingerprint": "MOTOROLA/falcon_umts/falcon_umts:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1039",
+        "device": "peregrine",
+        "fingerprint": "MOTOROLA/peregrine/peregrine:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1040",
+        "device": "peregrine",
+        "fingerprint": "MOTOROLA/peregrine/peregrine:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1042",
+        "device": "peregrine",
+        "fingerprint": "MOTOROLA/peregrine/peregrine:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1045",
+        "device": "peregrine",
+        "fingerprint": "MOTOROLA/peregrine/peregrine:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1049",
+        "device": "ghost",
+        "fingerprint": "MOTOROLA/ghost/ghost:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1050",
+        "device": "ghost",
+        "fingerprint": "MOTOROLA/ghost/ghost:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1052",
+        "device": "ghost",
+        "fingerprint": "MOTOROLA/ghost/ghost:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1053",
+        "device": "ghost",
+        "fingerprint": "MOTOROLA/ghost/ghost:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1055",
+        "device": "ghost",
+        "fingerprint": "MOTOROLA/ghost/ghost:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1056",
+        "device": "ghost",
+        "fingerprint": "MOTOROLA/ghost/ghost:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1058",
+        "device": "ghost",
+        "fingerprint": "MOTOROLA/ghost/ghost:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1060",
+        "device": "ghost",
+        "fingerprint": "MOTOROLA/ghost/ghost:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1063",
+        "device": "titan_umts",
+        "fingerprint": "MOTOROLA/titan_umts/titan_umts:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1063",
+        "device": "thea_umtsds",
+        "fingerprint": "MOTOROLA/thea_umtsds/thea_umtsds:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1064",
+        "device": "titan_umts",
+        "fingerprint": "MOTOROLA/titan_umts/titan_umts:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1068",
+        "device": "titan_umtsds",
+        "fingerprint": "MOTOROLA/titan_umtsds/titan_umtsds:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1072",
+        "device": "thea",
+        "fingerprint": "MOTOROLA/thea/thea:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1077",
+        "device": "thea_ds",
+        "fingerprint": "MOTOROLA/thea_ds/thea_ds:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1078",
+        "device": "thea_umtsds",
+        "fingerprint": "MOTOROLA/thea_umtsds/thea_umtsds:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1079",
+        "device": "thea_ds",
+        "fingerprint": "MOTOROLA/thea_ds/thea_ds:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1080",
+        "device": "obake-maxx",
+        "fingerprint": "MOTOROLA/obake-maxx/obake-maxx:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1080",
+        "device": "obake",
+        "fingerprint": "MOTOROLA/obake/obake:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1085",
+        "device": "victara",
+        "fingerprint": "MOTOROLA/victara/victara:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1092",
+        "device": "victara",
+        "fingerprint": "MOTOROLA/victara/victara:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1093",
+        "device": "victara",
+        "fingerprint": "MOTOROLA/victara/victara:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1094",
+        "device": "victara",
+        "fingerprint": "MOTOROLA/victara/victara:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1095",
+        "device": "victara",
+        "fingerprint": "MOTOROLA/victara/victara:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1096",
+        "device": "victara",
+        "fingerprint": "MOTOROLA/victara/victara:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1097",
+        "device": "victara",
+        "fingerprint": "MOTOROLA/victara/victara:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1098",
+        "device": "victara",
+        "fingerprint": "MOTOROLA/victara/victara:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1225",
+        "device": "quark_umts",
+        "fingerprint": "MOTOROLA/quark_umts/quark_umts:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1250",
+        "device": "quark",
+        "fingerprint": "MOTOROLA/quark/quark:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1254",
+        "device": "quark",
+        "fingerprint": "MOTOROLA/quark/quark:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1526",
+        "device": "surnia_cdma",
+        "fingerprint": "MOTOROLA/surnia_cdma/surnia_cdma:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1528",
+        "device": "surnia_cdma",
+        "fingerprint": "MOTOROLA/surnia_cdma/surnia_cdma:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1528O",
+        "device": "surnia_cdma",
+        "fingerprint": "MOTOROLA/surnia_cdma/surnia_cdma:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1562",
+        "device": "lux",
+        "fingerprint": "MOTOROLA/lux/lux:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1562",
+        "device": "lux_uds",
+        "fingerprint": "MOTOROLA/lux_uds/lux_uds:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1563",
+        "device": "lux",
+        "fingerprint": "MOTOROLA/lux/lux:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1563",
+        "device": "lux_uds",
+        "fingerprint": "MOTOROLA/lux_uds/lux_uds:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1563",
+        "device": "addison",
+        "fingerprint": "MOTOROLA/addison/addison:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1564",
+        "device": "lux",
+        "fingerprint": "MOTOROLA/lux/lux:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1565",
+        "device": "lux",
+        "fingerprint": "MOTOROLA/lux/lux:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1570",
+        "device": "clark_ds",
+        "fingerprint": "MOTOROLA/clark_ds/clark_ds:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1572",
+        "device": "clark",
+        "fingerprint": "MOTOROLA/clark/clark:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1572",
+        "device": "clark_ds",
+        "fingerprint": "MOTOROLA/clark_ds/clark_ds:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1575",
+        "device": "clark",
+        "fingerprint": "MOTOROLA/clark/clark:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1580",
+        "device": "kinzie",
+        "fingerprint": "MOTOROLA/kinzie/kinzie:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1580",
+        "device": "kinzie_uds",
+        "fingerprint": "MOTOROLA/kinzie_uds/kinzie_uds:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1581",
+        "device": "kinzie_uds",
+        "fingerprint": "MOTOROLA/kinzie_uds/kinzie_uds:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1585",
+        "device": "kinzie",
+        "fingerprint": "MOTOROLA/kinzie/kinzie:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1609",
+        "device": "harpia",
+        "fingerprint": "MOTOROLA/harpia/harpia:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1635-01",
+        "device": "addison",
+        "fingerprint": "MOTOROLA/addison/addison:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1635-02",
+        "device": "addison",
+        "fingerprint": "MOTOROLA/addison/addison:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1635-03",
+        "device": "addison",
+        "fingerprint": "MOTOROLA/addison/addison:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1650",
+        "device": "griffin",
+        "fingerprint": "MOTOROLA/griffin/griffin:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1650-05",
+        "device": "griffin",
+        "fingerprint": "MOTOROLA/griffin/griffin:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1662",
+        "device": "kungfu_m",
+        "fingerprint": "LENOVO/kungfu_m/kungfu_m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1663",
+        "device": "XT1663",
+        "fingerprint": "LENOVO/xt1663/xt1663:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1700",
+        "device": "taidos_row",
+        "fingerprint": "MOTOROLA/taidos_row/taidos_row:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1706",
+        "device": "taido_row",
+        "fingerprint": "MOTOROLA/taido_row/taido_row:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1710-02",
+        "device": "albus",
+        "fingerprint": "MOTOROLA/albus/albus:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1710-08",
+        "device": "albus",
+        "fingerprint": "MOTOROLA/albus/albus:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1710-11",
+        "device": "albus",
+        "fingerprint": "MOTOROLA/albus/albus:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1754",
+        "device": "namath",
+        "fingerprint": "MOTOROLA/namath/namath:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1755",
+        "device": "namath",
+        "fingerprint": "MOTOROLA/namath/namath:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1789-05",
+        "device": "payton",
+        "fingerprint": "MOTOROLA/payton/payton:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1789-05",
+        "device": "nash",
+        "fingerprint": "MOTOROLA/nash/nash:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1790",
+        "device": "ali_n",
+        "fingerprint": "MOTOROLA/ali_n/ali_n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1799-1",
+        "device": "montana",
+        "fingerprint": "MOTOROLA/montana/montana:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1799-2",
+        "device": "montana_n",
+        "fingerprint": "MOTOROLA/montana_n/montana_n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1924-9",
+        "device": "ahannah",
+        "fingerprint": "MOTOROLA/ahannah/ahannah:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1925-10",
+        "device": "ali",
+        "fingerprint": "MOTOROLA/ali/ali:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1929-15",
+        "device": "messi",
+        "fingerprint": "MOTOROLA/messi/messi:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1941-2",
+        "device": "deen",
+        "fingerprint": "MOTOROLA/deen/deen:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1942-1",
+        "device": "chef",
+        "fingerprint": "MOTOROLA/chef/chef:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1943-1",
+        "device": "robusta",
+        "fingerprint": "MOTOROLA/robusta/robusta:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1965-6",
+        "device": "lake",
+        "fingerprint": "MOTOROLA/lake/lake:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1970-5",
+        "device": "kane",
+        "fingerprint": "MOTOROLA/kane/kane:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT2071-4",
+        "device": "smith",
+        "fingerprint": "MOTOROLA/smith/smith:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT2125-4",
+        "device": "nio",
+        "fingerprint": "MOTOROLA/nio/nio:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT2137-2",
+        "device": "ibiza",
+        "fingerprint": "MOTOROLA/ibiza/ibiza:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT2153-1",
+        "device": "pstar",
+        "fingerprint": "MOTOROLA/pstar/pstar:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT2169-2",
+        "device": "rhodep",
+        "fingerprint": "MOTOROLA/rhodep/rhodep:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT2171-3",
+        "device": "cypfq",
+        "fingerprint": "MOTOROLA/cypfq/cypfq:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT2175-2",
+        "device": "xpeng",
+        "fingerprint": "MOTOROLA/xpeng/xpeng:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT2201-2",
+        "device": "hiphic",
+        "fingerprint": "MOTOROLA/hiphic/hiphic:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT2225-2",
+        "device": "rhodep",
+        "fingerprint": "MOTOROLA/rhodep/rhodep:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT2243-2",
+        "device": "tundra",
+        "fingerprint": "MOTOROLA/tundra/tundra:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT2251-1",
+        "device": "oneli",
+        "fingerprint": "MOTOROLA/oneli/oneli:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT2301-5",
+        "device": "rtwo",
+        "fingerprint": "MOTOROLA/rtwo/rtwo:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT2321-2",
+        "device": "zeekr",
+        "fingerprint": "MOTOROLA/zeekr/zeekr:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT2323-3",
+        "device": "lynkco",
+        "fingerprint": "MOTOROLA/lynkco/lynkco:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT2335-3",
+        "device": "penang",
+        "fingerprint": "MOTOROLA/penang/penang:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT2343-3",
+        "device": "cancunf",
+        "fingerprint": "MOTOROLA/cancunf/cancunf:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT2363-4",
+        "device": "fogos",
+        "fingerprint": "MOTOROLA/fogos/fogos:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT2427-4",
+        "device": "malmo",
+        "fingerprint": "MOTOROLA/malmo/malmo:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT2451-4",
+        "device": "arcfox",
+        "fingerprint": "MOTOROLA/arcfox/arcfox:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT2453-2",
+        "device": "aito",
+        "fingerprint": "MOTOROLA/aito/aito:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT2533-4",
+        "device": "portov",
+        "fingerprint": "MOTOROLA/portov/portov:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT2551-3",
+        "device": "leap",
+        "fingerprint": "MOTOROLA/leap/leap:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT2601-1",
+        "device": "roadstr",
+        "fingerprint": "MOTOROLA/roadstr/roadstr:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT2603-1",
+        "device": "vantage",
+        "fingerprint": "MOTOROLA/vantage/vantage:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT300",
+        "device": "sesame",
+        "fingerprint": "MOTOROLA/sesame/sesame:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT301",
+        "device": "cdma_ciena",
+        "fingerprint": "MOTOROLA/cdma_ciena/cdma_ciena:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT320",
+        "device": "TinBoost",
+        "fingerprint": "MOTOROLA/tinboost/tinboost:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT320",
+        "device": "tinboost_umts",
+        "fingerprint": "MOTOROLA/tinboost_umts/tinboost_umts:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT321",
+        "device": "TinBoost",
+        "fingerprint": "MOTOROLA/tinboost/tinboost:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT321",
+        "device": "tinboost_umts",
+        "fingerprint": "MOTOROLA/tinboost_umts/tinboost_umts:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT535",
+        "device": "XT535",
+        "fingerprint": "MOTOROLA/xt535/xt535:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT535",
+        "device": "tinboostplus_umts",
+        "fingerprint": "MOTOROLA/tinboostplus_umts/tinboostplus_umts:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT555C",
+        "device": "tinboostplus_cdma",
+        "fingerprint": "MOTOROLA/tinboostplus_cdma/tinboostplus_cdma:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT556",
+        "device": "tinboostplus_cdma",
+        "fingerprint": "MOTOROLA/tinboostplus_cdma/tinboostplus_cdma:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT557",
+        "device": "tinboostplus_cdma",
+        "fingerprint": "MOTOROLA/tinboostplus_cdma/tinboostplus_cdma:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT560",
+        "device": "XT560",
+        "fingerprint": "MOTOROLA/xt560/xt560:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT605",
+        "device": "umts_jorian",
+        "fingerprint": "MOTOROLA/umts_jorian/umts_jorian:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT610",
+        "device": "cdma_venus2",
+        "fingerprint": "MOTOROLA/cdma_venus2/cdma_venus2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT611",
+        "device": "XT611",
+        "fingerprint": "MOTOROLA/xt611/xt611:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT615",
+        "device": "XT615",
+        "fingerprint": "MOTOROLA/xt615/xt615:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT615",
+        "device": "ironmax_umts",
+        "fingerprint": "MOTOROLA/ironmax_umts/ironmax_umts:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT621",
+        "device": "umts_primus",
+        "fingerprint": "MOTOROLA/umts_primus/umts_primus:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT626",
+        "device": "umts_irock",
+        "fingerprint": "MOTOROLA/umts_irock/umts_irock:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT627",
+        "device": "umts_irock",
+        "fingerprint": "MOTOROLA/umts_irock/umts_irock:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT682",
+        "device": "XT682",
+        "fingerprint": "MOTOROLA/xt682/xt682:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT685",
+        "device": "ironmax_umts",
+        "fingerprint": "MOTOROLA/ironmax_umts/ironmax_umts:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT701",
+        "device": "umts_sholes",
+        "fingerprint": "MOTOROLA/umts_sholes/umts_sholes:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT702",
+        "device": "umts_sholes",
+        "fingerprint": "MOTOROLA/umts_sholes/umts_sholes:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT720",
+        "device": "umts_sholes",
+        "fingerprint": "MOTOROLA/umts_sholes/umts_sholes:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT720",
+        "device": "sholest",
+        "fingerprint": "MOTOROLA/sholest/sholest:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT800",
+        "device": "titanium",
+        "fingerprint": "MOTOROLA/titanium/titanium:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT830C",
+        "device": "condor_cdma",
+        "fingerprint": "MOTOROLA/condor_cdma/condor_cdma:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT881",
+        "device": "cdma_yangtze",
+        "fingerprint": "MOTOROLA/cdma_yangtze/cdma_yangtze:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT885",
+        "device": "umts_yangtze",
+        "fingerprint": "MOTOROLA/umts_yangtze/umts_yangtze:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT886",
+        "device": "umts_yangtze",
+        "fingerprint": "MOTOROLA/umts_yangtze/umts_yangtze:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT890",
+        "device": "smi",
+        "fingerprint": "MOTOROLA/smi/smi:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT897",
+        "device": "asanti_c",
+        "fingerprint": "MOTOROLA/asanti_c/asanti_c:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT897S",
+        "device": "asanti_c",
+        "fingerprint": "MOTOROLA/asanti_c/asanti_c:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT901",
+        "device": "solstice",
+        "fingerprint": "MOTOROLA/solstice/solstice:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT907",
+        "device": "scorpion_mini",
+        "fingerprint": "MOTOROLA/scorpion_mini/scorpion_mini:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT907",
+        "device": "smq",
+        "fingerprint": "MOTOROLA/smq/smq:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT910",
+        "device": "umts_spyder",
+        "fingerprint": "MOTOROLA/umts_spyder/umts_spyder:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT914",
+        "device": "hawk35_umts",
+        "fingerprint": "MOTOROLA/hawk35_umts/hawk35_umts:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT915",
+        "device": "hawk35_umts",
+        "fingerprint": "MOTOROLA/hawk35_umts/hawk35_umts:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT916",
+        "device": "hawk35_umts",
+        "fingerprint": "MOTOROLA/hawk35_umts/hawk35_umts:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT918",
+        "device": "hawk35_umts",
+        "fingerprint": "MOTOROLA/hawk35_umts/hawk35_umts:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT919",
+        "device": "hawk40_umts",
+        "fingerprint": "MOTOROLA/hawk40_umts/hawk40_umts:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT920",
+        "device": "hawk40_umts",
+        "fingerprint": "MOTOROLA/hawk40_umts/hawk40_umts:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT925",
+        "device": "vanquish_u",
+        "fingerprint": "MOTOROLA/vanquish_u/vanquish_u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT937C",
+        "device": "falcon_cdma",
+        "fingerprint": "MOTOROLA/falcon_cdma/falcon_cdma:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT939G",
+        "device": "falcon_umts",
+        "fingerprint": "MOTOROLA/falcon_umts/falcon_umts:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Xoom",
+        "device": "stingray",
+        "fingerprint": "MOTOROLA/stingray/stingray:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Xoom",
+        "device": "wingray",
+        "fingerprint": "MOTOROLA/wingray/wingray:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "aruba",
+        "device": "aruba",
+        "fingerprint": "MOTOROLA/aruba/aruba:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "calgary",
+        "device": "calgary",
+        "fingerprint": "MOTOROLA/calgary/calgary:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "cancun",
+        "device": "cancun",
+        "fingerprint": "MOTOROLA/cancun/cancun:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "cyprus",
+        "device": "cyprus",
+        "fingerprint": "MOTOROLA/cyprus/cyprus:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "cyprus64",
+        "device": "cyprus64",
+        "fingerprint": "MOTOROLA/cyprus64/cyprus64:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "fijisc",
+        "device": "fijisc",
+        "fingerprint": "MOTOROLA/fijisc/fijisc:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "lamu_g",
+        "device": "lamul",
+        "fingerprint": "MOTOROLA/lamul/lamul:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "lamu_g",
+        "device": "lamu",
+        "fingerprint": "MOTOROLA/lamu/lamu:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "lion",
+        "device": "lion",
+        "fingerprint": "MOTOROLA/lion/lion:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "malta",
+        "device": "malta",
+        "fingerprint": "MOTOROLA/malta/malta:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "maltalsc",
+        "device": "maltalsc",
+        "fingerprint": "MOTOROLA/maltalsc/maltalsc:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "morrison",
+        "device": "morrison",
+        "fingerprint": "MOTOROLA/morrison/morrison:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto",
+        "device": "borag",
+        "fingerprint": "MOTOROLA/borag/borag:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto",
+        "device": "borago",
+        "fingerprint": "MOTOROLA/borago/borago:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto e",
+        "device": "ginna",
+        "fingerprint": "MOTOROLA/ginna/ginna:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto e (XT2052DL)",
+        "device": "ginna",
+        "fingerprint": "MOTOROLA/ginna/ginna:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto e(6i)",
+        "device": "fijisc",
+        "fingerprint": "MOTOROLA/fijisc/fijisc:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto e(7)",
+        "device": "malta",
+        "fingerprint": "MOTOROLA/malta/malta:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto e(7) plus",
+        "device": "guam",
+        "fingerprint": "MOTOROLA/guam/guam:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto e(7) plus",
+        "device": "capri",
+        "fingerprint": "MOTOROLA/capri/capri:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto e(7) power",
+        "device": "malta",
+        "fingerprint": "MOTOROLA/malta/malta:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto e(7i) power",
+        "device": "maltalsc",
+        "fingerprint": "MOTOROLA/maltalsc/maltalsc:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto e13",
+        "device": "sabahl",
+        "fingerprint": "MOTOROLA/sabahl/sabahl:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto e20",
+        "device": "aruba",
+        "fingerprint": "MOTOROLA/aruba/aruba:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto e22",
+        "device": "borag",
+        "fingerprint": "MOTOROLA/borag/borag:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto e22i",
+        "device": "borago",
+        "fingerprint": "MOTOROLA/borago/borago:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto e30",
+        "device": "cyprus",
+        "fingerprint": "MOTOROLA/cyprus/cyprus:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto e32",
+        "device": "hawaii",
+        "fingerprint": "MOTOROLA/hawaii/hawaii:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto e40",
+        "device": "cyprus64",
+        "fingerprint": "MOTOROLA/cyprus64/cyprus64:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto e5",
+        "device": "nora_8917",
+        "fingerprint": "MOTOROLA/nora_8917/nora_8917:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto e5",
+        "device": "nora_8917_n",
+        "fingerprint": "MOTOROLA/nora_8917_n/nora_8917_n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto e5 (XT1920DL)",
+        "device": "nora",
+        "fingerprint": "MOTOROLA/nora/nora:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto e5 cruise",
+        "device": "james",
+        "fingerprint": "MOTOROLA/james/james:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto e5 go",
+        "device": "rjames_go",
+        "fingerprint": "MOTOROLA/rjames_go/rjames_go:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto e5 play",
+        "device": "rjames_f",
+        "fingerprint": "MOTOROLA/rjames_f/rjames_f:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto e5 play",
+        "device": "james",
+        "fingerprint": "MOTOROLA/james/james:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto e5 play",
+        "device": "pettyl",
+        "fingerprint": "MOTOROLA/pettyl/pettyl:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto e5 plus",
+        "device": "rhannah",
+        "fingerprint": "MOTOROLA/rhannah/rhannah:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto e5 plus",
+        "device": "ahannah",
+        "fingerprint": "MOTOROLA/ahannah/ahannah:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto e5 plus",
+        "device": "hannah",
+        "fingerprint": "MOTOROLA/hannah/hannah:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto e5 supra",
+        "device": "hannah",
+        "fingerprint": "MOTOROLA/hannah/hannah:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto e6",
+        "device": "surfna",
+        "fingerprint": "MOTOROLA/surfna/surfna:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto e6",
+        "device": "fiji",
+        "fingerprint": "MOTOROLA/fiji/fiji:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto e6 (XT2005DL)",
+        "device": "surfna",
+        "fingerprint": "MOTOROLA/surfna/surfna:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto e6 play",
+        "device": "bali",
+        "fingerprint": "MOTOROLA/bali/bali:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto e6s",
+        "device": "fiji",
+        "fingerprint": "MOTOROLA/fiji/fiji:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g - 2025",
+        "device": "kansas",
+        "fingerprint": "MOTOROLA/kansas/kansas:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g - 2025",
+        "device": "naples",
+        "fingerprint": "MOTOROLA/naples/naples:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g 5G",
+        "device": "kiev",
+        "fingerprint": "MOTOROLA/kiev/kiev:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g 5G (2022)",
+        "device": "austin",
+        "fingerprint": "MOTOROLA/austin/austin:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g 5G (2022)",
+        "device": "gnevan",
+        "fingerprint": "MOTOROLA/gnevan/gnevan:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g 5G (2022)",
+        "device": "lyriq",
+        "fingerprint": "MOTOROLA/lyriq/lyriq:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g 5G - 2023",
+        "device": "pnangn",
+        "fingerprint": "MOTOROLA/pnangn/pnangn:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g 5G - 2023",
+        "device": "fogo",
+        "fingerprint": "MOTOROLA/fogo/fogo:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g 5G - 2024",
+        "device": "fogo",
+        "fingerprint": "MOTOROLA/fogo/fogo:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g 5G plus",
+        "device": "nairo",
+        "fingerprint": "MOTOROLA/nairo/nairo:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g fast",
+        "device": "rav",
+        "fingerprint": "MOTOROLA/rav/rav:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g play (2021)",
+        "device": "guamna",
+        "fingerprint": "MOTOROLA/guamna/guamna:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g play (XT2093DL)",
+        "device": "guamna",
+        "fingerprint": "MOTOROLA/guamna/guamna:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g play - 2024",
+        "device": "kansas",
+        "fingerprint": "MOTOROLA/kansas/kansas:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g play - 2024",
+        "device": "fogona",
+        "fingerprint": "MOTOROLA/fogona/fogona:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g play - 2024",
+        "device": "cybert",
+        "fingerprint": "MOTOROLA/cybert/cybert:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g power",
+        "device": "sofia",
+        "fingerprint": "MOTOROLA/sofia/sofia:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g power",
+        "device": "borneo",
+        "fingerprint": "MOTOROLA/borneo/borneo:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g power",
+        "device": "ellis",
+        "fingerprint": "MOTOROLA/ellis/ellis:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g power (2021)",
+        "device": "borneo",
+        "fingerprint": "MOTOROLA/borneo/borneo:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g power (2022)",
+        "device": "tonga",
+        "fingerprint": "MOTOROLA/tonga/tonga:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g power (XT2041DL)",
+        "device": "sofia",
+        "fingerprint": "MOTOROLA/sofia/sofia:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g power - 2025",
+        "device": "vegas",
+        "fingerprint": "MOTOROLA/vegas/vegas:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g power - 2025",
+        "device": "vegas26",
+        "fingerprint": "MOTOROLA/vegas26/vegas26:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g power - 2026",
+        "device": "vegas26",
+        "fingerprint": "MOTOROLA/vegas26/vegas26:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g power 5G - 2023",
+        "device": "devonn",
+        "fingerprint": "MOTOROLA/devonn/devonn:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g power 5G - 2023",
+        "device": "cancunn",
+        "fingerprint": "MOTOROLA/cancunn/cancunn:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g power 5G - 2024",
+        "device": "vegas",
+        "fingerprint": "MOTOROLA/vegas/vegas:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g power 5G - 2024",
+        "device": "cancunn",
+        "fingerprint": "MOTOROLA/cancunn/cancunn:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g pro",
+        "device": "sofiap_sprout",
+        "fingerprint": "MOTOROLA/sofiap_sprout/sofiap_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g pure",
+        "device": "austin",
+        "fingerprint": "MOTOROLA/austin/austin:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g pure",
+        "device": "ellis",
+        "fingerprint": "MOTOROLA/ellis/ellis:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g stylus",
+        "device": "sofiap",
+        "fingerprint": "MOTOROLA/sofiap/sofiap:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g stylus",
+        "device": "minsk",
+        "fingerprint": "MOTOROLA/minsk/minsk:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g stylus (2021)",
+        "device": "minsk",
+        "fingerprint": "MOTOROLA/minsk/minsk:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g stylus (2021)",
+        "device": "denver",
+        "fingerprint": "MOTOROLA/denver/denver:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g stylus (2022)",
+        "device": "milan",
+        "fingerprint": "MOTOROLA/milan/milan:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g stylus (2023)",
+        "device": "gnevan",
+        "fingerprint": "MOTOROLA/gnevan/gnevan:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g stylus (XT2115DL)",
+        "device": "minsk",
+        "fingerprint": "MOTOROLA/minsk/minsk:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g stylus - 2025",
+        "device": "lamy",
+        "fingerprint": "MOTOROLA/lamy/lamy:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g stylus - 2025",
+        "device": "mona",
+        "fingerprint": "MOTOROLA/mona/mona:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g stylus - 2026",
+        "device": "lamy",
+        "fingerprint": "MOTOROLA/lamy/lamy:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g stylus 5G",
+        "device": "denver",
+        "fingerprint": "MOTOROLA/denver/denver:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g stylus 5G (2022)",
+        "device": "pnangn",
+        "fingerprint": "MOTOROLA/pnangn/pnangn:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g stylus 5G (2022)",
+        "device": "milanf",
+        "fingerprint": "MOTOROLA/milanf/milanf:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g stylus 5G (2022)",
+        "device": "penang",
+        "fingerprint": "MOTOROLA/penang/penang:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g stylus 5G - 2023",
+        "device": "genevn",
+        "fingerprint": "MOTOROLA/genevn/genevn:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g stylus 5G - 2023",
+        "device": "boston",
+        "fingerprint": "MOTOROLA/boston/boston:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g stylus 5G - 2023",
+        "device": "cusco",
+        "fingerprint": "MOTOROLA/cusco/cusco:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g stylus 5G - 2023",
+        "device": "cuscoi",
+        "fingerprint": "MOTOROLA/cuscoi/cuscoi:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g stylus 5G - 2024",
+        "device": "boston",
+        "fingerprint": "MOTOROLA/boston/boston:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g stylus 5g",
+        "device": "genevn",
+        "fingerprint": "MOTOROLA/genevn/genevn:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(10)",
+        "device": "capri",
+        "fingerprint": "MOTOROLA/capri/capri:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(10) power",
+        "device": "capri",
+        "fingerprint": "MOTOROLA/capri/capri:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(100)",
+        "device": "nio",
+        "fingerprint": "MOTOROLA/nio/nio:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(100)",
+        "device": "devon",
+        "fingerprint": "MOTOROLA/devon/devon:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(100)",
+        "device": "hawao",
+        "fingerprint": "MOTOROLA/hawao/hawao:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(100)",
+        "device": "pstar",
+        "fingerprint": "MOTOROLA/pstar/pstar:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(20)",
+        "device": "java",
+        "fingerprint": "MOTOROLA/java/java:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(30)",
+        "device": "caprip",
+        "fingerprint": "MOTOROLA/caprip/caprip:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(40) fusion",
+        "device": "hanoip",
+        "fingerprint": "MOTOROLA/hanoip/hanoip:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(50)",
+        "device": "milanf",
+        "fingerprint": "MOTOROLA/milanf/milanf:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(50)",
+        "device": "ibiza",
+        "fingerprint": "MOTOROLA/ibiza/ibiza:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(50)",
+        "device": "saipan",
+        "fingerprint": "MOTOROLA/saipan/saipan:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(50)",
+        "device": "cypfq",
+        "fingerprint": "MOTOROLA/cypfq/cypfq:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(50)",
+        "device": "rhode",
+        "fingerprint": "MOTOROLA/rhode/rhode:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(50)",
+        "device": "cypfr",
+        "fingerprint": "MOTOROLA/cypfr/cypfr:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(50)",
+        "device": "corfur",
+        "fingerprint": "MOTOROLA/corfur/corfur:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(50) 5G",
+        "device": "devonn",
+        "fingerprint": "MOTOROLA/devonn/devonn:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(50) 5G",
+        "device": "saipan",
+        "fingerprint": "MOTOROLA/saipan/saipan:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(50) 5G",
+        "device": "vicky",
+        "fingerprint": "MOTOROLA/vicky/vicky:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(50) 5G",
+        "device": "devonf",
+        "fingerprint": "MOTOROLA/devonf/devonf:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(50) 5G",
+        "device": "tesla",
+        "fingerprint": "MOTOROLA/tesla/tesla:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(6)",
+        "device": "surfna",
+        "fingerprint": "MOTOROLA/surfna/surfna:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(6)",
+        "device": "ali",
+        "fingerprint": "MOTOROLA/ali/ali:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(6)",
+        "device": "ali_n",
+        "fingerprint": "MOTOROLA/ali_n/ali_n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(6)",
+        "device": "river",
+        "fingerprint": "MOTOROLA/river/river:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(6)",
+        "device": "channel",
+        "fingerprint": "MOTOROLA/channel/channel:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(6) (XT1925DL)",
+        "device": "ali",
+        "fingerprint": "MOTOROLA/ali/ali:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(6) play",
+        "device": "aljeter",
+        "fingerprint": "MOTOROLA/aljeter/aljeter:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(6) play",
+        "device": "aljeter_n",
+        "fingerprint": "MOTOROLA/aljeter_n/aljeter_n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(6) play",
+        "device": "jeter",
+        "fingerprint": "MOTOROLA/jeter/jeter:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(6) play",
+        "device": "ocean",
+        "fingerprint": "MOTOROLA/ocean/ocean:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(6) plus",
+        "device": "evert",
+        "fingerprint": "MOTOROLA/evert/evert:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(6) plus",
+        "device": "evert_n",
+        "fingerprint": "MOTOROLA/evert_n/evert_n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(6) plus",
+        "device": "evert_nt",
+        "fingerprint": "MOTOROLA/evert_nt/evert_nt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(6) plus",
+        "device": "lake_n",
+        "fingerprint": "MOTOROLA/lake_n/lake_n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(60)",
+        "device": "hanoip",
+        "fingerprint": "MOTOROLA/hanoip/hanoip:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(60)",
+        "device": "lisbon",
+        "fingerprint": "MOTOROLA/lisbon/lisbon:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(60)s",
+        "device": "lisbon",
+        "fingerprint": "MOTOROLA/lisbon/lisbon:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(7)",
+        "device": "river",
+        "fingerprint": "MOTOROLA/river/river:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(7)",
+        "device": "river_n",
+        "fingerprint": "MOTOROLA/river_n/river_n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(7)",
+        "device": "doha",
+        "fingerprint": "MOTOROLA/doha/doha:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(7) optimo (XT1952DL)",
+        "device": "channel",
+        "fingerprint": "MOTOROLA/channel/channel:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(7) optimo maxx(XT1955DL)",
+        "device": "ocean",
+        "fingerprint": "MOTOROLA/ocean/ocean:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(7) play",
+        "device": "channel",
+        "fingerprint": "MOTOROLA/channel/channel:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(7) play",
+        "device": "lima",
+        "fingerprint": "MOTOROLA/lima/lima:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(7) plus",
+        "device": "lake_n",
+        "fingerprint": "MOTOROLA/lake_n/lake_n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(7) power",
+        "device": "ocean",
+        "fingerprint": "MOTOROLA/ocean/ocean:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(7) power",
+        "device": "ocean_n",
+        "fingerprint": "MOTOROLA/ocean_n/ocean_n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(7) power",
+        "device": "ocean_t",
+        "fingerprint": "MOTOROLA/ocean_t/ocean_t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(7) supra",
+        "device": "ocean",
+        "fingerprint": "MOTOROLA/ocean/ocean:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(8)",
+        "device": "rav",
+        "fingerprint": "MOTOROLA/rav/rav:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(8) play",
+        "device": "lima",
+        "fingerprint": "MOTOROLA/lima/lima:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(8) plus",
+        "device": "doha",
+        "fingerprint": "MOTOROLA/doha/doha:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(8) plus",
+        "device": "doha_n",
+        "fingerprint": "MOTOROLA/doha_n/doha_n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(8) power",
+        "device": "sofiar",
+        "fingerprint": "MOTOROLA/sofiar/sofiar:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(8) power lite",
+        "device": "blackjack",
+        "fingerprint": "MOTOROLA/blackjack/blackjack:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(9)",
+        "device": "guamp",
+        "fingerprint": "MOTOROLA/guamp/guamp:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(9) play",
+        "device": "guamp",
+        "fingerprint": "MOTOROLA/guamp/guamp:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(9) plus",
+        "device": "odessa",
+        "fingerprint": "MOTOROLA/odessa/odessa:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g(9) power",
+        "device": "cebu",
+        "fingerprint": "MOTOROLA/cebu/cebu:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g04",
+        "device": "lion",
+        "fingerprint": "MOTOROLA/lion/lion:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g04s",
+        "device": "lion",
+        "fingerprint": "MOTOROLA/lion/lion:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g05",
+        "device": "lamul",
+        "fingerprint": "MOTOROLA/lamul/lamul:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g05",
+        "device": "lagos",
+        "fingerprint": "MOTOROLA/lagos/lagos:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g06",
+        "device": "lagos",
+        "fingerprint": "MOTOROLA/lagos/lagos:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g06 power",
+        "device": "lagos",
+        "fingerprint": "MOTOROLA/lagos/lagos:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g13",
+        "device": "penangf",
+        "fingerprint": "MOTOROLA/penangf/penangf:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g14",
+        "device": "cancun",
+        "fingerprint": "MOTOROLA/cancun/cancun:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g15",
+        "device": "lamu",
+        "fingerprint": "MOTOROLA/lamu/lamu:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g20",
+        "device": "java",
+        "fingerprint": "MOTOROLA/java/java:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g200 5G",
+        "device": "xpeng",
+        "fingerprint": "MOTOROLA/xpeng/xpeng:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g200 5G",
+        "device": "dubai",
+        "fingerprint": "MOTOROLA/dubai/dubai:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g200 5G",
+        "device": "tundra",
+        "fingerprint": "MOTOROLA/tundra/tundra:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g22",
+        "device": "hawaiip",
+        "fingerprint": "MOTOROLA/hawaiip/hawaiip:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g23",
+        "device": "penangf",
+        "fingerprint": "MOTOROLA/penangf/penangf:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g24",
+        "device": "fogorow",
+        "fingerprint": "MOTOROLA/fogorow/fogorow:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g24 power",
+        "device": "fogorow",
+        "fingerprint": "MOTOROLA/fogorow/fogorow:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g31",
+        "device": "coful",
+        "fingerprint": "MOTOROLA/coful/coful:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g31(w)",
+        "device": "cofud",
+        "fingerprint": "MOTOROLA/cofud/cofud:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g32",
+        "device": "devon",
+        "fingerprint": "MOTOROLA/devon/devon:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g34 5G",
+        "device": "fogos",
+        "fingerprint": "MOTOROLA/fogos/fogos:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g34 5GP",
+        "device": "fogos",
+        "fingerprint": "MOTOROLA/fogos/fogos:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g35 5G",
+        "device": "manila",
+        "fingerprint": "MOTOROLA/manila/manila:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g41",
+        "device": "corfu",
+        "fingerprint": "MOTOROLA/corfu/corfu:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g42",
+        "device": "hawao",
+        "fingerprint": "MOTOROLA/hawao/hawao:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g45 5G",
+        "device": "fogos",
+        "fingerprint": "MOTOROLA/fogos/fogos:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g51 5G",
+        "device": "cypfq",
+        "fingerprint": "MOTOROLA/cypfq/cypfq:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g51 5G",
+        "device": "rhodec",
+        "fingerprint": "MOTOROLA/rhodec/rhodec:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g52",
+        "device": "rhode",
+        "fingerprint": "MOTOROLA/rhode/rhode:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g52j 5G",
+        "device": "cypfr",
+        "fingerprint": "MOTOROLA/cypfr/cypfr:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g53 5G",
+        "device": "fogos",
+        "fingerprint": "MOTOROLA/fogos/fogos:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g53 5G",
+        "device": "penang",
+        "fingerprint": "MOTOROLA/penang/penang:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g53 5G",
+        "device": "bangkk",
+        "fingerprint": "MOTOROLA/bangkk/bangkk:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g53j 5G",
+        "device": "penang",
+        "fingerprint": "MOTOROLA/penang/penang:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g53s 5G",
+        "device": "penang",
+        "fingerprint": "MOTOROLA/penang/penang:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g53y 5G",
+        "device": "penang",
+        "fingerprint": "MOTOROLA/penang/penang:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g54 5G",
+        "device": "cancunf",
+        "fingerprint": "MOTOROLA/cancunf/cancunf:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g54 5G",
+        "device": "taipei",
+        "fingerprint": "MOTOROLA/taipei/taipei:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g54 5G",
+        "device": "bogota",
+        "fingerprint": "MOTOROLA/bogota/bogota:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g55 5G",
+        "device": "taipei",
+        "fingerprint": "MOTOROLA/taipei/taipei:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g56 5G",
+        "device": "bogota",
+        "fingerprint": "MOTOROLA/bogota/bogota:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g57",
+        "device": "mumba",
+        "fingerprint": "MOTOROLA/mumba/mumba:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g57 power",
+        "device": "mumba",
+        "fingerprint": "MOTOROLA/mumba/mumba:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g62 5G",
+        "device": "rhodec",
+        "fingerprint": "MOTOROLA/rhodec/rhodec:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g62 5G",
+        "device": "rhodei",
+        "fingerprint": "MOTOROLA/rhodei/rhodei:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g64 5G",
+        "device": "cancunf",
+        "fingerprint": "MOTOROLA/cancunf/cancunf:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g64 5G",
+        "device": "bogota",
+        "fingerprint": "MOTOROLA/bogota/bogota:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g64y 5G",
+        "device": "cancunf",
+        "fingerprint": "MOTOROLA/cancunf/cancunf:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g66j 5G",
+        "device": "bogota",
+        "fingerprint": "MOTOROLA/bogota/bogota:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g66y 5G",
+        "device": "bogota",
+        "fingerprint": "MOTOROLA/bogota/bogota:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g67",
+        "device": "naples",
+        "fingerprint": "MOTOROLA/naples/naples:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g67 power 5G",
+        "device": "portov",
+        "fingerprint": "MOTOROLA/portov/portov:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g71 5G",
+        "device": "rhodei",
+        "fingerprint": "MOTOROLA/rhodei/rhodei:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g71 5G",
+        "device": "corfur",
+        "fingerprint": "MOTOROLA/corfur/corfur:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g71 5G",
+        "device": "rhodep",
+        "fingerprint": "MOTOROLA/rhodep/rhodep:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g71 5G",
+        "device": "miami",
+        "fingerprint": "MOTOROLA/miami/miami:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g72",
+        "device": "vicky",
+        "fingerprint": "MOTOROLA/vicky/vicky:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g73 5G",
+        "device": "cancunf",
+        "fingerprint": "MOTOROLA/cancunf/cancunf:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g73 5G",
+        "device": "devonf",
+        "fingerprint": "MOTOROLA/devonf/devonf:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g75 5G",
+        "device": "sorap",
+        "fingerprint": "MOTOROLA/sorap/sorap:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g77",
+        "device": "naples",
+        "fingerprint": "MOTOROLA/naples/naples:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g8 power lite",
+        "device": "blackjack",
+        "fingerprint": "MOTOROLA/blackjack/blackjack:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g82 5G",
+        "device": "rhodep",
+        "fingerprint": "MOTOROLA/rhodep/rhodep:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g84 5G",
+        "device": "bangkk",
+        "fingerprint": "MOTOROLA/bangkk/bangkk:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g85 5G",
+        "device": "malmo",
+        "fingerprint": "MOTOROLA/malmo/malmo:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g86 5G",
+        "device": "nice",
+        "fingerprint": "MOTOROLA/nice/nice:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g86 power 5G",
+        "device": "nice",
+        "fingerprint": "MOTOROLA/nice/nice:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto g96 5G",
+        "device": "cuscoi",
+        "fingerprint": "MOTOROLA/cuscoi/cuscoi:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto x4",
+        "device": "payton",
+        "fingerprint": "MOTOROLA/payton/payton:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto x4",
+        "device": "payton_sprout",
+        "fingerprint": "MOTOROLA/payton_sprout/payton_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto x4",
+        "device": "chef_sprout",
+        "fingerprint": "MOTOROLA/chef_sprout/chef_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto z3",
+        "device": "messi",
+        "fingerprint": "MOTOROLA/messi/messi:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto z4",
+        "device": "foles",
+        "fingerprint": "MOTOROLA/foles/foles:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto z4",
+        "device": "parker",
+        "fingerprint": "MOTOROLA/parker/parker:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "moto[SPACE]g(50)",
+        "device": "cypfq",
+        "fingerprint": "MOTOROLA/cypfq/cypfq:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola",
+        "device": "milan",
+        "fingerprint": "MOTOROLA/milan/milan:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola",
+        "device": "cofud",
+        "fingerprint": "MOTOROLA/cofud/cofud:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola",
+        "device": "coful",
+        "fingerprint": "MOTOROLA/coful/coful:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola",
+        "device": "corfu",
+        "fingerprint": "MOTOROLA/corfu/corfu:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola",
+        "device": "kyoto",
+        "fingerprint": "MOTOROLA/kyoto/kyoto:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola defy x",
+        "device": "BM2S1E",
+        "fingerprint": "MOTOROLA/bm2s1e/bm2s1e:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge",
+        "device": "kiev",
+        "fingerprint": "MOTOROLA/kiev/kiev:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge",
+        "device": "racer",
+        "fingerprint": "MOTOROLA/racer/racer:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge",
+        "device": "eqs",
+        "fingerprint": "MOTOROLA/eqs/eqs:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge (2021)",
+        "device": "berlna",
+        "fingerprint": "MOTOROLA/berlna/berlna:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge (2022)",
+        "device": "tesla",
+        "fingerprint": "MOTOROLA/tesla/tesla:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge (2022)",
+        "device": "aion",
+        "fingerprint": "MOTOROLA/aion/aion:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge (2022)",
+        "device": "manaus",
+        "fingerprint": "MOTOROLA/manaus/manaus:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 20",
+        "device": "berlin",
+        "fingerprint": "MOTOROLA/berlin/berlin:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 20 fusion",
+        "device": "kyoto",
+        "fingerprint": "MOTOROLA/kyoto/kyoto:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 20 lite",
+        "device": "kyoto",
+        "fingerprint": "MOTOROLA/kyoto/kyoto:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 20 pro",
+        "device": "xpeng",
+        "fingerprint": "MOTOROLA/xpeng/xpeng:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 20 pro",
+        "device": "pstar",
+        "fingerprint": "MOTOROLA/pstar/pstar:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 2023",
+        "device": "aion",
+        "fingerprint": "MOTOROLA/aion/aion:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 2023",
+        "device": "avatrn",
+        "fingerprint": "MOTOROLA/avatrn/avatrn:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 2024",
+        "device": "avatrn",
+        "fingerprint": "MOTOROLA/avatrn/avatrn:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 2025",
+        "device": "oulu",
+        "fingerprint": "MOTOROLA/oulu/oulu:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 2025",
+        "device": "merc",
+        "fingerprint": "MOTOROLA/merc/merc:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 30",
+        "device": "dubai",
+        "fingerprint": "MOTOROLA/dubai/dubai:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 30 fusion",
+        "device": "tundra",
+        "fingerprint": "MOTOROLA/tundra/tundra:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 30 neo",
+        "device": "miami",
+        "fingerprint": "MOTOROLA/miami/miami:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 30 pro",
+        "device": "bronco",
+        "fingerprint": "MOTOROLA/bronco/bronco:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 30 pro",
+        "device": "hiphi",
+        "fingerprint": "MOTOROLA/hiphi/hiphi:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 30 pro",
+        "device": "rtwo",
+        "fingerprint": "MOTOROLA/rtwo/rtwo:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 30 pro",
+        "device": "oneli",
+        "fingerprint": "MOTOROLA/oneli/oneli:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 30 ultra",
+        "device": "eqs",
+        "fingerprint": "MOTOROLA/eqs/eqs:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 40",
+        "device": "lyriq",
+        "fingerprint": "MOTOROLA/lyriq/lyriq:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 40 neo",
+        "device": "manaus",
+        "fingerprint": "MOTOROLA/manaus/manaus:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 40 pro",
+        "device": "fogona",
+        "fingerprint": "MOTOROLA/fogona/fogona:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 40 pro",
+        "device": "malmo",
+        "fingerprint": "MOTOROLA/malmo/malmo:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 40 pro",
+        "device": "rtwo",
+        "fingerprint": "MOTOROLA/rtwo/rtwo:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 40 pro",
+        "device": "eqe",
+        "fingerprint": "MOTOROLA/eqe/eqe:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 40 pro",
+        "device": "ctwo",
+        "fingerprint": "MOTOROLA/ctwo/ctwo:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 50",
+        "device": "tank",
+        "fingerprint": "MOTOROLA/tank/tank:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 50 fusion",
+        "device": "mona",
+        "fingerprint": "MOTOROLA/mona/mona:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 50 fusion",
+        "device": "cuscoi",
+        "fingerprint": "MOTOROLA/cuscoi/cuscoi:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 50 fusion",
+        "device": "cusco",
+        "fingerprint": "MOTOROLA/cusco/cusco:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 50 fusion",
+        "device": "monai",
+        "fingerprint": "MOTOROLA/monai/monai:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 50 neo",
+        "device": "nice",
+        "fingerprint": "MOTOROLA/nice/nice:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 50 neo",
+        "device": "oulu",
+        "fingerprint": "MOTOROLA/oulu/oulu:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 50 neo",
+        "device": "vienna",
+        "fingerprint": "MOTOROLA/vienna/vienna:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 50 neo",
+        "device": "scout",
+        "fingerprint": "MOTOROLA/scout/scout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 50 pro",
+        "device": "eqe",
+        "fingerprint": "MOTOROLA/eqe/eqe:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 50 ultra",
+        "device": "ctwo",
+        "fingerprint": "MOTOROLA/ctwo/ctwo:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 50 ultra",
+        "device": "roadstr",
+        "fingerprint": "MOTOROLA/roadstr/roadstr:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 50 ultra",
+        "device": "marvel",
+        "fingerprint": "MOTOROLA/marvel/marvel:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 50 ultra",
+        "device": "blanc",
+        "fingerprint": "MOTOROLA/blanc/blanc:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 50 ultra",
+        "device": "vantage",
+        "fingerprint": "MOTOROLA/vantage/vantage:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 5G UW",
+        "device": "berlna",
+        "fingerprint": "MOTOROLA/berlna/berlna:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 5G UW (2021)",
+        "device": "berlna",
+        "fingerprint": "MOTOROLA/berlna/berlna:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 60",
+        "device": "scout",
+        "fingerprint": "MOTOROLA/scout/scout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 60 fusion",
+        "device": "scout",
+        "fingerprint": "MOTOROLA/scout/scout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 60 neo",
+        "device": "vienna",
+        "fingerprint": "MOTOROLA/vienna/vienna:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 60 pro",
+        "device": "cybert",
+        "fingerprint": "MOTOROLA/cybert/cybert:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 60 stylus",
+        "device": "mumba",
+        "fingerprint": "MOTOROLA/mumba/mumba:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 60 stylus",
+        "device": "portov",
+        "fingerprint": "MOTOROLA/portov/portov:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 60 stylus",
+        "device": "monai",
+        "fingerprint": "MOTOROLA/monai/monai:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 60s pro",
+        "device": "cybert",
+        "fingerprint": "MOTOROLA/cybert/cybert:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 70",
+        "device": "roadstr",
+        "fingerprint": "MOTOROLA/roadstr/roadstr:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 70 fusion",
+        "device": "marvel",
+        "fingerprint": "MOTOROLA/marvel/marvel:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 70 fusion plus",
+        "device": "marvel",
+        "fingerprint": "MOTOROLA/marvel/marvel:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge 70 pro",
+        "device": "merc",
+        "fingerprint": "MOTOROLA/merc/merc:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge plus",
+        "device": "berlna",
+        "fingerprint": "MOTOROLA/berlna/berlna:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge plus",
+        "device": "berlin",
+        "fingerprint": "MOTOROLA/berlin/berlin:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge plus",
+        "device": "hiphi",
+        "fingerprint": "MOTOROLA/hiphi/hiphi:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge plus",
+        "device": "burton",
+        "fingerprint": "MOTOROLA/burton/burton:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge plus (2022)",
+        "device": "hiphi",
+        "fingerprint": "MOTOROLA/hiphi/hiphi:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge plus (2022)",
+        "device": "rtwo",
+        "fingerprint": "MOTOROLA/rtwo/rtwo:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge plus 2023",
+        "device": "rtwo",
+        "fingerprint": "MOTOROLA/rtwo/rtwo:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola edge plus 5G UW (2022)",
+        "device": "hiphi",
+        "fingerprint": "MOTOROLA/hiphi/hiphi:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola one",
+        "device": "deen_sprout",
+        "fingerprint": "MOTOROLA/deen_sprout/deen_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola one 5G",
+        "device": "nairo",
+        "fingerprint": "MOTOROLA/nairo/nairo:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola one 5G UW",
+        "device": "nairo",
+        "fingerprint": "MOTOROLA/nairo/nairo:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola one 5G UW ace",
+        "device": "kievv",
+        "fingerprint": "MOTOROLA/kievv/kievv:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola one 5G ace",
+        "device": "kievv",
+        "fingerprint": "MOTOROLA/kievv/kievv:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola one 5G ace",
+        "device": "kiev",
+        "fingerprint": "MOTOROLA/kiev/kiev:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola one action",
+        "device": "troika",
+        "fingerprint": "MOTOROLA/troika/troika:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola one action",
+        "device": "troika_sprout",
+        "fingerprint": "MOTOROLA/troika_sprout/troika_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola one fusion",
+        "device": "astro",
+        "fingerprint": "MOTOROLA/astro/astro:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola one fusion+",
+        "device": "liber",
+        "fingerprint": "MOTOROLA/liber/liber:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola one hyper",
+        "device": "def",
+        "fingerprint": "MOTOROLA/def/def:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola one macro",
+        "device": "lima",
+        "fingerprint": "MOTOROLA/lima/lima:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola one power",
+        "device": "chef_sprout",
+        "fingerprint": "MOTOROLA/chef_sprout/chef_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola one vision",
+        "device": "kane_sprout",
+        "fingerprint": "MOTOROLA/kane_sprout/kane_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola one vision plus",
+        "device": "doha_n",
+        "fingerprint": "MOTOROLA/doha_n/doha_n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola one zoom",
+        "device": "parker",
+        "fingerprint": "MOTOROLA/parker/parker:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola razr",
+        "device": "olson",
+        "fingerprint": "MOTOROLA/olson/olson:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola razr (2020)",
+        "device": "smith",
+        "fingerprint": "MOTOROLA/smith/smith:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola razr 2022",
+        "device": "oneli",
+        "fingerprint": "MOTOROLA/oneli/oneli:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola razr 2022",
+        "device": "lynkco",
+        "fingerprint": "MOTOROLA/lynkco/lynkco:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola razr 2022",
+        "device": "zeekr",
+        "fingerprint": "MOTOROLA/zeekr/zeekr:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola razr 2023",
+        "device": "lynkco",
+        "fingerprint": "MOTOROLA/lynkco/lynkco:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola razr 2023",
+        "device": "aito",
+        "fingerprint": "MOTOROLA/aito/aito:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola razr 2024",
+        "device": "aito",
+        "fingerprint": "MOTOROLA/aito/aito:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola razr 2025",
+        "device": "aito",
+        "fingerprint": "MOTOROLA/aito/aito:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola razr 40",
+        "device": "tank",
+        "fingerprint": "MOTOROLA/tank/tank:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola razr 40",
+        "device": "lynkco",
+        "fingerprint": "MOTOROLA/lynkco/lynkco:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola razr 40",
+        "device": "aito",
+        "fingerprint": "MOTOROLA/aito/aito:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola razr 40 ultra",
+        "device": "zeekr",
+        "fingerprint": "MOTOROLA/zeekr/zeekr:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola razr 40 ultra",
+        "device": "arcfox",
+        "fingerprint": "MOTOROLA/arcfox/arcfox:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola razr 40s",
+        "device": "lynkco",
+        "fingerprint": "MOTOROLA/lynkco/lynkco:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola razr 50",
+        "device": "aito",
+        "fingerprint": "MOTOROLA/aito/aito:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola razr 50 ultra",
+        "device": "arcfox",
+        "fingerprint": "MOTOROLA/arcfox/arcfox:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola razr 50 ultra",
+        "device": "leap",
+        "fingerprint": "MOTOROLA/leap/leap:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola razr 50s",
+        "device": "aito",
+        "fingerprint": "MOTOROLA/aito/aito:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola razr 5G",
+        "device": "smith",
+        "fingerprint": "MOTOROLA/smith/smith:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola razr 60",
+        "device": "aito",
+        "fingerprint": "MOTOROLA/aito/aito:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola razr 60 ultra",
+        "device": "leap",
+        "fingerprint": "MOTOROLA/leap/leap:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola razr 60s",
+        "device": "aito",
+        "fingerprint": "MOTOROLA/aito/aito:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola razr fold",
+        "device": "blanc",
+        "fingerprint": "MOTOROLA/blanc/blanc:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola razr fold 2026",
+        "device": "blanc",
+        "fingerprint": "MOTOROLA/blanc/blanc:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola razr plus 2023",
+        "device": "zeekr",
+        "fingerprint": "MOTOROLA/zeekr/zeekr:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola razr plus 2023",
+        "device": "arcfox",
+        "fingerprint": "MOTOROLA/arcfox/arcfox:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola razr plus 2024",
+        "device": "arcfox",
+        "fingerprint": "MOTOROLA/arcfox/arcfox:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola razr plus 2025",
+        "device": "arcfox",
+        "fingerprint": "MOTOROLA/arcfox/arcfox:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola razr ultra 2025",
+        "device": "leap",
+        "fingerprint": "MOTOROLA/leap/leap:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "motorola signature",
+        "device": "vantage",
+        "fingerprint": "MOTOROLA/vantage/vantage:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "penangf",
+        "device": "penangf",
+        "fingerprint": "MOTOROLA/penangf/penangf:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "titan_niibr_ds",
+        "device": "titan_umtsds",
+        "fingerprint": "MOTOROLA/titan_umtsds/titan_umtsds:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "umts",
+        "device": "umts_sholes",
+        "fingerprint": "MOTOROLA/umts_sholes/umts_sholes:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "unknown",
+        "device": "umts_jordan",
+        "fingerprint": "MOTOROLA/umts_jordan/umts_jordan:12/SP1A.210812.016/7769886:user/release-keys"
+    }
+]

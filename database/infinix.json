@@ -1,0 +1,1152 @@
+[
+    {
+        "model": "AI PONT",
+        "device": "ikebukuro",
+        "fingerprint": "INFINIX/ikebukuro/ikebukuro:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "AI PONT",
+        "device": "samseong",
+        "fingerprint": "INFINIX/samseong/samseong:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "INFINIX-X551",
+        "device": "INFINIX-X551",
+        "fingerprint": "INFINIX/infinix-x551/infinix-x551:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "INFINIX-X600",
+        "device": "INFINIX-X600",
+        "fingerprint": "INFINIX/infinix-x600/infinix-x600:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "INFINIX-X600",
+        "device": "INFINIX-X600-5M",
+        "fingerprint": "INFINIX/infinix-x600-5m/infinix-x600-5m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix HOT 3 LTE",
+        "device": "INFINIX-X553",
+        "fingerprint": "INFINIX/infinix-x553/infinix-x553:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix HOT 3 LTE",
+        "device": "INFINIX-X553-A1",
+        "fingerprint": "INFINIX/infinix-x553-a1/infinix-x553-a1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix HOT 3 Pro",
+        "device": "INFINIX-X554",
+        "fingerprint": "INFINIX/infinix-x554/infinix-x554:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix HOT 4",
+        "device": "Infinix-X5511",
+        "fingerprint": "INFINIX/infinix-x5511/infinix-x5511:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix HOT 4",
+        "device": "X557",
+        "fingerprint": "INFINIX/x557/x557:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix HOT 4",
+        "device": "X557-Lite",
+        "fingerprint": "INFINIX/x557-lite/x557-lite:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix HOT 4 Lite",
+        "device": "X557-Lite",
+        "fingerprint": "INFINIX/x557-lite/x557-lite:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix HOT 4 Pro",
+        "device": "X556",
+        "fingerprint": "INFINIX/x556/x556:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix HOT 4 Pro",
+        "device": "Infinix-X5511-13M",
+        "fingerprint": "INFINIX/infinix-x5511-13m/infinix-x5511-13m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix HOT S",
+        "device": "Infinix-X521",
+        "fingerprint": "INFINIX/infinix-x521/infinix-x521:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix HOT4 LTE",
+        "device": "Infinix-X5511",
+        "fingerprint": "INFINIX/infinix-x5511/infinix-x5511:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix NOTE 3",
+        "device": "X601",
+        "fingerprint": "INFINIX/x601/x601:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix NOTE 3 Pro",
+        "device": "X601-3G",
+        "fingerprint": "INFINIX/x601-3g/x601-3g:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix NOTE 3 Pro",
+        "device": "X601-LTE",
+        "fingerprint": "INFINIX/x601-lte/x601-lte:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix PR652B",
+        "device": "Infinix-PR652B",
+        "fingerprint": "INFINIX/infinix-pr652b/infinix-pr652b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix PR652C",
+        "device": "Infinix-PR652C",
+        "fingerprint": "INFINIX/infinix-pr652c/infinix-pr652c:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X405",
+        "device": "up09_infinix_x405_gms",
+        "fingerprint": "INFINIX/up09_infinix_x405_gms/up09_infinix_x405_gms:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X454",
+        "device": "Infinix_X454",
+        "fingerprint": "INFINIX/infinix_x454/infinix_x454:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X455",
+        "device": "X455",
+        "fingerprint": "INFINIX/x455/x455:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X5010",
+        "device": "Infinix-X5010",
+        "fingerprint": "INFINIX/infinix-x5010/infinix-x5010:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X505",
+        "device": "X505",
+        "fingerprint": "INFINIX/x505/x505:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X509",
+        "device": "Infinix_X509",
+        "fingerprint": "INFINIX/infinix_x509/infinix_x509:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X510",
+        "device": "Infinix_X510",
+        "fingerprint": "INFINIX/infinix_x510/infinix_x510:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X510",
+        "device": "Infinix_X510_sprout",
+        "fingerprint": "INFINIX/infinix_x510_sprout/infinix_x510_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X511",
+        "device": "INFINIX_X511",
+        "fingerprint": "INFINIX/infinix_x511/infinix_x511:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X557",
+        "device": "X557",
+        "fingerprint": "INFINIX/x557/x557:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X559",
+        "device": "Infinix-X559",
+        "fingerprint": "INFINIX/infinix-x559/infinix-x559:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X559C",
+        "device": "Infinix-X559C",
+        "fingerprint": "INFINIX/infinix-x559c/infinix-x559c:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X559F",
+        "device": "Infinix-X559C",
+        "fingerprint": "INFINIX/infinix-x559c/infinix-x559c:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X571",
+        "device": "Infinix-X571",
+        "fingerprint": "INFINIX/infinix-x571/infinix-x571:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X571-LTE",
+        "device": "Infinix-X571",
+        "fingerprint": "INFINIX/infinix-x571/infinix-x571:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X572",
+        "device": "Infinix-X572",
+        "fingerprint": "INFINIX/infinix-x572/infinix-x572:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X572-LTE",
+        "device": "Infinix-X572",
+        "fingerprint": "INFINIX/infinix-x572/infinix-x572:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X573",
+        "device": "Infinix-X573",
+        "fingerprint": "INFINIX/infinix-x573/infinix-x573:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X573B",
+        "device": "Infinix-X573B",
+        "fingerprint": "INFINIX/infinix-x573b/infinix-x573b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X573S",
+        "device": "Infinix-X573",
+        "fingerprint": "INFINIX/infinix-x573/infinix-x573:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X603",
+        "device": "Infinix-X603",
+        "fingerprint": "INFINIX/infinix-x603/infinix-x603:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X603-LTE",
+        "device": "Infinix-X603",
+        "fingerprint": "INFINIX/infinix-x603/infinix-x603:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X604",
+        "device": "Infinix-X604_sprout",
+        "fingerprint": "INFINIX/infinix-x604_sprout/infinix-x604_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X604B",
+        "device": "Infinix-X604_sprout",
+        "fingerprint": "INFINIX/infinix-x604_sprout/infinix-x604_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X605",
+        "device": "Infinix-X605_sprout",
+        "fingerprint": "INFINIX/infinix-x605_sprout/infinix-x605_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X606",
+        "device": "Infinix-X606",
+        "fingerprint": "INFINIX/infinix-x606/infinix-x606:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X606B",
+        "device": "Infinix-X606B",
+        "fingerprint": "INFINIX/infinix-x606b/infinix-x606b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X606C",
+        "device": "Infinix-X606C",
+        "fingerprint": "INFINIX/infinix-x606c/infinix-x606c:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X606D",
+        "device": "Infinix-X606D",
+        "fingerprint": "INFINIX/infinix-x606d/infinix-x606d:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X608",
+        "device": "Infinix-X608",
+        "fingerprint": "INFINIX/infinix-x608/infinix-x608:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X610B",
+        "device": "Infinix-X610",
+        "fingerprint": "INFINIX/infinix-x610/infinix-x610:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X620",
+        "device": "Infinix-X620",
+        "fingerprint": "INFINIX/infinix-x620/infinix-x620:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X620B",
+        "device": "Infinix-X620",
+        "fingerprint": "INFINIX/infinix-x620/infinix-x620:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X622",
+        "device": "Infinix-X622",
+        "fingerprint": "INFINIX/infinix-x622/infinix-x622:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X623",
+        "device": "Infinix-X623",
+        "fingerprint": "INFINIX/infinix-x623/infinix-x623:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X623B",
+        "device": "Infinix-X623",
+        "fingerprint": "INFINIX/infinix-x623/infinix-x623:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X624",
+        "device": "Infinix-X624",
+        "fingerprint": "INFINIX/infinix-x624/infinix-x624:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X624B",
+        "device": "Infinix-X624B",
+        "fingerprint": "INFINIX/infinix-x624b/infinix-x624b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X625B",
+        "device": "Infinix-X625",
+        "fingerprint": "INFINIX/infinix-x625/infinix-x625:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X625C",
+        "device": "Infinix-X625C",
+        "fingerprint": "INFINIX/infinix-x625c/infinix-x625c:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X625D",
+        "device": "Infinix-X625D",
+        "fingerprint": "INFINIX/infinix-x625d/infinix-x625d:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X650",
+        "device": "Infinix-X650",
+        "fingerprint": "INFINIX/infinix-x650/infinix-x650:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X650B",
+        "device": "Infinix-X650B",
+        "fingerprint": "INFINIX/infinix-x650b/infinix-x650b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X650C",
+        "device": "Infinix-X650C",
+        "fingerprint": "INFINIX/infinix-x650c/infinix-x650c:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X650D",
+        "device": "Infinix-X650D",
+        "fingerprint": "INFINIX/infinix-x650d/infinix-x650d:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6525B",
+        "device": "Infinix-X6525B",
+        "fingerprint": "INFINIX/infinix-x6525b/infinix-x6525b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6528",
+        "device": "Infinix-X6528",
+        "fingerprint": "INFINIX/infinix-x6528/infinix-x6528:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6528B",
+        "device": "Infinix-X6528B",
+        "fingerprint": "INFINIX/infinix-x6528b/infinix-x6528b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X652B",
+        "device": "Infinix-X652B",
+        "fingerprint": "INFINIX/infinix-x652b/infinix-x652b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X652C",
+        "device": "Infinix-X652C",
+        "fingerprint": "INFINIX/infinix-x652c/infinix-x652c:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6531",
+        "device": "Infinix-X6531",
+        "fingerprint": "INFINIX/infinix-x6531/infinix-x6531:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6531B",
+        "device": "Infinix-X6531B",
+        "fingerprint": "INFINIX/infinix-x6531b/infinix-x6531b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X655",
+        "device": "Infinix-X655",
+        "fingerprint": "INFINIX/infinix-x655/infinix-x655:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X655C",
+        "device": "Infinix-X655C",
+        "fingerprint": "INFINIX/infinix-x655c/infinix-x655c:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X655D",
+        "device": "Infinix-X655D",
+        "fingerprint": "INFINIX/infinix-x655d/infinix-x655d:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X655F",
+        "device": "Infinix-X655F",
+        "fingerprint": "INFINIX/infinix-x655f/infinix-x655f:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X656",
+        "device": "Infinix-X656",
+        "fingerprint": "INFINIX/infinix-x656/infinix-x656:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X657B",
+        "device": "Infinix-X657B",
+        "fingerprint": "INFINIX/infinix-x657b/infinix-x657b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X658B",
+        "device": "Infinix-X658B",
+        "fingerprint": "INFINIX/infinix-x658b/infinix-x658b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X658E",
+        "device": "Infinix-X658E",
+        "fingerprint": "INFINIX/infinix-x658e/infinix-x658e:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X659",
+        "device": "Infinix-X659",
+        "fingerprint": "INFINIX/infinix-x659/infinix-x659:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X659B",
+        "device": "Infinix-X659B",
+        "fingerprint": "INFINIX/infinix-x659b/infinix-x659b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X662",
+        "device": "Infinix-X662",
+        "fingerprint": "INFINIX/infinix-x662/infinix-x662:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X662B",
+        "device": "Infinix-X662B",
+        "fingerprint": "INFINIX/infinix-x662b/infinix-x662b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X663",
+        "device": "Infinix-X663",
+        "fingerprint": "INFINIX/infinix-x663/infinix-x663:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X663B",
+        "device": "Infinix-X663B",
+        "fingerprint": "INFINIX/infinix-x663b/infinix-x663b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X663C",
+        "device": "Infinix-X663C",
+        "fingerprint": "INFINIX/infinix-x663c/infinix-x663c:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X665",
+        "device": "Infinix-X665",
+        "fingerprint": "INFINIX/infinix-x665/infinix-x665:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X665B",
+        "device": "Infinix-X665B",
+        "fingerprint": "INFINIX/infinix-x665b/infinix-x665b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X665C",
+        "device": "Infinix-X665C",
+        "fingerprint": "INFINIX/infinix-x665c/infinix-x665c:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X665E",
+        "device": "Infinix-X665E",
+        "fingerprint": "INFINIX/infinix-x665e/infinix-x665e:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X666",
+        "device": "Infinix-X666",
+        "fingerprint": "INFINIX/infinix-x666/infinix-x666:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X668",
+        "device": "Infinix-X668",
+        "fingerprint": "INFINIX/infinix-x668/infinix-x668:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X668C",
+        "device": "Infinix-X668C",
+        "fingerprint": "INFINIX/infinix-x668c/infinix-x668c:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X669",
+        "device": "Infinix-X669",
+        "fingerprint": "INFINIX/infinix-x669/infinix-x669:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X669C",
+        "device": "Infinix-X669C",
+        "fingerprint": "INFINIX/infinix-x669c/infinix-x669c:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X669D",
+        "device": "Infinix-X669D",
+        "fingerprint": "INFINIX/infinix-x669d/infinix-x669d:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X670",
+        "device": "Infinix-X670",
+        "fingerprint": "INFINIX/infinix-x670/infinix-x670:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X671",
+        "device": "Infinix-X671",
+        "fingerprint": "INFINIX/infinix-x671/infinix-x671:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6710",
+        "device": "Infinix-X6710",
+        "fingerprint": "INFINIX/infinix-x6710/infinix-x6710:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6711",
+        "device": "Infinix-X6711",
+        "fingerprint": "INFINIX/infinix-x6711/infinix-x6711:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6716",
+        "device": "Infinix-X6716",
+        "fingerprint": "INFINIX/infinix-x6716/infinix-x6716:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6716B",
+        "device": "Infinix-X6716B",
+        "fingerprint": "INFINIX/infinix-x6716b/infinix-x6716b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X671B",
+        "device": "Infinix-X671B",
+        "fingerprint": "INFINIX/infinix-x671b/infinix-x671b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X672",
+        "device": "Infinix-X672",
+        "fingerprint": "INFINIX/infinix-x672/infinix-x672:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6720",
+        "device": "Infinix-X6720",
+        "fingerprint": "INFINIX/infinix-x6720/infinix-x6720:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6720B",
+        "device": "Infinix-X6720B",
+        "fingerprint": "INFINIX/infinix-x6720b/infinix-x6720b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6726",
+        "device": "Infinix-X6726",
+        "fingerprint": "INFINIX/infinix-x6726/infinix-x6726:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6726B",
+        "device": "Infinix-X6726B",
+        "fingerprint": "INFINIX/infinix-x6726b/infinix-x6726b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6728",
+        "device": "Infinix-X6728",
+        "fingerprint": "INFINIX/infinix-x6728/infinix-x6728:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6728B",
+        "device": "Infinix-X6728B",
+        "fingerprint": "INFINIX/infinix-x6728b/infinix-x6728b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6730",
+        "device": "Infinix-X6730",
+        "fingerprint": "INFINIX/infinix-x6730/infinix-x6730:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6730B",
+        "device": "Infinix-X6730B",
+        "fingerprint": "INFINIX/infinix-x6730b/infinix-x6730b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6731",
+        "device": "Infinix-X6731",
+        "fingerprint": "INFINIX/infinix-x6731/infinix-x6731:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6731B",
+        "device": "Infinix-X6731B",
+        "fingerprint": "INFINIX/infinix-x6731b/infinix-x6731b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6739",
+        "device": "Infinix-X6739",
+        "fingerprint": "INFINIX/infinix-x6739/infinix-x6739:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X675",
+        "device": "Infinix-X675",
+        "fingerprint": "INFINIX/infinix-x675/infinix-x675:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X676B",
+        "device": "Infinix-X676B",
+        "fingerprint": "INFINIX/infinix-x676b/infinix-x676b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X676C",
+        "device": "Infinix-X676C",
+        "fingerprint": "INFINIX/infinix-x676c/infinix-x676c:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X677",
+        "device": "Infinix-X677",
+        "fingerprint": "INFINIX/infinix-x677/infinix-x677:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X678B",
+        "device": "Infinix-X678B",
+        "fingerprint": "INFINIX/infinix-x678b/infinix-x678b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X680",
+        "device": "Infinix-X680",
+        "fingerprint": "INFINIX/infinix-x680/infinix-x680:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X680B",
+        "device": "Infinix-X680B",
+        "fingerprint": "INFINIX/infinix-x680b/infinix-x680b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X680C",
+        "device": "Infinix-X680C",
+        "fingerprint": "INFINIX/infinix-x680c/infinix-x680c:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X680E",
+        "device": "Infinix-X680E",
+        "fingerprint": "INFINIX/infinix-x680e/infinix-x680e:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X680F",
+        "device": "Infinix-X680F",
+        "fingerprint": "INFINIX/infinix-x680f/infinix-x680f:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6810",
+        "device": "Infinix-X6810",
+        "fingerprint": "INFINIX/infinix-x6810/infinix-x6810:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6811",
+        "device": "Infinix-X6811",
+        "fingerprint": "INFINIX/infinix-x6811/infinix-x6811:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6811B",
+        "device": "Infinix-X6811B",
+        "fingerprint": "INFINIX/infinix-x6811b/infinix-x6811b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6812",
+        "device": "Infinix-X6812",
+        "fingerprint": "INFINIX/infinix-x6812/infinix-x6812:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6812B",
+        "device": "Infinix-X6812B",
+        "fingerprint": "INFINIX/infinix-x6812b/infinix-x6812b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6815",
+        "device": "Infinix-X6815",
+        "fingerprint": "INFINIX/infinix-x6815/infinix-x6815:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6815B",
+        "device": "Infinix-X6815B",
+        "fingerprint": "INFINIX/infinix-x6815b/infinix-x6815b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6815C",
+        "device": "Infinix-X6815C",
+        "fingerprint": "INFINIX/infinix-x6815c/infinix-x6815c:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6815D",
+        "device": "Infinix-X6815D",
+        "fingerprint": "INFINIX/infinix-x6815d/infinix-x6815d:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6816C",
+        "device": "Infinix-X6816C",
+        "fingerprint": "INFINIX/infinix-x6816c/infinix-x6816c:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6816D",
+        "device": "Infinix-X6816D",
+        "fingerprint": "INFINIX/infinix-x6816d/infinix-x6816d:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6817",
+        "device": "Infinix-X6817",
+        "fingerprint": "INFINIX/infinix-x6817/infinix-x6817:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6819",
+        "device": "Infinix-X6819",
+        "fingerprint": "INFINIX/infinix-x6819/infinix-x6819:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6820",
+        "device": "Infinix-X6820",
+        "fingerprint": "INFINIX/infinix-x6820/infinix-x6820:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6821",
+        "device": "Infinix-X6821",
+        "fingerprint": "INFINIX/infinix-x6821/infinix-x6821:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6825",
+        "device": "Infinix-X6825",
+        "fingerprint": "INFINIX/infinix-x6825/infinix-x6825:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6826",
+        "device": "Infinix-X6826",
+        "fingerprint": "INFINIX/infinix-x6826/infinix-x6826:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6826B",
+        "device": "Infinix-X6826B",
+        "fingerprint": "INFINIX/infinix-x6826b/infinix-x6826b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6826C",
+        "device": "Infinix-X6826C",
+        "fingerprint": "INFINIX/infinix-x6826c/infinix-x6826c:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6827",
+        "device": "Infinix-X6827",
+        "fingerprint": "INFINIX/infinix-x6827/infinix-x6827:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X682B",
+        "device": "Infinix-X682B",
+        "fingerprint": "INFINIX/infinix-x682b/infinix-x682b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X682C",
+        "device": "Infinix-X682C",
+        "fingerprint": "INFINIX/infinix-x682c/infinix-x682c:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X683",
+        "device": "Infinix-X683",
+        "fingerprint": "INFINIX/infinix-x683/infinix-x683:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6832",
+        "device": "Infinix-X6832",
+        "fingerprint": "INFINIX/infinix-x6832/infinix-x6832:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6833B",
+        "device": "Infinix-X6833B",
+        "fingerprint": "INFINIX/infinix-x6833b/infinix-x6833b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6835",
+        "device": "Infinix-X6835",
+        "fingerprint": "INFINIX/infinix-x6835/infinix-x6835:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6835B",
+        "device": "Infinix-X6835B",
+        "fingerprint": "INFINIX/infinix-x6835b/infinix-x6835b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6836",
+        "device": "Infinix-X6836",
+        "fingerprint": "INFINIX/infinix-x6836/infinix-x6836:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6837",
+        "device": "Infinix-X6837",
+        "fingerprint": "INFINIX/infinix-x6837/infinix-x6837:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6838",
+        "device": "Infinix-X6838",
+        "fingerprint": "INFINIX/infinix-x6838/infinix-x6838:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X683B",
+        "device": "Infinix-X683B",
+        "fingerprint": "INFINIX/infinix-x683b/infinix-x683b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6850",
+        "device": "Infinix-X6850",
+        "fingerprint": "INFINIX/infinix-x6850/infinix-x6850:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6850B",
+        "device": "Infinix-X6850B",
+        "fingerprint": "INFINIX/infinix-x6850b/infinix-x6850b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6851",
+        "device": "Infinix-X6851",
+        "fingerprint": "INFINIX/infinix-x6851/infinix-x6851:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6851B",
+        "device": "Infinix-X6851B",
+        "fingerprint": "INFINIX/infinix-x6851b/infinix-x6851b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6852",
+        "device": "Infinix-X6852",
+        "fingerprint": "INFINIX/infinix-x6852/infinix-x6852:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6853",
+        "device": "Infinix-X6853",
+        "fingerprint": "INFINIX/infinix-x6853/infinix-x6853:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6855",
+        "device": "Infinix-X6855",
+        "fingerprint": "INFINIX/infinix-x6855/infinix-x6855:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6856",
+        "device": "Infinix-X6856",
+        "fingerprint": "INFINIX/infinix-x6856/infinix-x6856:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6857",
+        "device": "Infinix-X6857",
+        "fingerprint": "INFINIX/infinix-x6857/infinix-x6857:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6857B",
+        "device": "Infinix-X6857B",
+        "fingerprint": "INFINIX/infinix-x6857b/infinix-x6857b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6858",
+        "device": "Infinix-X6858",
+        "fingerprint": "INFINIX/infinix-x6858/infinix-x6858:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6860",
+        "device": "Infinix-X6860",
+        "fingerprint": "INFINIX/infinix-x6860/infinix-x6860:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6861",
+        "device": "Infinix-X6861",
+        "fingerprint": "INFINIX/infinix-x6861/infinix-x6861:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X687",
+        "device": "Infinix-X687",
+        "fingerprint": "INFINIX/infinix-x687/infinix-x687:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6870",
+        "device": "Infinix-X6870",
+        "fingerprint": "INFINIX/infinix-x6870/infinix-x6870:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6871",
+        "device": "Infinix-X6871",
+        "fingerprint": "INFINIX/infinix-x6871/infinix-x6871:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6873",
+        "device": "Infinix-X6873",
+        "fingerprint": "INFINIX/infinix-x6873/infinix-x6873:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6876",
+        "device": "Infinix-X6876",
+        "fingerprint": "INFINIX/infinix-x6876/infinix-x6876:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6877",
+        "device": "Infinix-X6877",
+        "fingerprint": "INFINIX/infinix-x6877/infinix-x6877:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6878",
+        "device": "Infinix-X6878",
+        "fingerprint": "INFINIX/infinix-x6878/infinix-x6878:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6879",
+        "device": "Infinix-X6879",
+        "fingerprint": "INFINIX/infinix-x6879/infinix-x6879:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X687B",
+        "device": "Infinix-X687B",
+        "fingerprint": "INFINIX/infinix-x687b/infinix-x687b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6880",
+        "device": "Infinix-X6880",
+        "fingerprint": "INFINIX/infinix-x6880/infinix-x6880:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6881",
+        "device": "Infinix-X6881",
+        "fingerprint": "INFINIX/infinix-x6881/infinix-x6881:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6882",
+        "device": "Infinix-X6882",
+        "fingerprint": "INFINIX/infinix-x6882/infinix-x6882:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6882B",
+        "device": "Infinix-X6882B",
+        "fingerprint": "INFINIX/infinix-x6882b/infinix-x6882b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6885",
+        "device": "Infinix-X6885",
+        "fingerprint": "INFINIX/infinix-x6885/infinix-x6885:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6886",
+        "device": "Infinix-X6886",
+        "fingerprint": "INFINIX/infinix-x6886/infinix-x6886:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6887",
+        "device": "Infinix-X6887",
+        "fingerprint": "INFINIX/infinix-x6887/infinix-x6887:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X688B",
+        "device": "Infinix-X688B",
+        "fingerprint": "INFINIX/infinix-x688b/infinix-x688b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X688C",
+        "device": "Infinix-X688C",
+        "fingerprint": "INFINIX/infinix-x688c/infinix-x688c:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X689",
+        "device": "Infinix-X689",
+        "fingerprint": "INFINIX/infinix-x689/infinix-x689:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6891",
+        "device": "Infinix-X6891",
+        "fingerprint": "INFINIX/infinix-x6891/infinix-x6891:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6895",
+        "device": "Infinix-X6895",
+        "fingerprint": "INFINIX/infinix-x6895/infinix-x6895:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6895B",
+        "device": "Infinix-X6895B",
+        "fingerprint": "INFINIX/infinix-x6895b/infinix-x6895b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X689B",
+        "device": "Infinix-X689B",
+        "fingerprint": "INFINIX/infinix-x689b/infinix-x689b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X689C",
+        "device": "Infinix-X689C",
+        "fingerprint": "INFINIX/infinix-x689c/infinix-x689c:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X689D",
+        "device": "Infinix-X689D",
+        "fingerprint": "INFINIX/infinix-x689d/infinix-x689d:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X689F",
+        "device": "Infinix-X689F",
+        "fingerprint": "INFINIX/infinix-x689f/infinix-x689f:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X690",
+        "device": "Infinix-X690",
+        "fingerprint": "INFINIX/infinix-x690/infinix-x690:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X690B",
+        "device": "Infinix-X690B",
+        "fingerprint": "INFINIX/infinix-x690b/infinix-x690b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X690C",
+        "device": "Infinix-X690C",
+        "fingerprint": "INFINIX/infinix-x690c/infinix-x690c:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X692",
+        "device": "Infinix-X692",
+        "fingerprint": "INFINIX/infinix-x692/infinix-x692:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X693",
+        "device": "Infinix-X693",
+        "fingerprint": "INFINIX/infinix-x693/infinix-x693:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X695",
+        "device": "Infinix-X695",
+        "fingerprint": "INFINIX/infinix-x695/infinix-x695:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X695C",
+        "device": "Infinix-X695C",
+        "fingerprint": "INFINIX/infinix-x695c/infinix-x695c:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X695D",
+        "device": "Infinix-X695D",
+        "fingerprint": "INFINIX/infinix-x695d/infinix-x695d:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X6962",
+        "device": "Infinix-X6962",
+        "fingerprint": "INFINIX/infinix-x6962/infinix-x6962:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X697",
+        "device": "Infinix-X697",
+        "fingerprint": "INFINIX/infinix-x697/infinix-x697:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix X698",
+        "device": "Infinix-X698",
+        "fingerprint": "INFINIX/infinix-x698/infinix-x698:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix Zero 3",
+        "device": "INFINIX-X552",
+        "fingerprint": "INFINIX/infinix-x552/infinix-x552:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix Zero 3",
+        "device": "INFINIX-X552-95M",
+        "fingerprint": "INFINIX/infinix-x552-95m/infinix-x552-95m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix Zero 4",
+        "device": "X555",
+        "fingerprint": "INFINIX/x555/x555:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix Zero 4 Plus",
+        "device": "X602",
+        "fingerprint": "INFINIX/x602/x602:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix-X521",
+        "device": "Infinix-X521",
+        "fingerprint": "INFINIX/infinix-x521/infinix-x521:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix-X521",
+        "device": "Infinix-X521-3G",
+        "fingerprint": "INFINIX/infinix-x521-3g/infinix-x521-3g:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix-X521",
+        "device": "Infinix-X521-Pro",
+        "fingerprint": "INFINIX/infinix-x521-pro/infinix-x521-pro:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix-X521-LTE",
+        "device": "Infinix-X521",
+        "fingerprint": "INFINIX/infinix-x521/infinix-x521:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix-X521S",
+        "device": "Infinix-X521",
+        "fingerprint": "INFINIX/infinix-x521/infinix-x521:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix-X521_LTE",
+        "device": "Infinix-X521-Pro",
+        "fingerprint": "INFINIX/infinix-x521-pro/infinix-x521-pro:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix-X551",
+        "device": "Infinix-X551",
+        "fingerprint": "INFINIX/infinix-x551/infinix-x551:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix-X552",
+        "device": "INFINIX-X552",
+        "fingerprint": "INFINIX/infinix-x552/infinix-x552:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix-X552",
+        "device": "INFINIX-X552-95M",
+        "fingerprint": "INFINIX/infinix-x552-95m/infinix-x552-95m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix-X554",
+        "device": "INFINIX-X554",
+        "fingerprint": "INFINIX/infinix-x554/infinix-x554:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix-X600",
+        "device": "INFINIX-X600-5M",
+        "fingerprint": "INFINIX/infinix-x600-5m/infinix-x600-5m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix-X600-LTE",
+        "device": "INFINIX-X600-H533-5M",
+        "fingerprint": "INFINIX/infinix-x600-h533-5m/infinix-x600-h533-5m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix_X521",
+        "device": "Infinix-X521",
+        "fingerprint": "INFINIX/infinix-x521/infinix-x521:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix_X521",
+        "device": "Infinix-X521-Pro",
+        "fingerprint": "INFINIX/infinix-x521-pro/infinix-x521-pro:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix_X521S",
+        "device": "Infinix-X521",
+        "fingerprint": "INFINIX/infinix-x521/infinix-x521:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix_X521_LTE",
+        "device": "Infinix-X521-Pro",
+        "fingerprint": "INFINIX/infinix-x521-pro/infinix-x521-pro:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix_X556_LTE",
+        "device": "X556",
+        "fingerprint": "INFINIX/x556/x556:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Infinix_X601_LTE",
+        "device": "X601-LTE",
+        "fingerprint": "INFINIX/x601-lte/x601-lte:12/SP1A.210812.016/7769886:user/release-keys"
+    }
+]

@@ -1,0 +1,29 @@
+name: Update Device Database
+on:
+  schedule:
+    - cron: '0 0 * * *' # Jalan otomatis setiap 24 jam (jam 12 malam)
+  workflow_dispatch: # Tombol buat jalanin manual dari dashboard GitHub
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Generate Database
+        run: |
+          python generate_db.py --update
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "KuySpoof Bot"
+          git config --global user.email "bot@kuyspoof.com"
+          git add database/*.json
+          git commit -m "Auto-update database: $(date)" || exit 0
+          git push

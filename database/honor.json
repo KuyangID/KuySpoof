@@ -1,0 +1,642 @@
+[
+    {
+        "model": "ABR-LX1",
+        "device": "HNABR-Q",
+        "fingerprint": "HONOR/hnabr-q/hnabr-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ABR-LX2",
+        "device": "HNABR-Q",
+        "fingerprint": "HONOR/hnabr-q/hnabr-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ABR-LX3",
+        "device": "HNABR-Q",
+        "fingerprint": "HONOR/hnabr-q/hnabr-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ABR-NX1",
+        "device": "HNABR-M",
+        "fingerprint": "HONOR/hnabr-m/hnabr-m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ABR-NX3",
+        "device": "HNABR-M",
+        "fingerprint": "HONOR/hnabr-m/hnabr-m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ALI-NX1",
+        "device": "HNALI-Q",
+        "fingerprint": "HONOR/hnali-q/hnali-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ALI-NX3",
+        "device": "HNALI-Q",
+        "fingerprint": "HONOR/hnali-q/hnali-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ALI-NX3P",
+        "device": "HNALI-Q",
+        "fingerprint": "HONOR/hnali-q/hnali-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ALT-LX1",
+        "device": "HNALT-QL",
+        "fingerprint": "HONOR/hnalt-ql/hnalt-ql:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ALT-LX2",
+        "device": "HNALT-QL",
+        "fingerprint": "HONOR/hnalt-ql/hnalt-ql:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ALT-LX3",
+        "device": "HNALT-QL",
+        "fingerprint": "HONOR/hnalt-ql/hnalt-ql:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ALT-NX1",
+        "device": "HNALT-Q1",
+        "fingerprint": "HONOR/hnalt-q1/hnalt-q1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ALT-NX3",
+        "device": "HNALT-Q2",
+        "fingerprint": "HONOR/hnalt-q2/hnalt-q2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ANY-LX1",
+        "device": "HNANY-Q1",
+        "fingerprint": "HONOR/hnany-q1/hnany-q1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ANY-LX2",
+        "device": "HNANY-Q1",
+        "fingerprint": "HONOR/hnany-q1/hnany-q1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ANY-LX3",
+        "device": "HNANY-Q1",
+        "fingerprint": "HONOR/hnany-q1/hnany-q1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ANY-NX1",
+        "device": "HNANY-Q",
+        "fingerprint": "HONOR/hnany-q/hnany-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "BKQ-N49",
+        "device": "HNBKQ",
+        "fingerprint": "HONOR/hnbkq/hnbkq:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "BLK-L03",
+        "device": "BLK-L03",
+        "fingerprint": "IOTAPK/blk-l03/blk-l03:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "BLK-L09",
+        "device": "BLK-L09",
+        "fingerprint": "IOTAPK/blk-l09/blk-l09:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "BRP-NX1",
+        "device": "HNBRP-Q1",
+        "fingerprint": "HONOR/hnbrp-q1/hnbrp-q1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "BRP-NX1M",
+        "device": "HNBRP-Q1",
+        "fingerprint": "HONOR/hnbrp-q1/hnbrp-q1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "BRP-NX3",
+        "device": "HNBRP-Q1",
+        "fingerprint": "HONOR/hnbrp-q1/hnbrp-q1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "BVL-AN00",
+        "device": "HNBVL-AN00",
+        "fingerprint": "HONOR/hnbvl-an00/hnbvl-an00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "BVL-AN16",
+        "device": "HNBVL",
+        "fingerprint": "HONOR/hnbvl/hnbvl:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "BVL-AN20",
+        "device": "HNBVL",
+        "fingerprint": "HONOR/hnbvl/hnbvl:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "BVL-N49",
+        "device": "HNBVL",
+        "fingerprint": "HONOR/hnbvl/hnbvl:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "BVL-N59",
+        "device": "HNBVL",
+        "fingerprint": "HONOR/hnbvl/hnbvl:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CLK-LX1",
+        "device": "HNCLK-Q",
+        "fingerprint": "HONOR/hnclk-q/hnclk-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CLK-LX2",
+        "device": "HNCLK-Q",
+        "fingerprint": "HONOR/hnclk-q/hnclk-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CLK-LX3",
+        "device": "HNCLK-Q",
+        "fingerprint": "HONOR/hnclk-q/hnclk-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CLK-NX1",
+        "device": "HNCLK-M1",
+        "fingerprint": "HONOR/hnclk-m1/hnclk-m1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CLK-NX2",
+        "device": "HNCLK-M1",
+        "fingerprint": "HONOR/hnclk-m1/hnclk-m1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CMA-LX1",
+        "device": "HNCMA-Q",
+        "fingerprint": "HONOR/hncma-q/hncma-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CMA-LX2",
+        "device": "HNCMA-Q",
+        "fingerprint": "HONOR/hncma-q/hncma-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CMA-LX3",
+        "device": "HNCMA-Q",
+        "fingerprint": "HONOR/hncma-q/hncma-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CRT-LX1",
+        "device": "HNCRT-M1",
+        "fingerprint": "HONOR/hncrt-m1/hncrt-m1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CRT-LX2",
+        "device": "HNCRT-M1",
+        "fingerprint": "HONOR/hncrt-m1/hncrt-m1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CRT-LX3",
+        "device": "HNCRT-M1",
+        "fingerprint": "HONOR/hncrt-m1/hncrt-m1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CRT-NX1",
+        "device": "HNCRT-M2",
+        "fingerprint": "HONOR/hncrt-m2/hncrt-m2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CRT-NX3",
+        "device": "HNCRT-M2",
+        "fingerprint": "HONOR/hncrt-m2/hncrt-m2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "DNP-NX9",
+        "device": "HNDNPX",
+        "fingerprint": "HONOR/hndnpx/hndnpx:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "DNY-NX9",
+        "device": "HNDNYX",
+        "fingerprint": "HONOR/hndnyx/hndnyx:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ELA-LX2",
+        "device": "HNELA-M",
+        "fingerprint": "HONOR/hnela-m/hnela-m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ELA-LX3",
+        "device": "HNELA-M",
+        "fingerprint": "HONOR/hnela-m/hnela-m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ELI-AN00",
+        "device": "HNELI",
+        "fingerprint": "HONOR/hneli/hneli:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ELI-NX9",
+        "device": "HNELIX",
+        "fingerprint": "HONOR/hnelix/hnelix:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ELP-AN00",
+        "device": "HNELP",
+        "fingerprint": "HONOR/hnelp/hnelp:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ELP-NX9",
+        "device": "HNELPX",
+        "fingerprint": "HONOR/hnelpx/hnelpx:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "FCP-N49",
+        "device": "HNFCPX",
+        "fingerprint": "HONOR/hnfcpx/hnfcpx:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "FNE-NX9",
+        "device": "HNFNE",
+        "fingerprint": "HONOR/hnfne/hnfne:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "FRI-NX9",
+        "device": "HNFRI",
+        "fingerprint": "HONOR/hnfri/hnfri:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "GFY-LX2",
+        "device": "HNGFY-M",
+        "fingerprint": "HONOR/hngfy-m/hngfy-m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "GFY-LX2P",
+        "device": "HNGFY-M",
+        "fingerprint": "HONOR/hngfy-m/hngfy-m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "GFY-LX3",
+        "device": "HNGFY-M",
+        "fingerprint": "HONOR/hngfy-m/hngfy-m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "JDY-LX1",
+        "device": "HNJDY-M1",
+        "fingerprint": "HONOR/hnjdy-m1/hnjdy-m1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "JDY-LX2",
+        "device": "HNJDY-M1",
+        "fingerprint": "HONOR/hnjdy-m1/hnjdy-m1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "JDY-LX3",
+        "device": "HNJDY-M1",
+        "fingerprint": "HONOR/hnjdy-m1/hnjdy-m1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "JDY-LX3P",
+        "device": "HNJDY-M1",
+        "fingerprint": "HONOR/hnjdy-m1/hnjdy-m1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LGE-NX9",
+        "device": "HNLGE",
+        "fingerprint": "HONOR/hnlge/hnlge:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LGN-LX1",
+        "device": "HNLGN-QL",
+        "fingerprint": "HONOR/hnlgn-ql/hnlgn-ql:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LGN-LX2",
+        "device": "HNLGN-QL",
+        "fingerprint": "HONOR/hnlgn-ql/hnlgn-ql:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LGN-LX3",
+        "device": "HNLGN-QL",
+        "fingerprint": "HONOR/hnlgn-ql/hnlgn-ql:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LLY-LX1",
+        "device": "HNLLY-Q",
+        "fingerprint": "HONOR/hnlly-q/hnlly-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LLY-LX2",
+        "device": "HNLLY-Q",
+        "fingerprint": "HONOR/hnlly-q/hnlly-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LLY-LX3",
+        "device": "HNLLY-Q",
+        "fingerprint": "HONOR/hnlly-q/hnlly-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LLY-NX1",
+        "device": "HNLLY-M1",
+        "fingerprint": "HONOR/hnlly-m1/hnlly-m1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LLY-NX3",
+        "device": "HNLLY-M1",
+        "fingerprint": "HONOR/hnlly-m1/hnlly-m1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LNA-LX2",
+        "device": "HNLNA-Q",
+        "fingerprint": "HONOR/hnlna-q/hnlna-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LNA-LX3",
+        "device": "HNLNA-Q",
+        "fingerprint": "HONOR/hnlna-q/hnlna-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LNA-NX1",
+        "device": "HNLNA-M1",
+        "fingerprint": "HONOR/hnlna-m1/hnlna-m1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LNA-NX3",
+        "device": "HNLNA-M1",
+        "fingerprint": "HONOR/hnlna-m1/hnlna-m1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MAA-AN00",
+        "device": "HNMAA",
+        "fingerprint": "HONOR/hnmaa/hnmaa:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MAA-AN10",
+        "device": "HNMAP",
+        "fingerprint": "HONOR/hnmap/hnmap:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MAG-AN00",
+        "device": "HNMAG",
+        "fingerprint": "HONOR/hnmag/hnmag:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MBH-N49",
+        "device": "HNMBHX",
+        "fingerprint": "HONOR/hnmbhx/hnmbhx:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MEY-AN00",
+        "device": "HNMEY",
+        "fingerprint": "HONOR/hnmey/hnmey:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MTN-NX1",
+        "device": "HNMTN-Q1",
+        "fingerprint": "HONOR/hnmtn-q1/hnmtn-q1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MTN-NX1M",
+        "device": "HNMTN-Q1",
+        "fingerprint": "HONOR/hnmtn-q1/hnmtn-q1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MTN-NX3",
+        "device": "HNMTN-Q1",
+        "fingerprint": "HONOR/hnmtn-q1/hnmtn-q1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "NAA-LX2",
+        "device": "HNNLA-M",
+        "fingerprint": "HONOR/hnnla-m/hnnla-m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "NAA-LX2P",
+        "device": "HNNLA-M",
+        "fingerprint": "HONOR/hnnla-m/hnnla-m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "NIC-LX1",
+        "device": "HNNIC-M1",
+        "fingerprint": "HONOR/hnnic-m1/hnnic-m1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "NIC-LX2",
+        "device": "HNNIC-M1",
+        "fingerprint": "HONOR/hnnic-m1/hnnic-m1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "NIC-LX3",
+        "device": "HNNIC-M1",
+        "fingerprint": "HONOR/hnnic-m1/hnnic-m1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "NIC-LX3P",
+        "device": "HNNIC-M1",
+        "fingerprint": "HONOR/hnnic-m1/hnnic-m1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "NLA-LX1",
+        "device": "HNNLA-M",
+        "fingerprint": "HONOR/hnnla-m/hnnla-m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "NLA-LX2",
+        "device": "HNNLA-M",
+        "fingerprint": "HONOR/hnnla-m/hnnla-m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "NLA-LX2P",
+        "device": "HNNLA-M",
+        "fingerprint": "HONOR/hnnla-m/hnnla-m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "NLA-LX3",
+        "device": "HNNLA-M",
+        "fingerprint": "HONOR/hnnla-m/hnnla-m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "NLA-NX1",
+        "device": "HNNLA-M2",
+        "fingerprint": "HONOR/hnnla-m2/hnnla-m2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "NLA-NX3",
+        "device": "HNNLA-M2",
+        "fingerprint": "HONOR/hnnla-m2/hnnla-m2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "NTH-NX9",
+        "device": "HNNTH",
+        "fingerprint": "HONOR/hnnth/hnnth:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "NTN-L22",
+        "device": "HNNTN",
+        "fingerprint": "HONOR/hnntn/hnntn:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "NTN-LX1",
+        "device": "HNNTN",
+        "fingerprint": "HONOR/hnntn/hnntn:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "NTN-LX3",
+        "device": "HNNTN",
+        "fingerprint": "HONOR/hnntn/hnntn:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PGT-N09",
+        "device": "HNPGT",
+        "fingerprint": "HONOR/hnpgt/hnpgt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PGT-N19",
+        "device": "HNPGT",
+        "fingerprint": "HONOR/hnpgt/hnpgt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PTP-N29",
+        "device": "HNPLPX",
+        "fingerprint": "HONOR/hnplpx/hnplpx:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PTP-N49",
+        "device": "HNPTPX",
+        "fingerprint": "HONOR/hnptpx/hnptpx:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PTP-N59",
+        "device": "HNPTPX",
+        "fingerprint": "HONOR/hnptpx/hnptpx:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "RBN-NX1",
+        "device": "HNRBN-Q",
+        "fingerprint": "HONOR/hnrbn-q/hnrbn-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "RBN-NX3",
+        "device": "HNRBN-Q",
+        "fingerprint": "HONOR/hnrbn-q/hnrbn-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "REA-NX9",
+        "device": "HNREA",
+        "fingerprint": "HONOR/hnrea/hnrea:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "RKY-LX1",
+        "device": "HNRKY-M1",
+        "fingerprint": "HONOR/hnrky-m1/hnrky-m1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "RKY-LX2",
+        "device": "HNRKY-M1",
+        "fingerprint": "HONOR/hnrky-m1/hnrky-m1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "RKY-LX3",
+        "device": "HNRKY-M1",
+        "fingerprint": "HONOR/hnrky-m1/hnrky-m1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "RMO-NX1",
+        "device": "HNRMO-Q",
+        "fingerprint": "HONOR/hnrmo-q/hnrmo-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "RMO-NX3",
+        "device": "HNRMO-Q",
+        "fingerprint": "HONOR/hnrmo-q/hnrmo-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TFY-LX1",
+        "device": "HNTFY-Q",
+        "fingerprint": "HONOR/hntfy-q/hntfy-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TFY-LX2",
+        "device": "HNTFY-Q",
+        "fingerprint": "HONOR/hntfy-q/hntfy-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TFY-LX3",
+        "device": "HNTFY-Q",
+        "fingerprint": "HONOR/hntfy-q/hntfy-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "VER-N49",
+        "device": "HNVER",
+        "fingerprint": "HONOR/hnver/hnver:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "VER-N49DP",
+        "device": "HNVER",
+        "fingerprint": "HONOR/hnver/hnver:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "VKJ-NX9",
+        "device": "HNVKJX",
+        "fingerprint": "HONOR/hnvkjx/hnvkjx:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "VKP-NX9",
+        "device": "HNVKPX",
+        "fingerprint": "HONOR/hnvkpx/hnvkpx:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "VNA-LX2",
+        "device": "HNVNA-M",
+        "fingerprint": "HONOR/hnvna-m/hnvna-m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "VNA-LX3",
+        "device": "HNVNA-M",
+        "fingerprint": "HONOR/hnvna-m/hnvna-m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "VNE-LX1",
+        "device": "HNVNE-M",
+        "fingerprint": "HONOR/hnvne-m/hnvne-m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "VNE-LX2",
+        "device": "HNVNE-M",
+        "fingerprint": "HONOR/hnvne-m/hnvne-m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "VNE-LX3",
+        "device": "HNVNE-M",
+        "fingerprint": "HONOR/hnvne-m/hnvne-m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "VNE-N41",
+        "device": "HNVNE-Q",
+        "fingerprint": "HONOR/hnvne-q/hnvne-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "WDY-LX1",
+        "device": "HNWDY-M",
+        "fingerprint": "HONOR/hnwdy-m/hnwdy-m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "WDY-LX2",
+        "device": "HNWDY-M",
+        "fingerprint": "HONOR/hnwdy-m/hnwdy-m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "WDY-LX3",
+        "device": "HNWDY-M",
+        "fingerprint": "HONOR/hnwdy-m/hnwdy-m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "WOD-LX1",
+        "device": "HNWDY-M",
+        "fingerprint": "HONOR/hnwdy-m/hnwdy-m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "WOD-LX2",
+        "device": "HNWDY-M",
+        "fingerprint": "HONOR/hnwdy-m/hnwdy-m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "WOD-LX3",
+        "device": "HNWDY-M",
+        "fingerprint": "HONOR/hnwdy-m/hnwdy-m:12/SP1A.210812.016/7769886:user/release-keys"
+    }
+]

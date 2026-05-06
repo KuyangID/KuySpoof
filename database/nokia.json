@@ -1,0 +1,672 @@
+[
+    {
+        "model": "DVN2KA01",
+        "device": "DV6068H_Nokia",
+        "fingerprint": "NOKIA/dv6068h_nokia/dv6068h_nokia:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 1",
+        "device": "FRT",
+        "fingerprint": "NOKIA/frt/frt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 1 Plus",
+        "device": "ANT",
+        "fingerprint": "NOKIA/ant/ant:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 1.3",
+        "device": "DRX",
+        "fingerprint": "NOKIA/drx/drx:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 1.4",
+        "device": "CBL",
+        "fingerprint": "NOKIA/cbl/cbl:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 2",
+        "device": "E1M",
+        "fingerprint": "NOKIA/e1m/e1m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 2 V",
+        "device": "EVW",
+        "fingerprint": "NOKIA/evw/evw:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 2 V Tella",
+        "device": "ARV_VZW",
+        "fingerprint": "NOKIA/arv_vzw/arv_vzw:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 2.1",
+        "device": "E2M",
+        "fingerprint": "NOKIA/e2m/e2m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 2.2",
+        "device": "WSP_sprout",
+        "fingerprint": "NOKIA/wsp_sprout/wsp_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 2.3",
+        "device": "IRM_sprout",
+        "fingerprint": "NOKIA/irm_sprout/irm_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 2.4",
+        "device": "WVR",
+        "fingerprint": "NOKIA/wvr/wvr:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 2.4",
+        "device": "WVR_sprout",
+        "fingerprint": "NOKIA/wvr_sprout/wvr_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 3",
+        "device": "NE1",
+        "fingerprint": "NOKIA/ne1/ne1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 3 V",
+        "device": "DPL_VZW",
+        "fingerprint": "NOKIA/dpl_vzw/dpl_vzw:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 3.1",
+        "device": "ES2N_sprout",
+        "fingerprint": "NOKIA/es2n_sprout/es2n_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 3.1",
+        "device": "ES2_sprout",
+        "fingerprint": "NOKIA/es2_sprout/es2_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 3.1 A",
+        "device": "EAG",
+        "fingerprint": "NOKIA/eag/eag:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 3.1 C",
+        "device": "EAG",
+        "fingerprint": "NOKIA/eag/eag:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 3.1 Plus",
+        "device": "RHD",
+        "fingerprint": "NOKIA/rhd/rhd:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 3.1 Plus",
+        "device": "ROO",
+        "fingerprint": "NOKIA/roo/roo:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 3.1 Plus",
+        "device": "ROON_sprout",
+        "fingerprint": "NOKIA/roon_sprout/roon_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 3.1 Plus",
+        "device": "ROO_sprout",
+        "fingerprint": "NOKIA/roo_sprout/roo_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 3.2",
+        "device": "DPL_sprout",
+        "fingerprint": "NOKIA/dpl_sprout/dpl_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 3.4",
+        "device": "DRS",
+        "fingerprint": "NOKIA/drs/drs:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 3.4",
+        "device": "DRSA_sprout",
+        "fingerprint": "NOKIA/drsa_sprout/drsa_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 3.4",
+        "device": "DRS_sprout",
+        "fingerprint": "NOKIA/drs_sprout/drs_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 4.2",
+        "device": "PAN_sprout",
+        "fingerprint": "NOKIA/pan_sprout/pan_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 4.2",
+        "device": "Panther_00EEE",
+        "fingerprint": "NOKIA/panther_00eee/panther_00eee:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 5",
+        "device": "ND1",
+        "fingerprint": "NOKIA/nd1/nd1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 5.1",
+        "device": "CO2N_sprout",
+        "fingerprint": "NOKIA/co2n_sprout/co2n_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 5.1",
+        "device": "CO2_sprout",
+        "fingerprint": "NOKIA/co2_sprout/co2_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 5.1 Plus",
+        "device": "PDA_sprout",
+        "fingerprint": "NOKIA/pda_sprout/pda_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 5.3",
+        "device": "CAP",
+        "fingerprint": "NOKIA/cap/cap:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 5.3",
+        "device": "CAP_sprout",
+        "fingerprint": "NOKIA/cap_sprout/cap_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 5.4",
+        "device": "DRD",
+        "fingerprint": "NOKIA/drd/drd:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 5.4",
+        "device": "DRDA_sprout",
+        "fingerprint": "NOKIA/drda_sprout/drda_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 5.4",
+        "device": "DRD_sprout",
+        "fingerprint": "NOKIA/drd_sprout/drd_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 6",
+        "device": "D1C",
+        "fingerprint": "NOKIA/d1c/d1c:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 6",
+        "device": "PL2",
+        "fingerprint": "NOKIA/pl2/pl2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 6",
+        "device": "PLE",
+        "fingerprint": "NOKIA/ple/ple:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 6.1",
+        "device": "PL2",
+        "fingerprint": "NOKIA/pl2/pl2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 6.1",
+        "device": "PL2_sprout",
+        "fingerprint": "NOKIA/pl2_sprout/pl2_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 6.1 Plus",
+        "device": "DRG_sprout",
+        "fingerprint": "NOKIA/drg_sprout/drg_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 6.2",
+        "device": "SLDA_sprout",
+        "fingerprint": "NOKIA/slda_sprout/slda_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 6.2",
+        "device": "SLD_sprout",
+        "fingerprint": "NOKIA/sld_sprout/sld_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 7",
+        "device": "C1N",
+        "fingerprint": "NOKIA/c1n/c1n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 7 plus",
+        "device": "B2N",
+        "fingerprint": "NOKIA/b2n/b2n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 7 plus",
+        "device": "B2N_sprout",
+        "fingerprint": "NOKIA/b2n_sprout/b2n_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 7.1",
+        "device": "CTL_sprout",
+        "fingerprint": "NOKIA/ctl_sprout/ctl_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 7.2",
+        "device": "DDVA_sprout",
+        "fingerprint": "NOKIA/ddva_sprout/ddva_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 7.2",
+        "device": "DDV_sprout",
+        "fingerprint": "NOKIA/ddv_sprout/ddv_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 8",
+        "device": "NB1",
+        "fingerprint": "NOKIA/nb1/nb1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 8 Sirocco",
+        "device": "A1N",
+        "fingerprint": "NOKIA/a1n/a1n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 8 Sirocco",
+        "device": "A1N_sprout",
+        "fingerprint": "NOKIA/a1n_sprout/a1n_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 8 V 5G UW",
+        "device": "RAV_VZW",
+        "fingerprint": "NOKIA/rav_vzw/rav_vzw:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 8.1",
+        "device": "PNXN",
+        "fingerprint": "NOKIA/pnxn/pnxn:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 8.1",
+        "device": "PNX_sprout",
+        "fingerprint": "NOKIA/pnx_sprout/pnx_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 8.3 5G",
+        "device": "BGT",
+        "fingerprint": "NOKIA/bgt/bgt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 8.3 5G",
+        "device": "BGT_sprout",
+        "fingerprint": "NOKIA/bgt_sprout/bgt_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 9",
+        "device": "AOP",
+        "fingerprint": "NOKIA/aop/aop:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia 9",
+        "device": "AOP_sprout",
+        "fingerprint": "NOKIA/aop_sprout/aop_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia C01 Plus",
+        "device": "IRS",
+        "fingerprint": "NOKIA/irs/irs:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia C02",
+        "device": "CYR",
+        "fingerprint": "NOKIA/cyr/cyr:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia C1",
+        "device": "RKU",
+        "fingerprint": "NOKIA/rku/rku:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia C1 2nd Edition",
+        "device": "IRU",
+        "fingerprint": "NOKIA/iru/iru:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia C1 Plus",
+        "device": "YDU",
+        "fingerprint": "NOKIA/ydu/ydu:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia C10",
+        "device": "MNT",
+        "fingerprint": "NOKIA/mnt/mnt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia C100",
+        "device": "DKT",
+        "fingerprint": "NOKIA/dkt/dkt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia C110",
+        "device": "DGC",
+        "fingerprint": "NOKIA/dgc/dgc:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia C110",
+        "device": "DGF",
+        "fingerprint": "NOKIA/dgf/dgf:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia C12",
+        "device": "NVA",
+        "fingerprint": "NOKIA/nva/nva:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia C12 Pro",
+        "device": "NVA",
+        "fingerprint": "NOKIA/nva/nva:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia C2",
+        "device": "NBL",
+        "fingerprint": "NOKIA/nbl/nbl:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia C2 2nd Edition",
+        "device": "DMN",
+        "fingerprint": "NOKIA/dmn/dmn:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia C2 Tennen",
+        "device": "ARV_CUS",
+        "fingerprint": "NOKIA/arv_cus/arv_cus:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia C20",
+        "device": "COS",
+        "fingerprint": "NOKIA/cos/cos:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia C20 Plus",
+        "device": "SUS",
+        "fingerprint": "NOKIA/sus/sus:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia C200",
+        "device": "DRK",
+        "fingerprint": "NOKIA/drk/drk:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia C21",
+        "device": "COR",
+        "fingerprint": "NOKIA/cor/cor:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia C21 Plus",
+        "device": "HPE",
+        "fingerprint": "NOKIA/hpe/hpe:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia C210",
+        "device": "RVOA",
+        "fingerprint": "NOKIA/rvoa/rvoa:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia C210",
+        "device": "RVTA",
+        "fingerprint": "NOKIA/rvta/rvta:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia C22",
+        "device": "HKEA",
+        "fingerprint": "NOKIA/hkea/hkea:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia C3",
+        "device": "GMR",
+        "fingerprint": "NOKIA/gmr/gmr:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia C30",
+        "device": "MNI",
+        "fingerprint": "NOKIA/mni/mni:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia C30",
+        "device": "MNR",
+        "fingerprint": "NOKIA/mnr/mnr:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia C300",
+        "device": "ORO",
+        "fingerprint": "NOKIA/oro/oro:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia C300",
+        "device": "ORT",
+        "fingerprint": "NOKIA/ort/ort:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia C31",
+        "device": "VSI",
+        "fingerprint": "NOKIA/vsi/vsi:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia C32",
+        "device": "MKDA",
+        "fingerprint": "NOKIA/mkda/mkda:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia C5 Endi",
+        "device": "PMC_CUS",
+        "fingerprint": "NOKIA/pmc_cus/pmc_cus:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia G10",
+        "device": "ROGA",
+        "fingerprint": "NOKIA/roga/roga:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia G10",
+        "device": "ROGA_sprout",
+        "fingerprint": "NOKIA/roga_sprout/roga_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia G100",
+        "device": "DPT",
+        "fingerprint": "NOKIA/dpt/dpt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia G11",
+        "device": "SCTA_sprout",
+        "fingerprint": "NOKIA/scta_sprout/scta_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia G11",
+        "device": "SCT_sprout",
+        "fingerprint": "NOKIA/sct_sprout/sct_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia G11 Plus",
+        "device": "MGKA",
+        "fingerprint": "NOKIA/mgka/mgka:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia G11 Plus",
+        "device": "MGKA_sprout",
+        "fingerprint": "NOKIA/mgka_sprout/mgka_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia G20",
+        "device": "RNN",
+        "fingerprint": "NOKIA/rnn/rnn:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia G20",
+        "device": "RNNA_sprout",
+        "fingerprint": "NOKIA/rnna_sprout/rnna_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia G20",
+        "device": "RNN_sprout",
+        "fingerprint": "NOKIA/rnn_sprout/rnn_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia G21",
+        "device": "SCP",
+        "fingerprint": "NOKIA/scp/scp:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia G21",
+        "device": "SCPA_sprout",
+        "fingerprint": "NOKIA/scpa_sprout/scpa_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia G21",
+        "device": "SCP_sprout",
+        "fingerprint": "NOKIA/scp_sprout/scp_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia G22",
+        "device": "SFI",
+        "fingerprint": "NOKIA/sfi/sfi:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia G22",
+        "device": "SFIA",
+        "fingerprint": "NOKIA/sfia/sfia:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia G300",
+        "device": "AKT",
+        "fingerprint": "NOKIA/akt/akt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia G310 5G",
+        "device": "SDT",
+        "fingerprint": "NOKIA/sdt/sdt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia G400 5G",
+        "device": "STM",
+        "fingerprint": "NOKIA/stm/stm:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia G400 5G",
+        "device": "STO",
+        "fingerprint": "NOKIA/sto/sto:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia G42 5G",
+        "device": "SDW",
+        "fingerprint": "NOKIA/sdw/sdw:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia G42 5G",
+        "device": "SDWA",
+        "fingerprint": "NOKIA/sdwa/sdwa:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia G50",
+        "device": "PHR",
+        "fingerprint": "NOKIA/phr/phr:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia G50",
+        "device": "PHR_sprout",
+        "fingerprint": "NOKIA/phr_sprout/phr_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia G60 5G",
+        "device": "APO_sprout",
+        "fingerprint": "NOKIA/apo_sprout/apo_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia T10",
+        "device": "PGN",
+        "fingerprint": "NOKIA/pgn/pgn:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia T20",
+        "device": "RDD",
+        "fingerprint": "NOKIA/rdd/rdd:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia T20",
+        "device": "RDDCN",
+        "fingerprint": "NOKIA/rddcn/rddcn:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia T21",
+        "device": "AGT",
+        "fingerprint": "NOKIA/agt/agt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia T21",
+        "device": "AGTA",
+        "fingerprint": "NOKIA/agta/agta:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia X10",
+        "device": "SCW",
+        "fingerprint": "NOKIA/scw/scw:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia X10",
+        "device": "SCW_sprout",
+        "fingerprint": "NOKIA/scw_sprout/scw_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia X100",
+        "device": "DM5",
+        "fingerprint": "NOKIA/dm5/dm5:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia X20",
+        "device": "QKS",
+        "fingerprint": "NOKIA/qks/qks:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia X20",
+        "device": "QKS_sprout",
+        "fingerprint": "NOKIA/qks_sprout/qks_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia X30 5G",
+        "device": "FCN_sprout",
+        "fingerprint": "NOKIA/fcn_sprout/fcn_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia X5",
+        "device": "PDA",
+        "fingerprint": "NOKIA/pda/pda:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia X6",
+        "device": "DRG",
+        "fingerprint": "NOKIA/drg/drg:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia X7",
+        "device": "PNX",
+        "fingerprint": "NOKIA/pnx/pnx:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia X71",
+        "device": "TAS",
+        "fingerprint": "NOKIA/tas/tas:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia XR20",
+        "device": "TTG",
+        "fingerprint": "NOKIA/ttg/ttg:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia XR20",
+        "device": "TTG_sprout",
+        "fingerprint": "NOKIA/ttg_sprout/ttg_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nokia XR21",
+        "device": "SNT_sprout",
+        "fingerprint": "NOKIA/snt_sprout/snt_sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    }
+]

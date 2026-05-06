@@ -1,0 +1,3062 @@
+[
+    {
+        "model": "A001OP",
+        "device": "OP4C2DL1",
+        "fingerprint": "OPPO/op4c2dl1/op4c2dl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "A002OP",
+        "device": "OP4BAFL1",
+        "fingerprint": "OPPO/op4bafl1/op4bafl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "A101OP",
+        "device": "OP4F2BL1",
+        "fingerprint": "OPPO/op4f2bl1/op4f2bl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "A102OP",
+        "device": "OP52EBL1",
+        "fingerprint": "OPPO/op52ebl1/op52ebl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "A103OP",
+        "device": "OP4F2BL1",
+        "fingerprint": "OPPO/op4f2bl1/op4f2bl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "A11",
+        "device": "A11",
+        "fingerprint": "OPPO/a11/a11:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "A11f",
+        "device": "A11",
+        "fingerprint": "OPPO/a11/a11:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "A11t",
+        "device": "A11",
+        "fingerprint": "OPPO/a11/a11:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "A11w",
+        "device": "A11w",
+        "fingerprint": "OPPO/a11w/a11w:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "A1601",
+        "device": "A1601",
+        "fingerprint": "OPPO/a1601/a1601:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "A1601fw",
+        "device": "A1601",
+        "fingerprint": "OPPO/a1601/a1601:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "A1603",
+        "device": "A1603",
+        "fingerprint": "OPPO/a1603/a1603:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "A201OP",
+        "device": "OP532BL1",
+        "fingerprint": "OPPO/op532bl1/op532bl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "A301OP",
+        "device": "OP5701L1",
+        "fingerprint": "OPPO/op5701l1/op5701l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "A302OP",
+        "device": "OP56DBL1",
+        "fingerprint": "OPPO/op56dbl1/op56dbl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "A303OP",
+        "device": "OP573DL1",
+        "fingerprint": "OPPO/op573dl1/op573dl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "A31",
+        "device": "A31t",
+        "fingerprint": "OPPO/a31t/a31t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "A31c",
+        "device": "A31c",
+        "fingerprint": "OPPO/a31c/a31c:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "A31t",
+        "device": "A31t",
+        "fingerprint": "OPPO/a31t/a31t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "A31u",
+        "device": "A31u",
+        "fingerprint": "OPPO/a31u/a31u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "A33",
+        "device": "A33",
+        "fingerprint": "OPPO/a33/a33:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "A33f",
+        "device": "A33",
+        "fingerprint": "OPPO/a33/a33:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "A33fw",
+        "device": "A33",
+        "fingerprint": "OPPO/a33/a33:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "A33t",
+        "device": "A33t",
+        "fingerprint": "OPPO/a33t/a33t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "A33w",
+        "device": "A33w",
+        "fingerprint": "OPPO/a33w/a33w:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "A37f",
+        "device": "A37f",
+        "fingerprint": "OPPO/a37f/a37f:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "A37f",
+        "device": "A37fs",
+        "fingerprint": "OPPO/a37fs/a37fs:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "A37fw",
+        "device": "A37f",
+        "fingerprint": "OPPO/a37f/a37f:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "A37fw",
+        "device": "A37fs",
+        "fingerprint": "OPPO/a37fs/a37fs:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "A401OP",
+        "device": "OP5A0BL1",
+        "fingerprint": "OPPO/op5a0bl1/op5a0bl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "A402OP",
+        "device": "OP5B05L1",
+        "fingerprint": "OPPO/op5b05l1/op5b05l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "A501OP",
+        "device": "OP5EC7L1",
+        "fingerprint": "OPPO/op5ec7l1/op5ec7l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "A502OP",
+        "device": "OP5EF7L1",
+        "fingerprint": "OPPO/op5ef7l1/op5ef7l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "A51",
+        "device": "A51",
+        "fingerprint": "OPPO/a51/a51:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "A51f",
+        "device": "A51",
+        "fingerprint": "OPPO/a51/a51:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "A51kc",
+        "device": "A51kc",
+        "fingerprint": "OPPO/a51kc/a51kc:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "A51w",
+        "device": "A51",
+        "fingerprint": "OPPO/a51/a51:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "A53f",
+        "device": "A53",
+        "fingerprint": "OPPO/a53/a53:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "A53fw",
+        "device": "A53",
+        "fingerprint": "OPPO/a53/a53:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "A53w",
+        "device": "A53",
+        "fingerprint": "OPPO/a53/a53:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1605",
+        "device": "CPH1605",
+        "fingerprint": "OPPO/cph1605/cph1605:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1605fw",
+        "device": "CPH1605",
+        "fingerprint": "OPPO/cph1605/cph1605:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1607",
+        "device": "CPH1607",
+        "fingerprint": "OPPO/cph1607/cph1607:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1607fw",
+        "device": "CPH1607",
+        "fingerprint": "OPPO/cph1607/cph1607:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1609",
+        "device": "CPH1609",
+        "fingerprint": "OPPO/cph1609/cph1609:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1609fw",
+        "device": "CPH1609",
+        "fingerprint": "OPPO/cph1609/cph1609:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1611",
+        "device": "CPH1611",
+        "fingerprint": "OPPO/cph1611/cph1611:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1613",
+        "device": "CPH1613",
+        "fingerprint": "OPPO/cph1613/cph1613:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1613fw",
+        "device": "CPH1613",
+        "fingerprint": "OPPO/cph1613/cph1613:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1701",
+        "device": "CPH1701",
+        "fingerprint": "OPPO/cph1701/cph1701:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1701fw",
+        "device": "CPH1701",
+        "fingerprint": "OPPO/cph1701/cph1701:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1705",
+        "device": "CPH1705",
+        "fingerprint": "OPPO/cph1705/cph1705:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1705fw",
+        "device": "CPH1705",
+        "fingerprint": "OPPO/cph1705/cph1705:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1707",
+        "device": "CPH1707",
+        "fingerprint": "OPPO/cph1707/cph1707:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1707fw",
+        "device": "CPH1707",
+        "fingerprint": "OPPO/cph1707/cph1707:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1715",
+        "device": "CPH1715",
+        "fingerprint": "OPPO/cph1715/cph1715:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1717",
+        "device": "CPH1717",
+        "fingerprint": "OPPO/cph1717/cph1717:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1719",
+        "device": "CPH1719",
+        "fingerprint": "OPPO/cph1719/cph1719:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1721",
+        "device": "CPH1721",
+        "fingerprint": "OPPO/cph1721/cph1721:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1723",
+        "device": "CPH1723",
+        "fingerprint": "OPPO/cph1723/cph1723:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1725",
+        "device": "CPH1725",
+        "fingerprint": "OPPO/cph1725/cph1725:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1727",
+        "device": "CPH1727",
+        "fingerprint": "OPPO/cph1727/cph1727:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1729",
+        "device": "CPH1729",
+        "fingerprint": "OPPO/cph1729/cph1729:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1801",
+        "device": "CPH1801",
+        "fingerprint": "OPPO/cph1801/cph1801:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1803",
+        "device": "CPH1803",
+        "fingerprint": "OPPO/cph1803/cph1803:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1805",
+        "device": "CPH1805",
+        "fingerprint": "OPPO/cph1805/cph1805:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1807",
+        "device": "CPH1807",
+        "fingerprint": "OPPO/cph1807/cph1807:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1808",
+        "device": "CPH1808",
+        "fingerprint": "OPPO/cph1808/cph1808:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1827",
+        "device": "CPH1827",
+        "fingerprint": "OPPO/cph1827/cph1827:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1831",
+        "device": "CPH1831",
+        "fingerprint": "OPPO/cph1831/cph1831:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1833",
+        "device": "CPH1833",
+        "fingerprint": "OPPO/cph1833/cph1833:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1833",
+        "device": "CPH1833L1",
+        "fingerprint": "OPPO/cph1833l1/cph1833l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1835",
+        "device": "CPH1835",
+        "fingerprint": "OPPO/cph1835/cph1835:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1851",
+        "device": "CPH1851",
+        "fingerprint": "OPPO/cph1851/cph1851:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1853",
+        "device": "CPH1853",
+        "fingerprint": "OPPO/cph1853/cph1853:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1859",
+        "device": "CPH1859",
+        "fingerprint": "OPPO/cph1859/cph1859:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1861",
+        "device": "CPH1861",
+        "fingerprint": "OPPO/cph1861/cph1861:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1871",
+        "device": "CPH1871",
+        "fingerprint": "OPPO/cph1871/cph1871:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1875",
+        "device": "CPH1875",
+        "fingerprint": "OPPO/cph1875/cph1875:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1877",
+        "device": "CPH1877",
+        "fingerprint": "OPPO/cph1877/cph1877:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1879",
+        "device": "CPH1879",
+        "fingerprint": "OPPO/cph1879/cph1879:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1893",
+        "device": "CPH1893",
+        "fingerprint": "OPPO/cph1893/cph1893:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1903",
+        "device": "CPH1903",
+        "fingerprint": "OPPO/cph1903/cph1903:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1907",
+        "device": "OP4B83L1",
+        "fingerprint": "OPPO/op4b83l1/op4b83l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1909",
+        "device": "CPH1909",
+        "fingerprint": "OPPO/cph1909/cph1909:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1911",
+        "device": "OP4883",
+        "fingerprint": "OPPO/op4883/op4883:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1913",
+        "device": "OP4883",
+        "fingerprint": "OPPO/op4883/op4883:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1915",
+        "device": "OP4883",
+        "fingerprint": "OPPO/op4883/op4883:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1917",
+        "device": "OP47DD",
+        "fingerprint": "OPPO/op47dd/op47dd:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1917",
+        "device": "OP47DDL1",
+        "fingerprint": "OPPO/op47ddl1/op47ddl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1919",
+        "device": "OP4845",
+        "fingerprint": "OPPO/op4845/op4845:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1919",
+        "device": "OP4845L1",
+        "fingerprint": "OPPO/op4845l1/op4845l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1919RU",
+        "device": "OP4845",
+        "fingerprint": "OPPO/op4845/op4845:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1920",
+        "device": "CPH1920",
+        "fingerprint": "OPPO/cph1920/cph1920:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1921",
+        "device": "OP4847L1",
+        "fingerprint": "OPPO/op4847l1/op4847l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1921",
+        "device": "OP4847",
+        "fingerprint": "OPPO/op4847/op4847:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1923",
+        "device": "OP486C",
+        "fingerprint": "OPPO/op486c/op486c:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1931",
+        "device": "OP4B79L1",
+        "fingerprint": "OPPO/op4b79l1/op4b79l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1933",
+        "device": "OP4B79L1",
+        "fingerprint": "OPPO/op4b79l1/op4b79l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1937",
+        "device": "OP4B80L1",
+        "fingerprint": "OPPO/op4b80l1/op4b80l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1938",
+        "device": "OP4883",
+        "fingerprint": "OPPO/op4883/op4883:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1941",
+        "device": "OP4B80L1",
+        "fingerprint": "OPPO/op4b80l1/op4b80l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1943",
+        "device": "OP4B80L1",
+        "fingerprint": "OPPO/op4b80l1/op4b80l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1945",
+        "device": "OP4B65L1",
+        "fingerprint": "OPPO/op4b65l1/op4b65l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1951",
+        "device": "OP4B65L1",
+        "fingerprint": "OPPO/op4b65l1/op4b65l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1969",
+        "device": "OP4863",
+        "fingerprint": "OPPO/op4863/op4863:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1979",
+        "device": "OP48A1",
+        "fingerprint": "OPPO/op48a1/op48a1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1979",
+        "device": "OP48A1L1",
+        "fingerprint": "OPPO/op48a1l1/op48a1l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1983",
+        "device": "OP47CFL1",
+        "fingerprint": "OPPO/op47cfl1/op47cfl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1987",
+        "device": "OP4863",
+        "fingerprint": "OPPO/op4863/op4863:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH1989",
+        "device": "OP4C4BL1",
+        "fingerprint": "OPPO/op4c4bl1/op4c4bl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2001",
+        "device": "OP4B9B",
+        "fingerprint": "OPPO/op4b9b/op4b9b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2005",
+        "device": "OP4C41L1",
+        "fingerprint": "OPPO/op4c41l1/op4c41l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2009",
+        "device": "OP4C2DL1",
+        "fingerprint": "OPPO/op4c2dl1/op4c2dl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2013",
+        "device": "OP4BAFL1",
+        "fingerprint": "OPPO/op4bafl1/op4bafl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2015",
+        "device": "OP4C7D",
+        "fingerprint": "OPPO/op4c7d/op4c7d:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2021",
+        "device": "OP4B9B",
+        "fingerprint": "OPPO/op4b9b/op4b9b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2023",
+        "device": "OP4BA1L1",
+        "fingerprint": "OPPO/op4ba1l1/op4ba1l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2025",
+        "device": "OP4BA2L1",
+        "fingerprint": "OPPO/op4ba2l1/op4ba2l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2031",
+        "device": "OP4C7D",
+        "fingerprint": "OPPO/op4c7d/op4c7d:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2035",
+        "device": "OP4C5FL1",
+        "fingerprint": "OPPO/op4c5fl1/op4c5fl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2036",
+        "device": "OP4C5FL1",
+        "fingerprint": "OPPO/op4c5fl1/op4c5fl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2037",
+        "device": "OP4C5FL1",
+        "fingerprint": "OPPO/op4c5fl1/op4c5fl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2043",
+        "device": "OP4B9EL1",
+        "fingerprint": "OPPO/op4b9el1/op4b9el1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2059",
+        "device": "OP4C72L1",
+        "fingerprint": "OPPO/op4c72l1/op4c72l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2061",
+        "device": "OP4C77L1",
+        "fingerprint": "OPPO/op4c77l1/op4c77l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2065",
+        "device": "OP4BDCL1",
+        "fingerprint": "OPPO/op4bdcl1/op4bdcl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2067",
+        "device": "OP4C72L1",
+        "fingerprint": "OPPO/op4c72l1/op4c72l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2069",
+        "device": "OP4C7BL1",
+        "fingerprint": "OPPO/op4c7bl1/op4c7bl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2071",
+        "device": "OP4BFB",
+        "fingerprint": "OPPO/op4bfb/op4bfb:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2073",
+        "device": "OP4C7D",
+        "fingerprint": "OPPO/op4c7d/op4c7d:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2077",
+        "device": "OP4BFB",
+        "fingerprint": "OPPO/op4bfb/op4bfb:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2081",
+        "device": "OP4C7D",
+        "fingerprint": "OPPO/op4c7d/op4c7d:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2083",
+        "device": "OP4BFB",
+        "fingerprint": "OPPO/op4bfb/op4bfb:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2089",
+        "device": "OP4C87L1",
+        "fingerprint": "OPPO/op4c87l1/op4c87l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2091",
+        "device": "OP4C45L1",
+        "fingerprint": "OPPO/op4c45l1/op4c45l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2095",
+        "device": "OP4EF3L1",
+        "fingerprint": "OPPO/op4ef3l1/op4ef3l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2109",
+        "device": "OP4BA5L1",
+        "fingerprint": "OPPO/op4ba5l1/op4ba5l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2113",
+        "device": "OP4BA5L1",
+        "fingerprint": "OPPO/op4ba5l1/op4ba5l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2119",
+        "device": "OP4C51L1",
+        "fingerprint": "OPPO/op4c51l1/op4c51l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2121",
+        "device": "OP4C51L1",
+        "fingerprint": "OPPO/op4c51l1/op4c51l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2123",
+        "device": "OP4C51L1",
+        "fingerprint": "OPPO/op4c51l1/op4c51l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2125",
+        "device": "OP4C51L1",
+        "fingerprint": "OPPO/op4c51l1/op4c51l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2127",
+        "device": "OP4EFDL1",
+        "fingerprint": "OPPO/op4efdl1/op4efdl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2131",
+        "device": "OP4EFDL1",
+        "fingerprint": "OPPO/op4efdl1/op4efdl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2133",
+        "device": "OP4EFDL1",
+        "fingerprint": "OPPO/op4efdl1/op4efdl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2135",
+        "device": "OP4EFDL1",
+        "fingerprint": "OPPO/op4efdl1/op4efdl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2137",
+        "device": "OP4EEA",
+        "fingerprint": "OPPO/op4eea/op4eea:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2139",
+        "device": "OP4EFDL1",
+        "fingerprint": "OPPO/op4efdl1/op4efdl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2145",
+        "device": "OP4F1BL1",
+        "fingerprint": "OPPO/op4f1bl1/op4f1bl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2159",
+        "device": "OP4F25L1",
+        "fingerprint": "OPPO/op4f25l1/op4f25l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2161",
+        "device": "OP4EE8L1",
+        "fingerprint": "OPPO/op4ee8l1/op4ee8l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2173",
+        "device": "OP4F57L1",
+        "fingerprint": "OPPO/op4f57l1/op4f57l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2179",
+        "device": "OP4F2F",
+        "fingerprint": "OPPO/op4f2f/op4f2f:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2185",
+        "device": "OP4F2F",
+        "fingerprint": "OPPO/op4f2f/op4f2f:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH21859",
+        "device": "OP4F2F",
+        "fingerprint": "OPPO/op4f2f/op4f2f:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2195",
+        "device": "OP4F39L1",
+        "fingerprint": "OPPO/op4f39l1/op4f39l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2197",
+        "device": "OP4F39L1",
+        "fingerprint": "OPPO/op4f39l1/op4f39l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2199",
+        "device": "OP4F2BL1",
+        "fingerprint": "OPPO/op4f2bl1/op4f2bl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2201",
+        "device": "OP4F1FL1",
+        "fingerprint": "OPPO/op4f1fl1/op4f1fl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2203",
+        "device": "OP4F43L1",
+        "fingerprint": "OPPO/op4f43l1/op4f43l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2205",
+        "device": "OP4F43L1",
+        "fingerprint": "OPPO/op4f43l1/op4f43l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2207",
+        "device": "OP4F0BL1",
+        "fingerprint": "OPPO/op4f0bl1/op4f0bl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2209",
+        "device": "OP4C51L1",
+        "fingerprint": "OPPO/op4c51l1/op4c51l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2211",
+        "device": "OP4F4DL1",
+        "fingerprint": "OPPO/op4f4dl1/op4f4dl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2213",
+        "device": "OP4F4DL1",
+        "fingerprint": "OPPO/op4f4dl1/op4f4dl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2217",
+        "device": "OP4F43L1",
+        "fingerprint": "OPPO/op4f43l1/op4f43l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2219",
+        "device": "OP4F11L1",
+        "fingerprint": "OPPO/op4f11l1/op4f11l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2223",
+        "device": "OP4F11L1",
+        "fingerprint": "OPPO/op4f11l1/op4f11l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2235",
+        "device": "OP4F25L1",
+        "fingerprint": "OPPO/op4f25l1/op4f25l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2237",
+        "device": "OP4FA7L1",
+        "fingerprint": "OPPO/op4fa7l1/op4fa7l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2239",
+        "device": "OP4F2F",
+        "fingerprint": "OPPO/op4f2f/op4f2f:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2241",
+        "device": "OP4F2F",
+        "fingerprint": "OPPO/op4f2f/op4f2f:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2247",
+        "device": "OP4F7FL1",
+        "fingerprint": "OPPO/op4f7fl1/op4f7fl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2249",
+        "device": "OP4F81L1",
+        "fingerprint": "OPPO/op4f81l1/op4f81l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2251",
+        "device": "OP4F83L1",
+        "fingerprint": "OPPO/op4f83l1/op4f83l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2263",
+        "device": "OP4F39L1",
+        "fingerprint": "OPPO/op4f39l1/op4f39l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2269",
+        "device": "OP4F97",
+        "fingerprint": "OPPO/op4f97/op4f97:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2271",
+        "device": "OP4F97",
+        "fingerprint": "OPPO/op4f97/op4f97:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2273",
+        "device": "OP4F97",
+        "fingerprint": "OPPO/op4f97/op4f97:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2275",
+        "device": "OP4F97",
+        "fingerprint": "OPPO/op4f97/op4f97:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2285",
+        "device": "OP4F43L1",
+        "fingerprint": "OPPO/op4f43l1/op4f43l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2293",
+        "device": "OP52E1L1",
+        "fingerprint": "OPPO/op52e1l1/op52e1l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2303",
+        "device": "OP4F39L1",
+        "fingerprint": "OPPO/op4f39l1/op4f39l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2305",
+        "device": "OP52D1L1",
+        "fingerprint": "OPPO/op52d1l1/op52d1l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2307",
+        "device": "OP52D5L1",
+        "fingerprint": "OPPO/op52d5l1/op52d5l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2309",
+        "device": "OP52EBL1",
+        "fingerprint": "OPPO/op52ebl1/op52ebl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2321",
+        "device": "OP4F53L1",
+        "fingerprint": "OPPO/op4f53l1/op4f53l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2325",
+        "device": "OP5303",
+        "fingerprint": "OPPO/op5303/op5303:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2339",
+        "device": "OP52F3L1",
+        "fingerprint": "OPPO/op52f3l1/op52f3l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2341",
+        "device": "OP532FL1",
+        "fingerprint": "OPPO/op532fl1/op532fl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2343",
+        "device": "OP532FL1",
+        "fingerprint": "OPPO/op532fl1/op532fl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2351",
+        "device": "OP5321",
+        "fingerprint": "OPPO/op5321/op5321:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2353",
+        "device": "OP532BL1",
+        "fingerprint": "OPPO/op532bl1/op532bl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2357",
+        "device": "OP5335L1",
+        "fingerprint": "OPPO/op5335l1/op5335l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2359",
+        "device": "OP5339L1",
+        "fingerprint": "OPPO/op5339l1/op5339l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2363",
+        "device": "OP533FL1",
+        "fingerprint": "OPPO/op533fl1/op533fl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2365",
+        "device": "OP4F11L1",
+        "fingerprint": "OPPO/op4f11l1/op4f11l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2371",
+        "device": "OPD4A1L1",
+        "fingerprint": "OPPO/opd4a1l1/opd4a1l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2385",
+        "device": "OP5353L1",
+        "fingerprint": "OPPO/op5353l1/op5353l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2385",
+        "device": "OP571DL1",
+        "fingerprint": "OPPO/op571dl1/op571dl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2387",
+        "device": "OP5355",
+        "fingerprint": "OPPO/op5355/op5355:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2387",
+        "device": "OP571F",
+        "fingerprint": "OPPO/op571f/op571f:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2407",
+        "device": "OP5355",
+        "fingerprint": "OPPO/op5355/op5355:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2407",
+        "device": "OP571F",
+        "fingerprint": "OPPO/op571f/op571f:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2421",
+        "device": "OP5325",
+        "fingerprint": "OPPO/op5325/op5325:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2437",
+        "device": "OP56CDL1",
+        "fingerprint": "OPPO/op56cdl1/op56cdl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2455",
+        "device": "OP56E1L1",
+        "fingerprint": "OPPO/op56e1l1/op56e1l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2457",
+        "device": "OP56E1L1",
+        "fingerprint": "OPPO/op56e1l1/op56e1l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2461",
+        "device": "OP533FL1",
+        "fingerprint": "OPPO/op533fl1/op533fl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2471",
+        "device": "OP56F5",
+        "fingerprint": "OPPO/op56f5/op56f5:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2473",
+        "device": "OP5637L1",
+        "fingerprint": "OPPO/op5637l1/op5637l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2477",
+        "device": "OP56F5",
+        "fingerprint": "OPPO/op56f5/op56f5:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2481",
+        "device": "OP5709L1",
+        "fingerprint": "OPPO/op5709l1/op5709l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2483",
+        "device": "OP52F3L1",
+        "fingerprint": "OPPO/op52f3l1/op52f3l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2495",
+        "device": "OP52F3L1",
+        "fingerprint": "OPPO/op52f3l1/op52f3l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2499",
+        "device": "OP56BBL1",
+        "fingerprint": "OPPO/op56bbl1/op56bbl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2505",
+        "device": "OP56EDL1",
+        "fingerprint": "OPPO/op56edl1/op56edl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2519",
+        "device": "OP56CFL1",
+        "fingerprint": "OPPO/op56cfl1/op56cfl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2521",
+        "device": "OP56D3L1",
+        "fingerprint": "OPPO/op56d3l1/op56d3l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2523",
+        "device": "OP5701L1",
+        "fingerprint": "OPPO/op5701l1/op5701l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2525",
+        "device": "OP56DBL1",
+        "fingerprint": "OPPO/op56dbl1/op56dbl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2527",
+        "device": "OP56E7L1",
+        "fingerprint": "OPPO/op56e7l1/op56e7l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2529",
+        "device": "OP56E8L1",
+        "fingerprint": "OPPO/op56e8l1/op56e8l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2531",
+        "device": "OP5705L1",
+        "fingerprint": "OPPO/op5705l1/op5705l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2541",
+        "device": "OP56DBL1",
+        "fingerprint": "OPPO/op56dbl1/op56dbl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2553",
+        "device": "OP573DL1",
+        "fingerprint": "OPPO/op573dl1/op573dl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2557",
+        "device": "OP573DL1",
+        "fingerprint": "OPPO/op573dl1/op573dl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2565",
+        "device": "OP5745L1",
+        "fingerprint": "OPPO/op5745l1/op5745l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2577",
+        "device": "OP574FL1",
+        "fingerprint": "OPPO/op574fl1/op574fl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2579",
+        "device": "OP5759L1",
+        "fingerprint": "OPPO/op5759l1/op5759l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2591",
+        "device": "OP575DL1",
+        "fingerprint": "OPPO/op575dl1/op575dl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2599",
+        "device": "OP5ABFL1",
+        "fingerprint": "OPPO/op5abfl1/op5abfl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2603",
+        "device": "OP5A0BL1",
+        "fingerprint": "OPPO/op5a0bl1/op5a0bl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2607",
+        "device": "OP5AD3L1",
+        "fingerprint": "OPPO/op5ad3l1/op5ad3l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2617",
+        "device": "OP5AD5L1",
+        "fingerprint": "OPPO/op5ad5l1/op5ad5l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2625",
+        "device": "OP5ADDL1",
+        "fingerprint": "OPPO/op5addl1/op5addl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2629",
+        "device": "OP5AE1L1",
+        "fingerprint": "OPPO/op5ae1l1/op5ae1l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2631",
+        "device": "OP5AE7L1",
+        "fingerprint": "OPPO/op5ae7l1/op5ae7l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2637",
+        "device": "OP5AF2L1",
+        "fingerprint": "OPPO/op5af2l1/op5af2l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2639",
+        "device": "OP5B05L1",
+        "fingerprint": "OPPO/op5b05l1/op5b05l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2641",
+        "device": "OP5B16L1",
+        "fingerprint": "OPPO/op5b16l1/op5b16l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2643",
+        "device": "OP5B19L1",
+        "fingerprint": "OPPO/op5b19l1/op5b19l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2651",
+        "device": "OP5AA5L1",
+        "fingerprint": "OPPO/op5aa5l1/op5aa5l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2659",
+        "device": "OP5AB0L1",
+        "fingerprint": "OPPO/op5ab0l1/op5ab0l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2665",
+        "device": "OP5B05L1",
+        "fingerprint": "OPPO/op5b05l1/op5b05l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2667",
+        "device": "OP5B05L1",
+        "fingerprint": "OPPO/op5b05l1/op5b05l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2669",
+        "device": "OP5B16L1",
+        "fingerprint": "OPPO/op5b16l1/op5b16l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2671",
+        "device": "OP5E89L1",
+        "fingerprint": "OPPO/op5e89l1/op5e89l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2681",
+        "device": "OP5EA7L1",
+        "fingerprint": "OPPO/op5ea7l1/op5ea7l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2683",
+        "device": "OP5EA7L1",
+        "fingerprint": "OPPO/op5ea7l1/op5ea7l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2687",
+        "device": "OP5EB1L1",
+        "fingerprint": "OPPO/op5eb1l1/op5eb1l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2689",
+        "device": "OP5E9EL1",
+        "fingerprint": "OPPO/op5e9el1/op5e9el1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2693",
+        "device": "OP5EA7L1",
+        "fingerprint": "OPPO/op5ea7l1/op5ea7l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2695",
+        "device": "OP5EBBL1",
+        "fingerprint": "OPPO/op5ebbl1/op5ebbl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2697",
+        "device": "OP5EC5L1",
+        "fingerprint": "OPPO/op5ec5l1/op5ec5l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2699",
+        "device": "OP5EC7L1",
+        "fingerprint": "OPPO/op5ec7l1/op5ec7l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2701",
+        "device": "OP5ECBL1",
+        "fingerprint": "OPPO/op5ecbl1/op5ecbl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2705",
+        "device": "OP5ECFL1",
+        "fingerprint": "OPPO/op5ecfl1/op5ecfl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2711",
+        "device": "OP5ED9L1",
+        "fingerprint": "OPPO/op5ed9l1/op5ed9l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2721",
+        "device": "OP5ED7L1",
+        "fingerprint": "OPPO/op5ed7l1/op5ed7l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2725",
+        "device": "OP5EEDL1",
+        "fingerprint": "OPPO/op5eedl1/op5eedl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2727",
+        "device": "OP5EEDL1",
+        "fingerprint": "OPPO/op5eedl1/op5eedl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2729",
+        "device": "OP5EE3L1",
+        "fingerprint": "OPPO/op5ee3l1/op5ee3l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2731",
+        "device": "OP5EE7L1",
+        "fingerprint": "OPPO/op5ee7l1/op5ee7l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2733",
+        "device": "OP5EF7L1",
+        "fingerprint": "OPPO/op5ef7l1/op5ef7l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2735",
+        "device": "OP5EF7L1",
+        "fingerprint": "OPPO/op5ef7l1/op5ef7l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2737",
+        "device": "OP5F02L1",
+        "fingerprint": "OPPO/op5f02l1/op5f02l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2739",
+        "device": "OP5F05L1",
+        "fingerprint": "OPPO/op5f05l1/op5f05l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2743",
+        "device": "OP5F0FL1",
+        "fingerprint": "OPPO/op5f0fl1/op5f0fl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2751",
+        "device": "OP5EF7L1",
+        "fingerprint": "OPPO/op5ef7l1/op5ef7l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2753",
+        "device": "OP5EF7L1",
+        "fingerprint": "OPPO/op5ef7l1/op5ef7l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2755",
+        "device": "OP5EEDL1",
+        "fingerprint": "OPPO/op5eedl1/op5eedl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2757",
+        "device": "OP5F15L1",
+        "fingerprint": "OPPO/op5f15l1/op5f15l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2759",
+        "device": "OP5EEDL1",
+        "fingerprint": "OPPO/op5eedl1/op5eedl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2761",
+        "device": "OP5EE9L1",
+        "fingerprint": "OPPO/op5ee9l1/op5ee9l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2763",
+        "device": "OP5F19L1",
+        "fingerprint": "OPPO/op5f19l1/op5f19l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2765",
+        "device": "OP6271L1",
+        "fingerprint": "OPPO/op6271l1/op6271l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2773",
+        "device": "OP5B16L1",
+        "fingerprint": "OPPO/op5b16l1/op5b16l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2781",
+        "device": "OP5E1BL1",
+        "fingerprint": "OPPO/op5e1bl1/op5e1bl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2783",
+        "device": "OP5F2BL1",
+        "fingerprint": "OPPO/op5f2bl1/op5f2bl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2785",
+        "device": "OP5F2BL1",
+        "fingerprint": "OPPO/op5f2bl1/op5f2bl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2789",
+        "device": "OP5F2BL1",
+        "fingerprint": "OPPO/op5f2bl1/op5f2bl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2791",
+        "device": "OP5E8EL1",
+        "fingerprint": "OPPO/op5e8el1/op5e8el1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2797",
+        "device": "OP5E8BL1",
+        "fingerprint": "OPPO/op5e8bl1/op5e8bl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2799",
+        "device": "OP6285L1",
+        "fingerprint": "OPPO/op6285l1/op6285l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2801",
+        "device": "OP628FL1",
+        "fingerprint": "OPPO/op628fl1/op628fl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2811",
+        "device": "OP6293L1",
+        "fingerprint": "OPPO/op6293l1/op6293l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2813",
+        "device": "OP629AL1",
+        "fingerprint": "OPPO/op629al1/op629al1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2815",
+        "device": "OP62A3L1",
+        "fingerprint": "OPPO/op62a3l1/op62a3l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2819",
+        "device": "OP62A3L1",
+        "fingerprint": "OPPO/op62a3l1/op62a3l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2821",
+        "device": "OP5EF7L1",
+        "fingerprint": "OPPO/op5ef7l1/op5ef7l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2823",
+        "device": "OP5F2BL1",
+        "fingerprint": "OPPO/op5f2bl1/op5f2bl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2825",
+        "device": "OP62B1L1",
+        "fingerprint": "OPPO/op62b1l1/op62b1l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2827",
+        "device": "OP5F2BL1",
+        "fingerprint": "OPPO/op5f2bl1/op5f2bl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2831",
+        "device": "OP5F2BL1",
+        "fingerprint": "OPPO/op5f2bl1/op5f2bl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2835",
+        "device": "OP62CBL1",
+        "fingerprint": "OPPO/op62cbl1/op62cbl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2841",
+        "device": "OP627CL1",
+        "fingerprint": "OPPO/op627cl1/op627cl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2847",
+        "device": "OP62A3L1",
+        "fingerprint": "OPPO/op62a3l1/op62a3l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2849",
+        "device": "OP62A3L1",
+        "fingerprint": "OPPO/op62a3l1/op62a3l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2851",
+        "device": "OP5F2BL1",
+        "fingerprint": "OPPO/op5f2bl1/op5f2bl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2853",
+        "device": "OP5F2BL1",
+        "fingerprint": "OPPO/op5f2bl1/op5f2bl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2869",
+        "device": "OP5F2BL1",
+        "fingerprint": "OPPO/op5f2bl1/op5f2bl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2871",
+        "device": "OP5F2BL1",
+        "fingerprint": "OPPO/op5f2bl1/op5f2bl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2873",
+        "device": "OP6275L1",
+        "fingerprint": "OPPO/op6275l1/op6275l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2889",
+        "device": "OP5F2BL1",
+        "fingerprint": "OPPO/op5f2bl1/op5f2bl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2891",
+        "device": "OP62A3L1",
+        "fingerprint": "OPPO/op62a3l1/op62a3l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH2895",
+        "device": "OP632F",
+        "fingerprint": "OPPO/op632f/op632f:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CPH3669",
+        "device": "OP5B16L1",
+        "fingerprint": "OPPO/op5b16l1/op5b16l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "F1f",
+        "device": "F1f",
+        "fingerprint": "OPPO/f1f/f1f:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "F1fw",
+        "device": "F1f",
+        "fingerprint": "OPPO/f1f/f1f:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "F1w",
+        "device": "F1f",
+        "fingerprint": "OPPO/f1f/f1f:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lava A51",
+        "device": "A51",
+        "fingerprint": "OPPO/a51/a51:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "N1T",
+        "device": "N1T",
+        "fingerprint": "OPPO/n1t/n1t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "N1W",
+        "device": "N1W",
+        "fingerprint": "OPPO/n1w/n1w:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "N5110",
+        "device": "N5110",
+        "fingerprint": "OPPO/n5110/n5110:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "N5111",
+        "device": "N1mini",
+        "fingerprint": "OPPO/n1mini/n1mini:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "N5116",
+        "device": "N1mini",
+        "fingerprint": "OPPO/n1mini/n1mini:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "N5117",
+        "device": "N5117",
+        "fingerprint": "OPPO/n5117/n5117:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPD2102A",
+        "device": "OP5226L1",
+        "fingerprint": "OPPO/op5226l1/op5226l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPG01",
+        "device": "OP4BA2L1",
+        "fingerprint": "OPPO/op4ba2l1/op4ba2l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPG02",
+        "device": "OP4F39L1",
+        "fingerprint": "OPPO/op4f39l1/op4f39l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPG03",
+        "device": "OP4F57L1",
+        "fingerprint": "OPPO/op4f57l1/op4f57l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPG04",
+        "device": "OP532BL1",
+        "fingerprint": "OPPO/op532bl1/op532bl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPG05",
+        "device": "OP5EC7L1",
+        "fingerprint": "OPPO/op5ec7l1/op5ec7l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPG07",
+        "device": "OP5E8BL1",
+        "fingerprint": "OPPO/op5e8bl1/op5e8bl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO A33m",
+        "device": "A33",
+        "fingerprint": "OPPO/a33/a33:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO A35",
+        "device": "A35",
+        "fingerprint": "OPPO/a35/a35:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO A37",
+        "device": "A37",
+        "fingerprint": "OPPO/a37/a37:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO A37m",
+        "device": "A37",
+        "fingerprint": "OPPO/a37/a37:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO A37t",
+        "device": "A37",
+        "fingerprint": "OPPO/a37/a37:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO A37tm",
+        "device": "A37",
+        "fingerprint": "OPPO/a37/a37:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO A39",
+        "device": "A39",
+        "fingerprint": "OPPO/a39/a39:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO A39m",
+        "device": "A39",
+        "fingerprint": "OPPO/a39/a39:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO A39t",
+        "device": "A39",
+        "fingerprint": "OPPO/a39/a39:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO A39tm",
+        "device": "A39",
+        "fingerprint": "OPPO/a39/a39:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO A53",
+        "device": "A53",
+        "fingerprint": "OPPO/a53/a53:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO A53m",
+        "device": "A53",
+        "fingerprint": "OPPO/a53/a53:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO A57",
+        "device": "A57",
+        "fingerprint": "OPPO/a57/a57:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO A57t",
+        "device": "A57",
+        "fingerprint": "OPPO/a57/a57:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO A59",
+        "device": "A59",
+        "fingerprint": "OPPO/a59/a59:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO A59m",
+        "device": "A59",
+        "fingerprint": "OPPO/a59/a59:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO A59s",
+        "device": "A59",
+        "fingerprint": "OPPO/a59/a59:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO A59st",
+        "device": "A59",
+        "fingerprint": "OPPO/a59/a59:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO A59t",
+        "device": "A59",
+        "fingerprint": "OPPO/a59/a59:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO A59tm",
+        "device": "A59",
+        "fingerprint": "OPPO/a59/a59:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO A73",
+        "device": "A73",
+        "fingerprint": "OPPO/a73/a73:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO A73",
+        "device": "A79",
+        "fingerprint": "OPPO/a79/a79:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO A73t",
+        "device": "A73t",
+        "fingerprint": "OPPO/a73t/a73t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO A73t",
+        "device": "A79",
+        "fingerprint": "OPPO/a79/a79:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO A77",
+        "device": "A77",
+        "fingerprint": "OPPO/a77/a77:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO A77t",
+        "device": "A77",
+        "fingerprint": "OPPO/a77/a77:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO A79",
+        "device": "A79",
+        "fingerprint": "OPPO/a79/a79:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO A79k",
+        "device": "A79k",
+        "fingerprint": "OPPO/a79k/a79k:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO A79kt",
+        "device": "A79kt",
+        "fingerprint": "OPPO/a79kt/a79kt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO A79t",
+        "device": "A79",
+        "fingerprint": "OPPO/a79/a79:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO A79t",
+        "device": "A79t",
+        "fingerprint": "OPPO/a79t/a79t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO A83",
+        "device": "A83",
+        "fingerprint": "OPPO/a83/a83:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO A83t",
+        "device": "A83t",
+        "fingerprint": "OPPO/a83t/a83t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO CPH1605",
+        "device": "CPH1605",
+        "fingerprint": "OPPO/cph1605/cph1605:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO R11",
+        "device": "R11",
+        "fingerprint": "OPPO/r11/r11:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO R11 Plus",
+        "device": "R11Plus",
+        "fingerprint": "OPPO/r11plus/r11plus:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO R11 Plusk",
+        "device": "R11Plusk",
+        "fingerprint": "OPPO/r11plusk/r11plusk:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO R11 Pluskt",
+        "device": "R11Plusk",
+        "fingerprint": "OPPO/r11plusk/r11plusk:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO R11 Plust",
+        "device": "R11Plus",
+        "fingerprint": "OPPO/r11plus/r11plus:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO R11s",
+        "device": "R11s",
+        "fingerprint": "OPPO/r11s/r11s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO R11s Plus",
+        "device": "R11sPlus",
+        "fingerprint": "OPPO/r11splus/r11splus:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO R11s Plust",
+        "device": "R11sPlus",
+        "fingerprint": "OPPO/r11splus/r11splus:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO R11st",
+        "device": "R11s",
+        "fingerprint": "OPPO/r11s/r11s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO R11t",
+        "device": "R11",
+        "fingerprint": "OPPO/r11/r11:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO R7s",
+        "device": "R7s",
+        "fingerprint": "OPPO/r7s/r7s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO R7sPlus",
+        "device": "R7sPlus",
+        "fingerprint": "OPPO/r7splus/r7splus:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO R9 Plus A",
+        "device": "R9PlusA",
+        "fingerprint": "OPPO/r9plusa/r9plusa:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO R9 Plusm A",
+        "device": "R9PlusA",
+        "fingerprint": "OPPO/r9plusa/r9plusa:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO R9 Plust A",
+        "device": "R9PlusA",
+        "fingerprint": "OPPO/r9plusa/r9plusa:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO R9 Plustm A",
+        "device": "R9PlusA",
+        "fingerprint": "OPPO/r9plusa/r9plusa:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO R9k",
+        "device": "R9",
+        "fingerprint": "OPPO/r9/r9:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO R9km",
+        "device": "R9",
+        "fingerprint": "OPPO/r9/r9:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO R9m",
+        "device": "R9",
+        "fingerprint": "OPPO/r9/r9:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO R9s",
+        "device": "R9s",
+        "fingerprint": "OPPO/r9s/r9s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO R9s Plus",
+        "device": "R9sPlus",
+        "fingerprint": "OPPO/r9splus/r9splus:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO R9s Plust",
+        "device": "R9sPlus",
+        "fingerprint": "OPPO/r9splus/r9splus:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO R9sPlus",
+        "device": "R9sPlus",
+        "fingerprint": "OPPO/r9splus/r9splus:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO R9sk",
+        "device": "R9sk",
+        "fingerprint": "OPPO/r9sk/r9sk:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO R9skt",
+        "device": "R9sk",
+        "fingerprint": "OPPO/r9sk/r9sk:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO R9st",
+        "device": "R9s",
+        "fingerprint": "OPPO/r9s/r9s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO R9t",
+        "device": "R9",
+        "fingerprint": "OPPO/r9/r9:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "OPPO R9tm",
+        "device": "R9",
+        "fingerprint": "OPPO/r9/r9:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PAFM00",
+        "device": "PAFM00",
+        "fingerprint": "OPPO/pafm00/pafm00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PAFT00",
+        "device": "PAFT00",
+        "fingerprint": "OPPO/paft00/paft00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PBCM10",
+        "device": "PBCM10",
+        "fingerprint": "OPPO/pbcm10/pbcm10:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PBCT10",
+        "device": "PBCT10",
+        "fingerprint": "OPPO/pbct10/pbct10:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PBDM00",
+        "device": "PBDM00",
+        "fingerprint": "OPPO/pbdm00/pbdm00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PBDT00",
+        "device": "PBDT00",
+        "fingerprint": "OPPO/pbdt00/pbdt00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PBEM00",
+        "device": "PBEM00",
+        "fingerprint": "OPPO/pbem00/pbem00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PBET00",
+        "device": "PBET00",
+        "fingerprint": "OPPO/pbet00/pbet00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PCDT00",
+        "device": "PCDT00",
+        "fingerprint": "OPPO/pcdt00/pcdt00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PCEM00",
+        "device": "OP46F3",
+        "fingerprint": "OPPO/op46f3/op46f3:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PCET00",
+        "device": "OP46F3",
+        "fingerprint": "OPPO/op46f3/op46f3:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PCLM10",
+        "device": "OP4A89",
+        "fingerprint": "OPPO/op4a89/op4a89:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PCPM00",
+        "device": "OP4ACF",
+        "fingerprint": "OPPO/op4acf/op4acf:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PCRT01",
+        "device": "OP4AB5",
+        "fingerprint": "OPPO/op4ab5/op4ab5:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PDHM00",
+        "device": "OP4AD9",
+        "fingerprint": "OPPO/op4ad9/op4ad9:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PDKM00",
+        "device": "OP4ABB",
+        "fingerprint": "OPPO/op4abb/op4abb:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PDKT00",
+        "device": "OP4ABB",
+        "fingerprint": "OPPO/op4abb/op4abb:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PDNT00",
+        "device": "OP4AF7",
+        "fingerprint": "OPPO/op4af7/op4af7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PDRM00",
+        "device": "OP4EA7",
+        "fingerprint": "OPPO/op4ea7/op4ea7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PDSM00",
+        "device": "OP4EA3",
+        "fingerprint": "OPPO/op4ea3/op4ea3:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PDST00",
+        "device": "OP4EA3",
+        "fingerprint": "OPPO/op4ea3/op4ea3:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PDYM20",
+        "device": "OP4E21",
+        "fingerprint": "OPPO/op4e21/op4e21:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PDYT20",
+        "device": "OP4E21",
+        "fingerprint": "OPPO/op4e21/op4e21:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PEAM00",
+        "device": "OP4E6B",
+        "fingerprint": "OPPO/op4e6b/op4e6b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PEAT00",
+        "device": "OP4E6B",
+        "fingerprint": "OPPO/op4e6b/op4e6b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PECM20",
+        "device": "OP4E49",
+        "fingerprint": "OPPO/op4e49/op4e49:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PECM30",
+        "device": "OP4E49",
+        "fingerprint": "OPPO/op4e49/op4e49:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PECT30",
+        "device": "OP4E49",
+        "fingerprint": "OPPO/op4e49/op4e49:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PEFM00",
+        "device": "OP4E7B",
+        "fingerprint": "OPPO/op4e7b/op4e7b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PEGM00",
+        "device": "OP4E8F",
+        "fingerprint": "OPPO/op4e8f/op4e8f:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PEGM10",
+        "device": "OP4E59",
+        "fingerprint": "OPPO/op4e59/op4e59:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PEGT00",
+        "device": "OP4E8F",
+        "fingerprint": "OPPO/op4e8f/op4e8f:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PEGT10",
+        "device": "OP4E59",
+        "fingerprint": "OPPO/op4e59/op4e59:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PEHM00",
+        "device": "OP4E99",
+        "fingerprint": "OPPO/op4e99/op4e99:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PEHT00",
+        "device": "OP4E99",
+        "fingerprint": "OPPO/op4e99/op4e99:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PELM00",
+        "device": "OP4EB7",
+        "fingerprint": "OPPO/op4eb7/op4eb7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PEMM00",
+        "device": "OP4E2F",
+        "fingerprint": "OPPO/op4e2f/op4e2f:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PEMM20",
+        "device": "OP4E8C",
+        "fingerprint": "OPPO/op4e8c/op4e8c:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PEMT00",
+        "device": "OP4E2F",
+        "fingerprint": "OPPO/op4e2f/op4e2f:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PEMT20",
+        "device": "OP4E8C",
+        "fingerprint": "OPPO/op4e8c/op4e8c:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PENM00",
+        "device": "OP4EC1",
+        "fingerprint": "OPPO/op4ec1/op4ec1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PEPM00",
+        "device": "OP4ECB",
+        "fingerprint": "OPPO/op4ecb/op4ecb:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PEQM00",
+        "device": "OP4ED5",
+        "fingerprint": "OPPO/op4ed5/op4ed5:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PEUM00",
+        "device": "OP4E75L1",
+        "fingerprint": "OPPO/op4e75l1/op4e75l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PEXM00",
+        "device": "OP4E9F",
+        "fingerprint": "OPPO/op4e9f/op4e9f:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PEYM00",
+        "device": "OP5245",
+        "fingerprint": "OPPO/op5245/op5245:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PEZM00",
+        "device": "OP4E7B",
+        "fingerprint": "OPPO/op4e7b/op4e7b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PFCM00",
+        "device": "OP5259",
+        "fingerprint": "OPPO/op5259/op5259:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PFDM00",
+        "device": "OP5217",
+        "fingerprint": "OPPO/op5217/op5217:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PFFM10",
+        "device": "OP520DL1",
+        "fingerprint": "OPPO/op520dl1/op520dl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PFFM20",
+        "device": "OP520F",
+        "fingerprint": "OPPO/op520f/op520f:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PFGM00",
+        "device": "OP5231",
+        "fingerprint": "OPPO/op5231/op5231:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PFTM10",
+        "device": "OP526D",
+        "fingerprint": "OPPO/op526d/op526d:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PFTM20",
+        "device": "OP526D",
+        "fingerprint": "OPPO/op526d/op526d:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PFUM10",
+        "device": "OP5267",
+        "fingerprint": "OPPO/op5267/op5267:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PFZM10",
+        "device": "OP5281",
+        "fingerprint": "OPPO/op5281/op5281:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PGAM10",
+        "device": "OP5285",
+        "fingerprint": "OPPO/op5285/op5285:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PGBM10",
+        "device": "OP5287",
+        "fingerprint": "OPPO/op5287/op5287:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PGCM10",
+        "device": "OPD2A0",
+        "fingerprint": "OPPO/opd2a0/opd2a0:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PGEM10",
+        "device": "OP528BL1",
+        "fingerprint": "OPPO/op528bl1/op528bl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PGFM10",
+        "device": "OP528F",
+        "fingerprint": "OPPO/op528f/op528f:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PGGM10",
+        "device": "OP5295",
+        "fingerprint": "OPPO/op5295/op5295:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PGJM10",
+        "device": "OP5297",
+        "fingerprint": "OPPO/op5297/op5297:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PGW110",
+        "device": "OP55FF",
+        "fingerprint": "OPPO/op55ff/op55ff:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PGX110",
+        "device": "OP5601",
+        "fingerprint": "OPPO/op5601/op5601:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PHF110",
+        "device": "OP5925",
+        "fingerprint": "OPPO/op5925/op5925:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PHM110",
+        "device": "OP5627",
+        "fingerprint": "OPPO/op5627/op5627:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PHN110",
+        "device": "OP55F3L1",
+        "fingerprint": "OPPO/op55f3l1/op55f3l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PHQ110",
+        "device": "OP5613",
+        "fingerprint": "OPPO/op5613/op5613:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PHS110",
+        "device": "OP561D",
+        "fingerprint": "OPPO/op561d/op561d:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PHT110",
+        "device": "OP5607L1",
+        "fingerprint": "OPPO/op5607l1/op5607l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PHU110",
+        "device": "OP564B",
+        "fingerprint": "OPPO/op564b/op564b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PHV110",
+        "device": "OP561F",
+        "fingerprint": "OPPO/op561f/op561f:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PHW110",
+        "device": "OP5655",
+        "fingerprint": "OPPO/op5655/op5655:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PHY110",
+        "device": "OP565FL1",
+        "fingerprint": "OPPO/op565fl1/op565fl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PHZ110",
+        "device": "OP5661L1",
+        "fingerprint": "OPPO/op5661l1/op5661l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PJB110",
+        "device": "OP5647",
+        "fingerprint": "OPPO/op5647/op5647:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PJC110",
+        "device": "OP591D",
+        "fingerprint": "OPPO/op591d/op591d:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PJH110",
+        "device": "OP59EDL1",
+        "fingerprint": "OPPO/op59edl1/op59edl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PJJ110",
+        "device": "OP59EFL1",
+        "fingerprint": "OPPO/op59efl1/op59efl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PJR110",
+        "device": "OP5A15L1",
+        "fingerprint": "OPPO/op5a15l1/op5a15l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PJS110",
+        "device": "OP5A0D",
+        "fingerprint": "OPPO/op5a0d/op5a0d:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PJT110",
+        "device": "OP5A1F",
+        "fingerprint": "OPPO/op5a1f/op5a1f:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PJV110",
+        "device": "OP5A29L1",
+        "fingerprint": "OPPO/op5a29l1/op5a29l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PJW110",
+        "device": "OP5A2BL1",
+        "fingerprint": "OPPO/op5a2bl1/op5a2bl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PJY110",
+        "device": "OP59FB",
+        "fingerprint": "OPPO/op59fb/op59fb:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PKA110",
+        "device": "OP5A33",
+        "fingerprint": "OPPO/op5a33/op5a33:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PKB110",
+        "device": "OP5A3DL1",
+        "fingerprint": "OPPO/op5a3dl1/op5a3dl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PKC110",
+        "device": "OP5A41L1",
+        "fingerprint": "OPPO/op5a41l1/op5a41l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PKD120",
+        "device": "OP5A47",
+        "fingerprint": "OPPO/op5a47/op5a47:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PKD130",
+        "device": "OP5A47",
+        "fingerprint": "OPPO/op5a47/op5a47:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PKH110",
+        "device": "OP5DC1L1",
+        "fingerprint": "OPPO/op5dc1l1/op5dc1l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PKJ110",
+        "device": "OP5DD3L1",
+        "fingerprint": "OPPO/op5dd3l1/op5dd3l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PKK110",
+        "device": "OP5DD5L1",
+        "fingerprint": "OPPO/op5dd5l1/op5dd5l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PKL110",
+        "device": "OP5DDF",
+        "fingerprint": "OPPO/op5ddf/op5ddf:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PKM110",
+        "device": "OP5DD7L1",
+        "fingerprint": "OPPO/op5dd7l1/op5dd7l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PKP110",
+        "device": "OP5DF3",
+        "fingerprint": "OPPO/op5df3/op5df3:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PKQ110",
+        "device": "OP5DF7",
+        "fingerprint": "OPPO/op5df7/op5df7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PKS110",
+        "device": "OP5DFDL1",
+        "fingerprint": "OPPO/op5dfdl1/op5dfdl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PKT110",
+        "device": "OP5DCBL1",
+        "fingerprint": "OPPO/op5dcbl1/op5dcbl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PKW110",
+        "device": "OP5DF5L1",
+        "fingerprint": "OPPO/op5df5l1/op5df5l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PKW120",
+        "device": "OP5DF5L1",
+        "fingerprint": "OPPO/op5df5l1/op5df5l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PKZ110",
+        "device": "OP5E07L1",
+        "fingerprint": "OPPO/op5e07l1/op5e07l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PLA110",
+        "device": "OP5E0BL1",
+        "fingerprint": "OPPO/op5e0bl1/op5e0bl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PLB110",
+        "device": "OP5DCDL1",
+        "fingerprint": "OPPO/op5dcdl1/op5dcdl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PLD110",
+        "device": "OP5E01L1",
+        "fingerprint": "OPPO/op5e01l1/op5e01l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PLE110",
+        "device": "OP5E03L1",
+        "fingerprint": "OPPO/op5e03l1/op5e03l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PLG110",
+        "device": "OP5E11L1",
+        "fingerprint": "OPPO/op5e11l1/op5e11l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PLJ110",
+        "device": "OP5E17L1",
+        "fingerprint": "OPPO/op5e17l1/op5e17l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PLL110",
+        "device": "OP5DE2L1",
+        "fingerprint": "OPPO/op5de2l1/op5de2l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PLM110",
+        "device": "OP5E05L1",
+        "fingerprint": "OPPO/op5e05l1/op5e05l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PLN110",
+        "device": "OP5DE3",
+        "fingerprint": "OPPO/op5de3/op5de3:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PLP110",
+        "device": "OP61A9L1",
+        "fingerprint": "OPPO/op61a9l1/op61a9l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PLS120",
+        "device": "OP5E1C",
+        "fingerprint": "OPPO/op5e1c/op5e1c:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PLT120",
+        "device": "OP5E1EL1",
+        "fingerprint": "OPPO/op5e1el1/op5e1el1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PLT130",
+        "device": "OP5E1EL1",
+        "fingerprint": "OPPO/op5e1el1/op5e1el1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PLV110",
+        "device": "OP61B3L1",
+        "fingerprint": "OPPO/op61b3l1/op61b3l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PLW110",
+        "device": "OP61B7L1",
+        "fingerprint": "OPPO/op61b7l1/op61b7l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PMA110",
+        "device": "OP61BDL1",
+        "fingerprint": "OPPO/op61bdl1/op61bdl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PMC110",
+        "device": "OP61C7L1",
+        "fingerprint": "OPPO/op61c7l1/op61c7l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PMD110",
+        "device": "OP61BBL1",
+        "fingerprint": "OPPO/op61bbl1/op61bbl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PME110",
+        "device": "OP61C1L1",
+        "fingerprint": "OPPO/op61c1l1/op61c1l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PMG110",
+        "device": "OP61E5L1",
+        "fingerprint": "OPPO/op61e5l1/op61e5l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PMH110",
+        "device": "OP61E9L1",
+        "fingerprint": "OPPO/op61e9l1/op61e9l1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PMT110",
+        "device": "OP61DFL1",
+        "fingerprint": "OPPO/op61dfl1/op61dfl1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R1001",
+        "device": "OPPO72_13076",
+        "fingerprint": "OPPO/oppo72_13076/oppo72_13076:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R1001",
+        "device": "R1001",
+        "fingerprint": "OPPO/r1001/r1001:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R1011",
+        "device": "R1011",
+        "fingerprint": "OPPO/r1011/r1011:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R2001",
+        "device": "R2001",
+        "fingerprint": "OPPO/r2001/r2001:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R2010",
+        "device": "R2010",
+        "fingerprint": "OPPO/r2010/r2010:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R2017",
+        "device": "R2017",
+        "fingerprint": "OPPO/r2017/r2017:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R6006",
+        "device": "R3",
+        "fingerprint": "OPPO/r3/r3:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R6007",
+        "device": "R6007",
+        "fingerprint": "OPPO/r6007/r6007:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R7005",
+        "device": "R3",
+        "fingerprint": "OPPO/r3/r3:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R7007",
+        "device": "R7007",
+        "fingerprint": "OPPO/r7007/r7007:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R7Plus",
+        "device": "R7Plus",
+        "fingerprint": "OPPO/r7plus/r7plus:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R7Plusm",
+        "device": "R7Plusm",
+        "fingerprint": "OPPO/r7plusm/r7plusm:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R7Plust",
+        "device": "R7Plus",
+        "fingerprint": "OPPO/r7plus/r7plus:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R7c",
+        "device": "R7c",
+        "fingerprint": "OPPO/r7c/r7c:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R7f",
+        "device": "R7f",
+        "fingerprint": "OPPO/r7f/r7f:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R7g",
+        "device": "R7f",
+        "fingerprint": "OPPO/r7f/r7f:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R7kc",
+        "device": "R7kc",
+        "fingerprint": "OPPO/r7kc/r7kc:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R7kf",
+        "device": "R7f",
+        "fingerprint": "OPPO/r7f/r7f:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R7kt",
+        "device": "R7",
+        "fingerprint": "OPPO/r7/r7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R7plusf",
+        "device": "R7Plusm",
+        "fingerprint": "OPPO/r7plusm/r7plusm:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R7s",
+        "device": "R7s",
+        "fingerprint": "OPPO/r7s/r7s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R7sf",
+        "device": "R7sm",
+        "fingerprint": "OPPO/r7sm/r7sm:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R7sf",
+        "device": "R7sf",
+        "fingerprint": "OPPO/r7sf/r7sf:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R7sm",
+        "device": "R7sm",
+        "fingerprint": "OPPO/r7sm/r7sm:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R7st",
+        "device": "R7s",
+        "fingerprint": "OPPO/r7s/r7s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R7t",
+        "device": "R7",
+        "fingerprint": "OPPO/r7/r7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R8000",
+        "device": "R1S",
+        "fingerprint": "OPPO/r1s/r1s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R8001",
+        "device": "R8001",
+        "fingerprint": "OPPO/r8001/r8001:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R8006",
+        "device": "R8006",
+        "fingerprint": "OPPO/r8006/r8006:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R8007",
+        "device": "R8007",
+        "fingerprint": "OPPO/r8007/r8007:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R809T",
+        "device": "R809T",
+        "fingerprint": "OPPO/r809t/r809t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R8106",
+        "device": "R5",
+        "fingerprint": "OPPO/r5/r5:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R815",
+        "device": "R815",
+        "fingerprint": "OPPO/r815/r815:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R815T",
+        "device": "R815T",
+        "fingerprint": "OPPO/r815t/r815t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R815W",
+        "device": "R815W",
+        "fingerprint": "OPPO/r815w/r815w:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R819",
+        "device": "R819",
+        "fingerprint": "OPPO/r819/r819:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R819T",
+        "device": "R819T",
+        "fingerprint": "OPPO/r819t/r819t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R820",
+        "device": "R820",
+        "fingerprint": "OPPO/r820/r820:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R8200",
+        "device": "R1C",
+        "fingerprint": "OPPO/r1c/r1c:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R8201",
+        "device": "R1x",
+        "fingerprint": "OPPO/r1x/r1x:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R8205",
+        "device": "R1C",
+        "fingerprint": "OPPO/r1c/r1c:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R8206",
+        "device": "R1x",
+        "fingerprint": "OPPO/r1x/r1x:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R8207",
+        "device": "R1C",
+        "fingerprint": "OPPO/r1c/r1c:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R821",
+        "device": "R821",
+        "fingerprint": "OPPO/r821/r821:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R821T",
+        "device": "R821T",
+        "fingerprint": "OPPO/r821t/r821t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R823T",
+        "device": "R823T",
+        "fingerprint": "OPPO/r823t/r823t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R827",
+        "device": "R827",
+        "fingerprint": "OPPO/r827/r827:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R827T",
+        "device": "R827T",
+        "fingerprint": "OPPO/r827t/r827t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R829",
+        "device": "R829",
+        "fingerprint": "OPPO/r829/r829:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R829T",
+        "device": "R829T",
+        "fingerprint": "OPPO/r829t/r829t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R830",
+        "device": "R830",
+        "fingerprint": "OPPO/r830/r830:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R830S",
+        "device": "R830S",
+        "fingerprint": "OPPO/r830s/r830s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R831",
+        "device": "R831",
+        "fingerprint": "OPPO/r831/r831:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R831K",
+        "device": "R831K",
+        "fingerprint": "OPPO/r831k/r831k:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R831L",
+        "device": "R831L",
+        "fingerprint": "OPPO/r831l/r831l:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R831S",
+        "device": "R831S",
+        "fingerprint": "OPPO/r831s/r831s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R831T",
+        "device": "R831T",
+        "fingerprint": "OPPO/r831t/r831t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R833T",
+        "device": "OPPO82_13067",
+        "fingerprint": "OPPO/oppo82_13067/oppo82_13067:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "R850",
+        "device": "R850",
+        "fingerprint": "OPPO/r850/r850:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "RMX1803",
+        "device": "RMX1803",
+        "fingerprint": "OPPO/rmx1803/rmx1803:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "RMX1805",
+        "device": "RMX1805",
+        "fingerprint": "OPPO/rmx1805/rmx1805:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "RMX1807",
+        "device": "RMX1807",
+        "fingerprint": "OPPO/rmx1807/rmx1807:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "RMX1809",
+        "device": "RMX1809",
+        "fingerprint": "OPPO/rmx1809/rmx1809:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "RMX1811",
+        "device": "RMX1811",
+        "fingerprint": "OPPO/rmx1811/rmx1811:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "RMX1821",
+        "device": "RMX1821",
+        "fingerprint": "OPPO/rmx1821/rmx1821:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "RMX1822",
+        "device": "RMX1822",
+        "fingerprint": "OPPO/rmx1822/rmx1822:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "RMX1825",
+        "device": "RMX1825",
+        "fingerprint": "OPPO/rmx1825/rmx1825:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "RMX1827",
+        "device": "RMX1827",
+        "fingerprint": "OPPO/rmx1827/rmx1827:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "RMX1831",
+        "device": "RMX1831",
+        "fingerprint": "OPPO/rmx1831/rmx1831:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "RMX1833",
+        "device": "RMX1833",
+        "fingerprint": "OPPO/rmx1833/rmx1833:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "RMX1851",
+        "device": "RMX1851CN",
+        "fingerprint": "OPPO/rmx1851cn/rmx1851cn:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "RMX1853",
+        "device": "RMX1853",
+        "fingerprint": "OPPO/rmx1853/rmx1853:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "RMX1901",
+        "device": "RMX1901CN",
+        "fingerprint": "OPPO/rmx1901cn/rmx1901cn:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "RMX1911",
+        "device": "RMX1911",
+        "fingerprint": "OPPO/rmx1911/rmx1911:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "RMX1941",
+        "device": "RMX1941",
+        "fingerprint": "OPPO/rmx1941/rmx1941:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "RMX1942",
+        "device": "RMX1942",
+        "fingerprint": "OPPO/rmx1942/rmx1942:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "RMX1943",
+        "device": "RMX1943",
+        "fingerprint": "OPPO/rmx1943/rmx1943:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "RMX1945",
+        "device": "RMX1945",
+        "fingerprint": "OPPO/rmx1945/rmx1945:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "RMX2051",
+        "device": "RMX2051CN",
+        "fingerprint": "OPPO/rmx2051cn/rmx2051cn:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "RMX3830",
+        "device": "RE58BC",
+        "fingerprint": "OPPO/re58bc/re58bc:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "U705T",
+        "device": "Ulike2",
+        "fingerprint": "OPPO/ulike2/ulike2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "U705W",
+        "device": "U705W",
+        "fingerprint": "OPPO/u705w/u705w:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "U707",
+        "device": "U707",
+        "fingerprint": "OPPO/u707/u707:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "U707T",
+        "device": "U707T",
+        "fingerprint": "OPPO/u707t/u707t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "U708",
+        "device": "U708",
+        "fingerprint": "OPPO/u708/u708:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "X9000",
+        "device": "X9000",
+        "fingerprint": "OPPO/x9000/x9000:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "X9006",
+        "device": "X9006",
+        "fingerprint": "OPPO/x9006/x9006:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "X9007",
+        "device": "X9007",
+        "fingerprint": "OPPO/x9007/x9007:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "X9009",
+        "device": "X9009",
+        "fingerprint": "OPPO/x9009/x9009:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "X9009fw",
+        "device": "X9009",
+        "fingerprint": "OPPO/x9009/x9009:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "X9070",
+        "device": "X9070",
+        "fingerprint": "OPPO/x9070/x9070:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "X9076",
+        "device": "X9076",
+        "fingerprint": "OPPO/x9076/x9076:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "X9077",
+        "device": "FIND7",
+        "fingerprint": "OPPO/find7/find7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "X9077",
+        "device": "X9077",
+        "fingerprint": "OPPO/x9077/x9077:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "X9079",
+        "device": "X9079",
+        "fingerprint": "OPPO/x9079/x9079:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "X909",
+        "device": "FIND5",
+        "fingerprint": "OPPO/find5/find5:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "X909",
+        "device": "X909",
+        "fingerprint": "OPPO/x909/x909:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "X909T",
+        "device": "FIND5",
+        "fingerprint": "OPPO/find5/find5:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "X909T",
+        "device": "X909T",
+        "fingerprint": "OPPO/x909t/x909t:12/SP1A.210812.016/7769886:user/release-keys"
+    }
+]

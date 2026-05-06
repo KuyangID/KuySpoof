@@ -1,0 +1,1872 @@
+[
+    {
+        "model": "501LV",
+        "device": "501LV",
+        "fingerprint": "LENOVO/501lv/501lv:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "601LV",
+        "device": "601LV",
+        "fingerprint": "LENOVO/601lv/601lv:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "602LV",
+        "device": "602LV",
+        "fingerprint": "LENOVO/602lv/602lv:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "A2107A-H",
+        "device": "A2107A-H",
+        "fingerprint": "LENOVO/a2107a-h/a2107a-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "A301LV",
+        "device": "A301LV",
+        "fingerprint": "LENOVO/a301lv/a301lv:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "A7700",
+        "device": "A7700",
+        "fingerprint": "LENOVO/a7700/a7700:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "K350t",
+        "device": "K350t",
+        "fingerprint": "LENOVO/k350t/k350t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "L10041",
+        "device": "AK57",
+        "fingerprint": "LENOVO/ak57/ak57:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "L18011",
+        "device": "L18011",
+        "fingerprint": "LENOVO/l18011/l18011:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LNV-Lenovo A305e",
+        "device": "A305e",
+        "fingerprint": "LENOVO/a305e/a305e:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LNV-Lenovo A370e",
+        "device": "A370e",
+        "fingerprint": "LENOVO/a370e/a370e:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LNV-Lenovo A375e",
+        "device": "A375e",
+        "fingerprint": "LENOVO/a375e/a375e:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LNV-Lenovo A380e",
+        "device": "A380e",
+        "fingerprint": "LENOVO/a380e/a380e:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LNV-Lenovo A385e",
+        "device": "A385e",
+        "fingerprint": "LENOVO/a385e/a385e:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LNV-Lenovo A395e",
+        "device": "A395e",
+        "fingerprint": "LENOVO/a395e/a395e:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LNV-Lenovo A505e",
+        "device": "A505e",
+        "fingerprint": "LENOVO/a505e/a505e:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LNV-Lenovo A560",
+        "device": "A560_msm8610",
+        "fingerprint": "LENOVO/a560_msm8610/a560_msm8610:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LNV-Lenovo A630e",
+        "device": "A630e",
+        "fingerprint": "LENOVO/a630e/a630e:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LNV-Lenovo A690e",
+        "device": "A690e",
+        "fingerprint": "LENOVO/a690e/a690e:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LNV-Lenovo A780e",
+        "device": "A780e",
+        "fingerprint": "LENOVO/a780e/a780e:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LNV-Lenovo A785e",
+        "device": "A785e",
+        "fingerprint": "LENOVO/a785e/a785e:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LNV-Lenovo K910e",
+        "device": "kitone",
+        "fingerprint": "LENOVO/kitone/kitone:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LNV-Lenovo S870e",
+        "device": "S870e",
+        "fingerprint": "LENOVO/s870e/s870e:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo 2 A8-50LC",
+        "device": "A8-50LC",
+        "fingerprint": "LENOVO/a8-50lc/a8-50lc:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A1000",
+        "device": "A1000",
+        "fingerprint": "LENOVO/a1000/a1000:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A1000m",
+        "device": "scx35_sp7731gea_taichi",
+        "fingerprint": "LENOVO/scx35_sp7731gea_taichi/scx35_sp7731gea_taichi:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A1010a20",
+        "device": "A1010a20",
+        "fingerprint": "LENOVO/a1010a20/a1010a20:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A1900",
+        "device": "A1900",
+        "fingerprint": "LENOVO/a1900/a1900:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A2010-a",
+        "device": "A2010-a",
+        "fingerprint": "LENOVO/a2010-a/a2010-a:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A2010l36",
+        "device": "A2010l36",
+        "fingerprint": "LENOVO/a2010l36/a2010l36:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A2016a40",
+        "device": "A2016a40",
+        "fingerprint": "LENOVO/a2016a40/a2016a40:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A2016b30",
+        "device": "A2016b30",
+        "fingerprint": "LENOVO/a2016b30/a2016b30:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A2016b31",
+        "device": "A2016b31",
+        "fingerprint": "LENOVO/a2016b31/a2016b31:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A2020a40",
+        "device": "angus3A4",
+        "fingerprint": "LENOVO/angus3a4/angus3a4:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A2020a40",
+        "device": "angus3A41",
+        "fingerprint": "LENOVO/angus3a41/angus3a41:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A208t",
+        "device": "A208t",
+        "fingerprint": "LENOVO/a208t/a208t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A218t",
+        "device": "A218t",
+        "fingerprint": "LENOVO/a218t/a218t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A228t",
+        "device": "A228t",
+        "fingerprint": "LENOVO/a228t/a228t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A238t",
+        "device": "A238t",
+        "fingerprint": "LENOVO/a238t/a238t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A2580",
+        "device": "A2580",
+        "fingerprint": "LENOVO/a2580/a2580:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A269",
+        "device": "A269",
+        "fingerprint": "LENOVO/a269/a269:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A269i",
+        "device": "A269i",
+        "fingerprint": "LENOVO/a269i/a269i:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A278t",
+        "device": "A278t",
+        "fingerprint": "LENOVO/a278t/a278t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A2800-d",
+        "device": "A2800-d",
+        "fingerprint": "LENOVO/a2800-d/a2800-d:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A2860",
+        "device": "A2860",
+        "fingerprint": "LENOVO/a2860/a2860:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A3000-H",
+        "device": "A3000",
+        "fingerprint": "LENOVO/a3000/a3000:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A300t",
+        "device": "A300t",
+        "fingerprint": "LENOVO/a300t/a300t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A305e",
+        "device": "A305e",
+        "fingerprint": "LENOVO/a305e/a305e:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A308t",
+        "device": "A308t",
+        "fingerprint": "LENOVO/a308t/a308t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A316",
+        "device": "A316",
+        "fingerprint": "LENOVO/a316/a316:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A316i",
+        "device": "A316i",
+        "fingerprint": "LENOVO/a316i/a316i:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A318t",
+        "device": "A318t",
+        "fingerprint": "LENOVO/a318t/a318t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A319",
+        "device": "A319",
+        "fingerprint": "LENOVO/a319/a319:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A320t",
+        "device": "A320t",
+        "fingerprint": "LENOVO/a320t/a320t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A328",
+        "device": "A328",
+        "fingerprint": "LENOVO/a328/a328:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A328t",
+        "device": "A328t",
+        "fingerprint": "LENOVO/a328t/a328t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A3300-HV",
+        "device": "A3300-HV",
+        "fingerprint": "LENOVO/a3300-hv/a3300-hv:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A3300-T",
+        "device": "A3300-T",
+        "fingerprint": "LENOVO/a3300-t/a3300-t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A330e",
+        "device": "A330e",
+        "fingerprint": "LENOVO/a330e/a330e:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A338t",
+        "device": "A338t",
+        "fingerprint": "LENOVO/a338t/a338t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A3500",
+        "device": "A3500",
+        "fingerprint": "LENOVO/a3500/a3500:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A3500-F",
+        "device": "A3500F",
+        "fingerprint": "LENOVO/a3500f/a3500f:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A3500-FL",
+        "device": "A3500FL",
+        "fingerprint": "LENOVO/a3500fl/a3500fl:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A3500-H",
+        "device": "A3500H",
+        "fingerprint": "LENOVO/a3500h/a3500h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A3500-HV",
+        "device": "A3500HV",
+        "fingerprint": "LENOVO/a3500hv/a3500hv:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A355e",
+        "device": "A355e",
+        "fingerprint": "LENOVO/a355e/a355e:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A3580",
+        "device": "A3580",
+        "fingerprint": "LENOVO/a3580/a3580:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A358t",
+        "device": "A358t",
+        "fingerprint": "LENOVO/a358t/a358t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A3600-d",
+        "device": "A3600-d",
+        "fingerprint": "LENOVO/a3600-d/a3600-d:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A3600u",
+        "device": "A3600u",
+        "fingerprint": "LENOVO/a3600u/a3600u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A360e",
+        "device": "A360e",
+        "fingerprint": "LENOVO/a360e/a360e:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A360t",
+        "device": "A360t",
+        "fingerprint": "LENOVO/a360t/a360t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A368t",
+        "device": "A368t",
+        "fingerprint": "LENOVO/a368t/a368t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A369",
+        "device": "A369",
+        "fingerprint": "LENOVO/a369/a369:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A369i",
+        "device": "A369i",
+        "fingerprint": "LENOVO/a369i/a369i:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A376",
+        "device": "A376",
+        "fingerprint": "LENOVO/a376/a376:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A378t",
+        "device": "A378t",
+        "fingerprint": "LENOVO/a378t/a378t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A3800-d",
+        "device": "A3800-d",
+        "fingerprint": "LENOVO/a3800-d/a3800-d:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A380t",
+        "device": "A380t",
+        "fingerprint": "LENOVO/a380t/a380t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A3860",
+        "device": "A3860",
+        "fingerprint": "LENOVO/a3860/a3860:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A388t",
+        "device": "A388t",
+        "fingerprint": "LENOVO/a388t/a388t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A390",
+        "device": "A390",
+        "fingerprint": "LENOVO/a390/a390:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A3900",
+        "device": "pxa1L88H2",
+        "fingerprint": "LENOVO/pxa1l88h2/pxa1l88h2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A390_ROW",
+        "device": "A390",
+        "fingerprint": "LENOVO/a390/a390:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A390t",
+        "device": "A390t",
+        "fingerprint": "LENOVO/a390t/a390t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A3910t30",
+        "device": "angus3T3",
+        "fingerprint": "LENOVO/angus3t3/angus3t3:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A396",
+        "device": "A396",
+        "fingerprint": "LENOVO/a396/a396:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A396_TY",
+        "device": "A396_TY",
+        "fingerprint": "LENOVO/a396_ty/a396_ty:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A398t",
+        "device": "A398t",
+        "fingerprint": "LENOVO/a398t/a398t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A398t+",
+        "device": "A398tp",
+        "fingerprint": "LENOVO/a398tp/a398tp:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A399",
+        "device": "Aiken",
+        "fingerprint": "LENOVO/aiken/aiken:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A5000",
+        "device": "A5000",
+        "fingerprint": "LENOVO/a5000/a5000:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A5100",
+        "device": "airplayw",
+        "fingerprint": "LENOVO/airplayw/airplayw:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A516",
+        "device": "A516",
+        "fingerprint": "LENOVO/a516/a516:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A516",
+        "device": "A516_ROW",
+        "fingerprint": "LENOVO/a516_row/a516_row:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A526",
+        "device": "A526",
+        "fingerprint": "LENOVO/a526/a526:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A529",
+        "device": "A529",
+        "fingerprint": "LENOVO/a529/a529:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A536",
+        "device": "A536",
+        "fingerprint": "LENOVO/a536/a536:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A5500",
+        "device": "A5500",
+        "fingerprint": "LENOVO/a5500/a5500:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A5500-F",
+        "device": "A5500-F",
+        "fingerprint": "LENOVO/a5500-f/a5500-f:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A5500-H",
+        "device": "A5500-H",
+        "fingerprint": "LENOVO/a5500-h/a5500-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A5500-HV",
+        "device": "A5500-HV",
+        "fingerprint": "LENOVO/a5500-hv/a5500-hv:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A560",
+        "device": "A560_msm8212",
+        "fingerprint": "LENOVO/a560_msm8212/a560_msm8212:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A5800-D",
+        "device": "A5800-D",
+        "fingerprint": "LENOVO/a5800-d/a5800-d:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A6000",
+        "device": "Kraft-A6000",
+        "fingerprint": "LENOVO/kraft-a6000/kraft-a6000:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A6000-l",
+        "device": "Kraft-A6000-l",
+        "fingerprint": "LENOVO/kraft-a6000-l/kraft-a6000-l:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A6010",
+        "device": "A6010",
+        "fingerprint": "LENOVO/a6010/a6010:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A6020a46",
+        "device": "A6020a46",
+        "fingerprint": "LENOVO/a6020a46/a6020a46:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A606",
+        "device": "A606",
+        "fingerprint": "LENOVO/a606/a606:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A616",
+        "device": "A616",
+        "fingerprint": "LENOVO/a616/a616:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A628t",
+        "device": "A628t",
+        "fingerprint": "LENOVO/a628t/a628t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A656",
+        "device": "A656",
+        "fingerprint": "LENOVO/a656/a656:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A658t",
+        "device": "A658t",
+        "fingerprint": "LENOVO/a658t/a658t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A6600a40",
+        "device": "A6600a40",
+        "fingerprint": "LENOVO/a6600a40/a6600a40:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A6600d40",
+        "device": "A6600d40",
+        "fingerprint": "LENOVO/a6600d40/a6600d40:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A670t",
+        "device": "A670t",
+        "fingerprint": "LENOVO/a670t/a670t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A678t",
+        "device": "A678t",
+        "fingerprint": "LENOVO/a678t/a678t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A680",
+        "device": "A680",
+        "fingerprint": "LENOVO/a680/a680:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A6800",
+        "device": "A6800",
+        "fingerprint": "LENOVO/a6800/a6800:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A680_ROW",
+        "device": "A680",
+        "fingerprint": "LENOVO/a680/a680:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A688t",
+        "device": "A688t",
+        "fingerprint": "LENOVO/a688t/a688t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A7-60HC",
+        "device": "A760HC",
+        "fingerprint": "LENOVO/a760hc/a760hc:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A7000-a",
+        "device": "A7000-a",
+        "fingerprint": "LENOVO/a7000-a/a7000-a:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A7000-a",
+        "device": "A7000plus",
+        "fingerprint": "LENOVO/a7000plus/a7000plus:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A7010a48",
+        "device": "A7010a48",
+        "fingerprint": "LENOVO/a7010a48/a7010a48:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A7020a40",
+        "device": "A7020a40",
+        "fingerprint": "LENOVO/a7020a40/a7020a40:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A7020a48",
+        "device": "A7020a48",
+        "fingerprint": "LENOVO/a7020a48/a7020a48:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A706",
+        "device": "armani",
+        "fingerprint": "LENOVO/armani/armani:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A706_ROW",
+        "device": "armani_row",
+        "fingerprint": "LENOVO/armani_row/armani_row:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A708t",
+        "device": "A708t",
+        "fingerprint": "LENOVO/a708t/a708t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A720e",
+        "device": "andorrap",
+        "fingerprint": "LENOVO/andorrap/andorrap:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A750e",
+        "device": "athenae",
+        "fingerprint": "LENOVO/athenae/athenae:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A760",
+        "device": "audi",
+        "fingerprint": "LENOVO/audi/audi:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A7600",
+        "device": "A7600",
+        "fingerprint": "LENOVO/a7600/a7600:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A7600",
+        "device": "aiocu_wtfp",
+        "fingerprint": "LENOVO/aiocu_wtfp/aiocu_wtfp:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A7600-F",
+        "device": "A7600-F",
+        "fingerprint": "LENOVO/a7600-f/a7600-f:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A7600-H",
+        "device": "A7600-H",
+        "fingerprint": "LENOVO/a7600-h/a7600-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A7600-HV",
+        "device": "A7600-HV",
+        "fingerprint": "LENOVO/a7600-hv/a7600-hv:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A7600-m",
+        "device": "aiocmcc_ttp",
+        "fingerprint": "LENOVO/aiocmcc_ttp/aiocmcc_ttp:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A766",
+        "device": "A766",
+        "fingerprint": "LENOVO/a766/a766:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A768t",
+        "device": "airplayt",
+        "fingerprint": "LENOVO/airplayt/airplayt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A7700",
+        "device": "A7700",
+        "fingerprint": "LENOVO/a7700/a7700:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A770e",
+        "device": "athenaep",
+        "fingerprint": "LENOVO/athenaep/athenaep:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A788t",
+        "device": "A788t",
+        "fingerprint": "LENOVO/a788t/a788t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A805e",
+        "device": "airplayep",
+        "fingerprint": "LENOVO/airplayep/airplayep:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A806",
+        "device": "A806",
+        "fingerprint": "LENOVO/a806/a806:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A808t",
+        "device": "A808t",
+        "fingerprint": "LENOVO/a808t/a808t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A808t-i",
+        "device": "A808t-i",
+        "fingerprint": "LENOVO/a808t-i/a808t-i:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A816",
+        "device": "airplayw",
+        "fingerprint": "LENOVO/airplayw/airplayw:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A820",
+        "device": "A820",
+        "fingerprint": "LENOVO/a820/a820:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A820e",
+        "device": "andorra",
+        "fingerprint": "LENOVO/andorra/andorra:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A820t",
+        "device": "A820t",
+        "fingerprint": "LENOVO/a820t/a820t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A828t",
+        "device": "A828t",
+        "fingerprint": "LENOVO/a828t/a828t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A830",
+        "device": "A830",
+        "fingerprint": "LENOVO/a830/a830:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A850",
+        "device": "A850",
+        "fingerprint": "LENOVO/a850/a850:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A850",
+        "device": "A850_ROW",
+        "fingerprint": "LENOVO/a850_row/a850_row:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A850+",
+        "device": "A850p",
+        "fingerprint": "LENOVO/a850p/a850p:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A858",
+        "device": "A858",
+        "fingerprint": "LENOVO/a858/a858:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A858t",
+        "device": "A858t",
+        "fingerprint": "LENOVO/a858t/a858t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A859",
+        "device": "A859_ROW",
+        "fingerprint": "LENOVO/a859_row/a859_row:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A860e",
+        "device": "artini",
+        "fingerprint": "LENOVO/artini/artini:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A880",
+        "device": "A880",
+        "fingerprint": "LENOVO/a880/a880:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A889",
+        "device": "A889",
+        "fingerprint": "LENOVO/a889/a889:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A890e",
+        "device": "airbuse",
+        "fingerprint": "LENOVO/airbuse/airbuse:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A916",
+        "device": "A916",
+        "fingerprint": "LENOVO/a916/a916:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A936",
+        "device": "A936",
+        "fingerprint": "LENOVO/a936/a936:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo A938t",
+        "device": "A938t",
+        "fingerprint": "LENOVO/a938t/a938t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo B6000-F",
+        "device": "B6000",
+        "fingerprint": "LENOVO/b6000/b6000:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo B6000-H",
+        "device": "B6000",
+        "fingerprint": "LENOVO/b6000/b6000:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo B6000-HV",
+        "device": "B6000",
+        "fingerprint": "LENOVO/b6000/b6000:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo B8000-F",
+        "device": "B8000",
+        "fingerprint": "LENOVO/b8000/b8000:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo B8000-H",
+        "device": "B8000",
+        "fingerprint": "LENOVO/b8000/b8000:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo B8080-F",
+        "device": "B8080",
+        "fingerprint": "LENOVO/b8080/b8080:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo B8080-H",
+        "device": "B8080",
+        "fingerprint": "LENOVO/b8080/b8080:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo B8080-HV",
+        "device": "B8080",
+        "fingerprint": "LENOVO/b8080/b8080:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K",
+        "device": "brady_f",
+        "fingerprint": "LENOVO/brady_f/brady_f:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K",
+        "device": "marino_f",
+        "fingerprint": "LENOVO/marino_f/marino_f:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K10",
+        "device": "pokerp",
+        "fingerprint": "MOTOROLA/pokerp/pokerp:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K10a40",
+        "device": "K10a40",
+        "fingerprint": "LENOVO/k10a40/k10a40:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K10e70",
+        "device": "K10e70",
+        "fingerprint": "LENOVO/k10e70/k10e70:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K11",
+        "device": "fiji",
+        "fingerprint": "MOTOROLA/fiji/fiji:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K11",
+        "device": "malta",
+        "fingerprint": "MOTOROLA/malta/malta:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K11 Power",
+        "device": "blackjack",
+        "fingerprint": "MOTOROLA/blackjack/blackjack:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K12",
+        "device": "malta",
+        "fingerprint": "MOTOROLA/malta/malta:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K12 Note",
+        "device": "guamp",
+        "fingerprint": "LENOVO/guamp/guamp:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K12 Note",
+        "device": "capri",
+        "fingerprint": "LENOVO/capri/capri:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K12 Note",
+        "device": "caprip",
+        "fingerprint": "LENOVO/caprip/caprip:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K12 Note",
+        "device": "cebu",
+        "fingerprint": "MOTOROLA/cebu/cebu:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K12 Pro",
+        "device": "cebu",
+        "fingerprint": "MOTOROLA/cebu/cebu:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K12 Pro",
+        "device": "cofud",
+        "fingerprint": "MOTOROLA/cofud/cofud:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K13",
+        "device": "maltalsc",
+        "fingerprint": "MOTOROLA/maltalsc/maltalsc:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K13 Note",
+        "device": "capri",
+        "fingerprint": "LENOVO/capri/capri:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K13 Note",
+        "device": "java",
+        "fingerprint": "MOTOROLA/java/java:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K13 Pro",
+        "device": "caprip",
+        "fingerprint": "LENOVO/caprip/caprip:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K14",
+        "device": "aruba",
+        "fingerprint": "MOTOROLA/aruba/aruba:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K14 Note",
+        "device": "cofud",
+        "fingerprint": "MOTOROLA/cofud/cofud:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K14 Plus",
+        "device": "cyprus64",
+        "fingerprint": "MOTOROLA/cyprus64/cyprus64:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K15",
+        "device": "hawaii",
+        "fingerprint": "MOTOROLA/hawaii/hawaii:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K15 Plus",
+        "device": "hawaiip",
+        "fingerprint": "MOTOROLA/hawaiip/hawaiip:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K30-E",
+        "device": "Kraft-E",
+        "fingerprint": "LENOVO/kraft-e/kraft-e:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K30-T",
+        "device": "Kraft-T",
+        "fingerprint": "LENOVO/kraft-t/kraft-t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K30-TM",
+        "device": "Kraft-TM",
+        "fingerprint": "LENOVO/kraft-tm/kraft-tm:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K30-W",
+        "device": "Kraft-W",
+        "fingerprint": "LENOVO/kraft-w/kraft-w:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K320t",
+        "device": "Lenovo_K320t",
+        "fingerprint": "LENOVO/lenovo_k320t/lenovo_k320t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K32c30",
+        "device": "K32c30",
+        "fingerprint": "LENOVO/k32c30/k32c30:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K32c36",
+        "device": "K32c36",
+        "fingerprint": "LENOVO/k32c36/k32c36:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K33a42",
+        "device": "K33a42",
+        "fingerprint": "LENOVO/k33a42/k33a42:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K33a48",
+        "device": "K33a48",
+        "fingerprint": "LENOVO/k33a48/k33a48:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K33b36",
+        "device": "K33b36",
+        "fingerprint": "LENOVO/k33b36/k33b36:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K33b37",
+        "device": "K33b37",
+        "fingerprint": "LENOVO/k33b37/k33b37:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K50-T5",
+        "device": "aio_otfp",
+        "fingerprint": "LENOVO/aio_otfp/aio_otfp:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K50-t3s",
+        "device": "aio_3m_otfp_m",
+        "fingerprint": "LENOVO/aio_3m_otfp_m/aio_3m_otfp_m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K50-t3s",
+        "device": "aio_3m_otfp",
+        "fingerprint": "LENOVO/aio_3m_otfp/aio_3m_otfp:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K50-t5",
+        "device": "aio_otfp",
+        "fingerprint": "LENOVO/aio_otfp/aio_otfp:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K50-t5",
+        "device": "K50-t5",
+        "fingerprint": "LENOVO/k50-t5/k50-t5:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K50-t5",
+        "device": "aio_otfp_m",
+        "fingerprint": "LENOVO/aio_otfp_m/aio_otfp_m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K50a40",
+        "device": "K50a40",
+        "fingerprint": "LENOVO/k50a40/k50a40:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K51c78",
+        "device": "k5fp",
+        "fingerprint": "LENOVO/k5fp/k5fp:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K51c78",
+        "device": "k5fp_m",
+        "fingerprint": "LENOVO/k5fp_m/k5fp_m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K520",
+        "device": "seoul",
+        "fingerprint": "LENOVO/seoul/seoul:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K52e78",
+        "device": "k52_e78",
+        "fingerprint": "LENOVO/k52_e78/k52_e78:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K52t38",
+        "device": "k52_t38",
+        "fingerprint": "LENOVO/k52_t38/k52_t38:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K52t58",
+        "device": "k52_t58",
+        "fingerprint": "LENOVO/k52_t58/k52_t58:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K53a48",
+        "device": "K53a48",
+        "fingerprint": "LENOVO/k53a48/k53a48:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K53b36",
+        "device": "K53b36",
+        "fingerprint": "LENOVO/k53b36/k53b36:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K53b37",
+        "device": "K53b37",
+        "fingerprint": "LENOVO/k53b37/k53b37:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K8",
+        "device": "brady_f",
+        "fingerprint": "LENOVO/brady_f/brady_f:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K8 Note",
+        "device": "manning",
+        "fingerprint": "LENOVO/manning/manning:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K8 Plus",
+        "device": "marino_f",
+        "fingerprint": "LENOVO/marino_f/marino_f:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K800",
+        "device": "K800",
+        "fingerprint": "LENOVO/k800/k800:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K80M",
+        "device": "K80M",
+        "fingerprint": "LENOVO/k80m/k80m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K860",
+        "device": "stuttgart",
+        "fingerprint": "LENOVO/stuttgart/stuttgart:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K860i",
+        "device": "K860i",
+        "fingerprint": "LENOVO/k860i/k860i:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K900",
+        "device": "K900",
+        "fingerprint": "LENOVO/k900/k900:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K900_ROW",
+        "device": "K900_ROW",
+        "fingerprint": "LENOVO/k900_row/k900_row:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K910",
+        "device": "kiton",
+        "fingerprint": "LENOVO/kiton/kiton:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K910",
+        "device": "kitonw",
+        "fingerprint": "VIBE Z/kitonw/kitonw:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K910L",
+        "device": "K910L",
+        "fingerprint": "LENOVO/k910l/k910l:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K910e",
+        "device": "kitone",
+        "fingerprint": "LENOVO/kitone/kitone:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K920",
+        "device": "kingdom_row",
+        "fingerprint": "LENOVO/kingdom_row/kingdom_row:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo K920",
+        "device": "kingdomt",
+        "fingerprint": "LENOVO/kingdomt/kingdomt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo L10041",
+        "device": "AK57",
+        "fingerprint": "LENOVO/ak57/ak57:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo L18021",
+        "device": "L18021",
+        "fingerprint": "LENOVO/l18021/l18021:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo L18081",
+        "device": "A5s",
+        "fingerprint": "LENOVO/a5s/a5s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo L19041",
+        "device": "Lenovo_A6_Note",
+        "fingerprint": "LENOVO/lenovo_a6_note/lenovo_a6_note:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo L38011",
+        "device": "k5",
+        "fingerprint": "LENOVO/k5/k5:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo L38012",
+        "device": "austin2018",
+        "fingerprint": "LENOVO/austin2018/austin2018:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo L38021",
+        "device": "k5_cmcc",
+        "fingerprint": "LENOVO/k5_cmcc/k5_cmcc:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo L38031",
+        "device": "K5S",
+        "fingerprint": "LENOVO/k5s/k5s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo L38041",
+        "device": "kunlun",
+        "fingerprint": "LENOVO/kunlun/kunlun:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo L38043",
+        "device": "K9",
+        "fingerprint": "LENOVO/k9/k9:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo L38082",
+        "device": "L38082",
+        "fingerprint": "LENOVO/l38082/l38082:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo L38083",
+        "device": "L38083",
+        "fingerprint": "LENOVO/l38083/l38083:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo L38111",
+        "device": "kunlun2",
+        "fingerprint": "LENOVO/kunlun2/kunlun2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo L58041",
+        "device": "sprout",
+        "fingerprint": "LENOVO/sprout/sprout:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo L71091",
+        "device": "halo",
+        "fingerprint": "LENOVO/halo/halo:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo L78031",
+        "device": "zap",
+        "fingerprint": "LENOVO/zap/zap:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo L78032",
+        "device": "heart",
+        "fingerprint": "LENOVO/heart/heart:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo L78051",
+        "device": "zippo",
+        "fingerprint": "LENOVO/zippo/zippo:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo L78071",
+        "device": "jd2019",
+        "fingerprint": "LENOVO/jd2019/jd2019:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo L79041",
+        "device": "cream",
+        "fingerprint": "LENOVO/cream/cream:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo N300",
+        "device": "Lindos2",
+        "fingerprint": "LENOVO/lindos2/lindos2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo P70-A",
+        "device": "P70-A",
+        "fingerprint": "LENOVO/p70-a/p70-a:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo P70-t",
+        "device": "P70-t",
+        "fingerprint": "LENOVO/p70-t/p70-t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo P780",
+        "device": "P780",
+        "fingerprint": "LENOVO/p780/p780:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo P780",
+        "device": "P780_ROW",
+        "fingerprint": "LENOVO/p780_row/p780_row:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo P780_ROW",
+        "device": "P780_ROW",
+        "fingerprint": "LENOVO/p780_row/p780_row:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo P90",
+        "device": "P90",
+        "fingerprint": "LENOVO/p90/p90:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo PB1-750M",
+        "device": "PB1-750M",
+        "fingerprint": "LENOVO/pb1-750m/pb1-750m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo PB1-770M",
+        "device": "PB1-770M",
+        "fingerprint": "LENOVO/pb1-770m/pb1-770m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo PB1-770N",
+        "device": "PB1-770N",
+        "fingerprint": "LENOVO/pb1-770n/pb1-770n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo PB1-770P",
+        "device": "PB1-770P",
+        "fingerprint": "LENOVO/pb1-770p/pb1-770p:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo PB2-650M",
+        "device": "PB2",
+        "fingerprint": "LENOVO/pb2/pb2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo PB2-650N",
+        "device": "PB2",
+        "fingerprint": "LENOVO/pb2/pb2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo PB2-650Y",
+        "device": "PB2",
+        "fingerprint": "LENOVO/pb2/pb2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo PB2-670M",
+        "device": "PB2-670M",
+        "fingerprint": "LENOVO/pb2-670m/pb2-670m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo PB2-670M1",
+        "device": "PB2-670M1",
+        "fingerprint": "LENOVO/pb2-670m1/pb2-670m1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo PB2-670N",
+        "device": "PB2-670N",
+        "fingerprint": "LENOVO/pb2-670n/pb2-670n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo PB2-670Y",
+        "device": "PB2-670Y",
+        "fingerprint": "LENOVO/pb2-670y/pb2-670y:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo PB2-690M",
+        "device": "PB2PRO",
+        "fingerprint": "LENOVO/pb2pro/pb2pro:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo PB2-690N",
+        "device": "PB2PRO",
+        "fingerprint": "LENOVO/pb2pro/pb2pro:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo PB2-690Y",
+        "device": "PB2PRO",
+        "fingerprint": "LENOVO/pb2pro/pb2pro:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S1La40",
+        "device": "S1La40",
+        "fingerprint": "LENOVO/s1la40/s1la40:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S5000-F",
+        "device": "S5000",
+        "fingerprint": "LENOVO/s5000/s5000:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S5000-H",
+        "device": "S5000",
+        "fingerprint": "LENOVO/s5000/s5000:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S580",
+        "device": "S580",
+        "fingerprint": "LENOVO/s580/s580:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S60-a",
+        "device": "sisleylr",
+        "fingerprint": "LENOVO/sisleylr/sisleylr:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S60-t",
+        "device": "sisleylt",
+        "fingerprint": "LENOVO/sisleylt/sisleylt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S60-w",
+        "device": "sisleylw",
+        "fingerprint": "LENOVO/sisleylw/sisleylw:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S6000L-F",
+        "device": "S6000L",
+        "fingerprint": "LENOVO/s6000l/s6000l:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S650",
+        "device": "S650",
+        "fingerprint": "LENOVO/s650/s650:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S650",
+        "device": "S650_ROW",
+        "fingerprint": "LENOVO/s650_row/s650_row:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S658t",
+        "device": "S658t",
+        "fingerprint": "LENOVO/s658t/s658t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S660",
+        "device": "S660",
+        "fingerprint": "LENOVO/s660/s660:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S668t",
+        "device": "S668t",
+        "fingerprint": "LENOVO/s668t/s668t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S680",
+        "device": "seoul",
+        "fingerprint": "LENOVO/seoul/seoul:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S686",
+        "device": "Alaska",
+        "fingerprint": "LENOVO/alaska/alaska:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S720",
+        "device": "S720",
+        "fingerprint": "LENOVO/s720/s720:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S750",
+        "device": "S750",
+        "fingerprint": "LENOVO/s750/s750:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S810t",
+        "device": "shellt",
+        "fingerprint": "LENOVO/shellt/shellt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S820",
+        "device": "S820",
+        "fingerprint": "LENOVO/s820/s820:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S820",
+        "device": "S820_AMX_ROW",
+        "fingerprint": "LENOVO/s820_amx_row/s820_amx_row:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S820",
+        "device": "S820_ROW",
+        "fingerprint": "LENOVO/s820_row/s820_row:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S820_ROW",
+        "device": "S820_ROW",
+        "fingerprint": "LENOVO/s820_row/s820_row:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S820e",
+        "device": "applee",
+        "fingerprint": "LENOVO/applee/applee:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S850",
+        "device": "S850",
+        "fingerprint": "LENOVO/s850/s850:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S850e",
+        "device": "sichuan",
+        "fingerprint": "LENOVO/sichuan/sichuan:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S850t",
+        "device": "S850t",
+        "fingerprint": "LENOVO/s850t/s850t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S856",
+        "device": "shellamx",
+        "fingerprint": "LENOVO/shellamx/shellamx:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S856",
+        "device": "shellr",
+        "fingerprint": "LENOVO/shellr/shellr:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S856",
+        "device": "shellr_s",
+        "fingerprint": "LENOVO/shellr_s/shellr_s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S856",
+        "device": "shellw",
+        "fingerprint": "LENOVO/shellw/shellw:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S858t",
+        "device": "Selected",
+        "fingerprint": "LENOVO/selected/selected:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S860",
+        "device": "S860",
+        "fingerprint": "LENOVO/s860/s860:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S860e",
+        "device": "shelle",
+        "fingerprint": "LENOVO/shelle/shelle:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S868t",
+        "device": "S868t",
+        "fingerprint": "LENOVO/s868t/s868t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S870e",
+        "device": "S870e",
+        "fingerprint": "LENOVO/s870e/s870e:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S898t",
+        "device": "S898t",
+        "fingerprint": "LENOVO/s898t/s898t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S898t+",
+        "device": "S898tp",
+        "fingerprint": "LENOVO/s898tp/s898tp:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S90-A",
+        "device": "sisleyr",
+        "fingerprint": "LENOVO/sisleyr/sisleyr:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S90-L",
+        "device": "sisleyr_amx",
+        "fingerprint": "LENOVO/sisleyr_amx/sisleyr_amx:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S90-e",
+        "device": "sisleye",
+        "fingerprint": "LENOVO/sisleye/sisleye:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S90-t",
+        "device": "sisleyt",
+        "fingerprint": "LENOVO/sisleyt/sisleyt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S90-u",
+        "device": "sisleyw",
+        "fingerprint": "LENOVO/sisleyw/sisleyw:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S920",
+        "device": "S920",
+        "fingerprint": "LENOVO/s920/s920:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S930",
+        "device": "S930",
+        "fingerprint": "LENOVO/s930/s930:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S930",
+        "device": "S930_ROW",
+        "fingerprint": "LENOVO/s930_row/s930_row:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S938t",
+        "device": "S938t",
+        "fingerprint": "LENOVO/s938t/s938t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S939",
+        "device": "S939",
+        "fingerprint": "LENOVO/s939/s939:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S960",
+        "device": "S960_ROW",
+        "fingerprint": "LENOVO/s960_row/s960_row:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S960",
+        "device": "S960",
+        "fingerprint": "LENOVO/s960/s960:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S960",
+        "device": "S960_AMX_ROW",
+        "fingerprint": "LENOVO/s960_amx_row/s960_amx_row:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo S968t",
+        "device": "S968t",
+        "fingerprint": "LENOVO/s968t/s968t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo TB-8304F1",
+        "device": "TB-8304F1",
+        "fingerprint": "LENOVO/tb-8304f1/tb-8304f1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo TB-X607Z",
+        "device": "TB-X607Z",
+        "fingerprint": "LENOVO/tb-x607z/tb-x607z:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo TB3-X70I",
+        "device": "TB3-X70I",
+        "fingerprint": "LENOVO/tb3-x70i/tb3-x70i:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo X2-CU",
+        "device": "X2-CU",
+        "fingerprint": "LENOVO/x2-cu/x2-cu:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo X2-TO",
+        "device": "X2-TO",
+        "fingerprint": "LENOVO/x2-to/x2-to:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo X2-TR",
+        "device": "X2-TR",
+        "fingerprint": "LENOVO/x2-tr/x2-tr:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo X2Pt5",
+        "device": "s7",
+        "fingerprint": "LENOVO/s7/s7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo X3a40",
+        "device": "x3_row",
+        "fingerprint": "LENOVO/x3_row/x3_row:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo X3c50",
+        "device": "X3c50",
+        "fingerprint": "LENOVO/x3c50/x3c50:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo X3c70",
+        "device": "X3c70",
+        "fingerprint": "LENOVO/x3c70/x3c70:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo XT2081-4",
+        "device": "guam",
+        "fingerprint": "MOTOROLA/guam/guam:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo XT2091-7",
+        "device": "cebu",
+        "fingerprint": "MOTOROLA/cebu/cebu:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo YB-Q501F",
+        "device": "YOGA-A12",
+        "fingerprint": "LENOVO/yoga-a12/yoga-a12:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo YB-Q501L",
+        "device": "YOGA-A12",
+        "fingerprint": "LENOVO/yoga-a12/yoga-a12:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo YB1-X90F",
+        "device": "yeti",
+        "fingerprint": "LENOVO/yeti/yeti:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo YB1-X90L",
+        "device": "yeti",
+        "fingerprint": "LENOVO/yeti/yeti:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo Z2w",
+        "device": "z2w",
+        "fingerprint": "LENOVO/z2w/z2w:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo Z90",
+        "device": "zoom_fdd",
+        "fingerprint": "LENOVO/zoom_fdd/zoom_fdd:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo Z90-3",
+        "device": "zoom_tdd",
+        "fingerprint": "LENOVO/zoom_tdd/zoom_tdd:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo Z90-7",
+        "device": "zoom_fdd",
+        "fingerprint": "LENOVO/zoom_fdd/zoom_fdd:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo Z90a40",
+        "device": "zoom_row",
+        "fingerprint": "LENOVO/zoom_row/zoom_row:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo k52t38",
+        "device": "k52_t38",
+        "fingerprint": "LENOVO/k52_t38/k52_t38:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LenovoA3300-GV",
+        "device": "A3300-GV",
+        "fingerprint": "LENOVO/a3300-gv/a3300-gv:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LenovoA3300-H",
+        "device": "A3300-H",
+        "fingerprint": "LENOVO/a3300-h/a3300-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LenovoA3300-HV",
+        "device": "A3300-HV",
+        "fingerprint": "LENOVO/a3300-hv/a3300-hv:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LenovoA588t",
+        "device": "LenovoA588t",
+        "fingerprint": "LENOVO/lenovoa588t/lenovoa588t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Lenovo_A2105",
+        "device": "Lenovo_A2105",
+        "fingerprint": "LENOVO/lenovo_a2105/lenovo_a2105:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MEDION E4002",
+        "device": "E4002",
+        "fingerprint": "LENOVO/e4002/e4002:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "NEC PC-TS508FAM",
+        "device": "PC-TS508FAM",
+        "fingerprint": "LENOVO/pc-ts508fam/pc-ts508fam:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PC-TE507FAW",
+        "device": "TE507FAW",
+        "fingerprint": "LENOVO/te507faw/te507faw:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PC-TS508FAM",
+        "device": "PC-TS508FAM",
+        "fingerprint": "LENOVO/pc-ts508fam/pc-ts508fam:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TB360ZJ",
+        "device": "TB360ZJ",
+        "fingerprint": "LENOVO/tb360zj/tb360zj:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TB360ZU",
+        "device": "TB360ZU",
+        "fingerprint": "LENOVO/tb360zu/tb360zu:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ThinkVision28",
+        "device": "ThinkVision28",
+        "fingerprint": "LENOVO/thinkvision28/thinkvision28:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "VIBE X2Pt5",
+        "device": "s7",
+        "fingerprint": "LENOVO/s7/s7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "VR-1541F",
+        "device": "vega",
+        "fingerprint": "LENOVO/vega/vega:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "VR-S3",
+        "device": "VRS3",
+        "fingerprint": "LENOVO/vrs3/vrs3:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1700",
+        "device": "taidos_row",
+        "fingerprint": "LENOVO/taidos_row/taidos_row:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1706",
+        "device": "taido_row",
+        "fingerprint": "LENOVO/taido_row/taido_row:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XT1902-3",
+        "device": "manning",
+        "fingerprint": "LENOVO/manning/manning:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ZUK Z2132",
+        "device": "z2_plus_hw",
+        "fingerprint": "ZUK/z2_plus_hw/z2_plus_hw:12/SP1A.210812.016/7769886:user/release-keys"
+    }
+]

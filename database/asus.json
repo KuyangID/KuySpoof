@@ -1,0 +1,1147 @@
+[
+    {
+        "model": "ASUS ZenFone 2",
+        "device": "ASUS_Z00D",
+        "fingerprint": "ASUS/asus_z00d/asus_z00d:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS ZenFone 2E",
+        "device": "ASUS_Z00D",
+        "fingerprint": "ASUS/asus_z00d/asus_z00d:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUSAI2501A",
+        "device": "ASUSAI2501",
+        "fingerprint": "ASUS/asusai2501/asusai2501:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUSAI2501B",
+        "device": "ASUSAI2501",
+        "fingerprint": "ASUS/asusai2501/asusai2501:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUSAI2501C",
+        "device": "ASUSAI2501",
+        "fingerprint": "ASUS/asusai2501/asusai2501:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUSAI2501H",
+        "device": "ASUSAI2501",
+        "fingerprint": "ASUS/asusai2501/asusai2501:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_A001",
+        "device": "ASUS_A001",
+        "fingerprint": "ASUS/asus_a001/asus_a001:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_A001D",
+        "device": "ASUS_A001D_1",
+        "fingerprint": "ASUS/asus_a001d_1/asus_a001d_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_A001D",
+        "device": "ASUS_A001D_2",
+        "fingerprint": "ASUS/asus_a001d_2/asus_a001d_2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_A002",
+        "device": "ASUS_A002",
+        "fingerprint": "ASUS/asus_a002/asus_a002:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_A002",
+        "device": "ASUS_A002_2",
+        "fingerprint": "ASUS/asus_a002_2/asus_a002_2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_A002A",
+        "device": "ASUS_A002_1",
+        "fingerprint": "ASUS/asus_a002_1/asus_a002_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_A006",
+        "device": "ASUS_A006",
+        "fingerprint": "ASUS/asus_a006/asus_a006:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_A007",
+        "device": "ASUS_A007",
+        "fingerprint": "ASUS/asus_a007/asus_a007:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_A009",
+        "device": "ASUS_A009",
+        "fingerprint": "ASUS/asus_a009/asus_a009:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_AI2201_A",
+        "device": "ASUS_AI2201",
+        "fingerprint": "ASUS/asus_ai2201/asus_ai2201:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_AI2201_B",
+        "device": "ASUS_AI2201",
+        "fingerprint": "ASUS/asus_ai2201/asus_ai2201:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_AI2201_C",
+        "device": "ASUS_AI2201",
+        "fingerprint": "ASUS/asus_ai2201/asus_ai2201:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_AI2201_D",
+        "device": "ASUS_AI2201",
+        "fingerprint": "ASUS/asus_ai2201/asus_ai2201:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_AI2202",
+        "device": "ASUS_AI2202",
+        "fingerprint": "ASUS/asus_ai2202/asus_ai2202:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_AI2203_B",
+        "device": "ASUS_AI2203",
+        "fingerprint": "ASUS/asus_ai2203/asus_ai2203:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_AI2203_C",
+        "device": "ASUS_AI2203",
+        "fingerprint": "ASUS/asus_ai2203/asus_ai2203:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_AI2203_D",
+        "device": "ASUS_AI2203",
+        "fingerprint": "ASUS/asus_ai2203/asus_ai2203:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_AI2205_A",
+        "device": "ASUS_AI2205",
+        "fingerprint": "ASUS/asus_ai2205/asus_ai2205:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_AI2205_C",
+        "device": "ASUS_AI2205",
+        "fingerprint": "ASUS/asus_ai2205/asus_ai2205:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_AI2302",
+        "device": "ASUS_AI2302",
+        "fingerprint": "ASUS/asus_ai2302/asus_ai2302:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_AI2401_A",
+        "device": "ASUS_AI2401",
+        "fingerprint": "ASUS/asus_ai2401/asus_ai2401:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_AI2401_C",
+        "device": "ASUS_AI2401",
+        "fingerprint": "ASUS/asus_ai2401/asus_ai2401:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_AI2401_D",
+        "device": "ASUS_AI2401",
+        "fingerprint": "ASUS/asus_ai2401/asus_ai2401:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_AI2401_H",
+        "device": "ASUS_AI2401",
+        "fingerprint": "ASUS/asus_ai2401/asus_ai2401:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_AI2401_N",
+        "device": "ASUS_AI2401",
+        "fingerprint": "ASUS/asus_ai2401/asus_ai2401:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_I001D",
+        "device": "ASUS_I001_1",
+        "fingerprint": "ASUS/asus_i001_1/asus_i001_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_I001DC",
+        "device": "ASUS_I001_1",
+        "fingerprint": "ASUS/asus_i001_1/asus_i001_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_I001DE",
+        "device": "ASUS_I001_1",
+        "fingerprint": "ASUS/asus_i001_1/asus_i001_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_I002D",
+        "device": "ASUS_I002D",
+        "fingerprint": "ASUS/asus_i002d/asus_i002d:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_I003D",
+        "device": "ASUS_I003_1",
+        "fingerprint": "ASUS/asus_i003_1/asus_i003_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_I003DD",
+        "device": "ASUS_I003_1",
+        "fingerprint": "ASUS/asus_i003_1/asus_i003_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_I004D",
+        "device": "ASUS_I004D",
+        "fingerprint": "ASUS/asus_i004d/asus_i004d:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_I005D",
+        "device": "ASUS_I005_1",
+        "fingerprint": "ASUS/asus_i005_1/asus_i005_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_I005DA",
+        "device": "ASUS_I005_1",
+        "fingerprint": "ASUS/asus_i005_1/asus_i005_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_I005DB",
+        "device": "ASUS_I005_1",
+        "fingerprint": "ASUS/asus_i005_1/asus_i005_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_I006D",
+        "device": "ASUS_I006D",
+        "fingerprint": "ASUS/asus_i006d/asus_i006d:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_I01WD",
+        "device": "ASUS_I01WD",
+        "fingerprint": "ASUS/asus_i01wd/asus_i01wd:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_L001",
+        "device": "ASUS_L001_1",
+        "fingerprint": "ASUS/asus_l001_1/asus_l001_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_L001",
+        "device": "ASUS_L001_2",
+        "fingerprint": "ASUS/asus_l001_2/asus_l001_2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_T00F",
+        "device": "ASUS_T00F",
+        "fingerprint": "ASUS/asus_t00f/asus_t00f:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_T00F",
+        "device": "ASUS_T00F1",
+        "fingerprint": "ASUS/asus_t00f1/asus_t00f1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_T00G",
+        "device": "ASUS_T00G",
+        "fingerprint": "ASUS/asus_t00g/asus_t00g:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_T00I",
+        "device": "ASUS_T00I",
+        "fingerprint": "ASUS/asus_t00i/asus_t00i:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_T00I-D",
+        "device": "ASUS_T00I",
+        "fingerprint": "ASUS/asus_t00i/asus_t00i:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_T00J",
+        "device": "ASUS_T00J",
+        "fingerprint": "ASUS/asus_t00j/asus_t00j:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_T00J",
+        "device": "ASUS_T00J1",
+        "fingerprint": "ASUS/asus_t00j1/asus_t00j1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_T00K",
+        "device": "ASUS_T00K",
+        "fingerprint": "ASUS/asus_t00k/asus_t00k:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_T00P",
+        "device": "ASUS_T00P",
+        "fingerprint": "ASUS/asus_t00p/asus_t00p:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_T00Q",
+        "device": "ASUS_T00Q",
+        "fingerprint": "ASUS/asus_t00q/asus_t00q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X003",
+        "device": "ASUS_X003",
+        "fingerprint": "ASUS/asus_x003/asus_x003:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X007D",
+        "device": "ASUS_X007D",
+        "fingerprint": "ASUS/asus_x007d/asus_x007d:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X008D",
+        "device": "ASUS_X008",
+        "fingerprint": "ASUS/asus_x008/asus_x008:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X008D",
+        "device": "ASUS_X008_1",
+        "fingerprint": "ASUS/asus_x008_1/asus_x008_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X008DA",
+        "device": "ASUS_X008",
+        "fingerprint": "ASUS/asus_x008/asus_x008:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X008DA",
+        "device": "ASUS_X008_1",
+        "fingerprint": "ASUS/asus_x008_1/asus_x008_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X008DB",
+        "device": "ASUS_X008",
+        "fingerprint": "ASUS/asus_x008/asus_x008:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X008DB",
+        "device": "ASUS_X008_1",
+        "fingerprint": "ASUS/asus_x008_1/asus_x008_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X008DC",
+        "device": "ASUS_X008_1",
+        "fingerprint": "ASUS/asus_x008_1/asus_x008_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X009DB",
+        "device": "ASUS_X009D_2",
+        "fingerprint": "ASUS/asus_x009d_2/asus_x009d_2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X00AD",
+        "device": "ASUS_X00AD_2",
+        "fingerprint": "ASUS/asus_x00ad_2/asus_x00ad_2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X00BD",
+        "device": "ASUS_X00BD_1",
+        "fingerprint": "ASUS/asus_x00bd_1/asus_x00bd_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X00DD",
+        "device": "ASUS_X00DD",
+        "fingerprint": "ASUS/asus_x00dd/asus_x00dd:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X00DDA",
+        "device": "ASUS_X00DD",
+        "fingerprint": "ASUS/asus_x00dd/asus_x00dd:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X00GD",
+        "device": "ASUS_X00G_1",
+        "fingerprint": "ASUS/asus_x00g_1/asus_x00g_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X00HD",
+        "device": "ASUS_X00HD_1",
+        "fingerprint": "ASUS/asus_x00hd_1/asus_x00hd_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X00HD",
+        "device": "ASUS_X00HD_2",
+        "fingerprint": "ASUS/asus_x00hd_2/asus_x00hd_2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X00HD",
+        "device": "ASUS_X00HD_4",
+        "fingerprint": "ASUS/asus_x00hd_4/asus_x00hd_4:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X00HD",
+        "device": "ASUS_X00HD_5",
+        "fingerprint": "ASUS/asus_x00hd_5/asus_x00hd_5:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X00HD",
+        "device": "ASUS_X00HD_3",
+        "fingerprint": "ASUS/asus_x00hd_3/asus_x00hd_3:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X00HDA",
+        "device": "ASUS_X00HD_3",
+        "fingerprint": "ASUS/asus_x00hd_3/asus_x00hd_3:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X00ID",
+        "device": "ASUS_X00ID",
+        "fingerprint": "ASUS/asus_x00id/asus_x00id:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X00ID",
+        "device": "ASUS_X00IDB",
+        "fingerprint": "ASUS/asus_x00idb/asus_x00idb:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X00ID",
+        "device": "ASUS_X00IDC",
+        "fingerprint": "ASUS/asus_x00idc/asus_x00idc:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X00LD",
+        "device": "ASUS_X00LD_1",
+        "fingerprint": "ASUS/asus_x00ld_1/asus_x00ld_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X00LDA",
+        "device": "ASUS_X00LD_3",
+        "fingerprint": "ASUS/asus_x00ld_3/asus_x00ld_3:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X00LDB",
+        "device": "ASUS_X00LD_2",
+        "fingerprint": "ASUS/asus_x00ld_2/asus_x00ld_2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X00PD",
+        "device": "ASUS_X00P_1",
+        "fingerprint": "ASUS/asus_x00p_1/asus_x00p_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X00PD",
+        "device": "ASUS_X00P_2",
+        "fingerprint": "ASUS/asus_x00p_2/asus_x00p_2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X00PD",
+        "device": "ASUS_X00P_3",
+        "fingerprint": "ASUS/asus_x00p_3/asus_x00p_3:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X00PD",
+        "device": "ASUS_X00P_4",
+        "fingerprint": "ASUS/asus_x00p_4/asus_x00p_4:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X00PD",
+        "device": "ASUS_X00P_6",
+        "fingerprint": "ASUS/asus_x00p_6/asus_x00p_6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X00PD",
+        "device": "ASUS_X00P_8",
+        "fingerprint": "ASUS/asus_x00p_8/asus_x00p_8:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X00QD",
+        "device": "ASUS_X00QD",
+        "fingerprint": "ASUS/asus_x00qd/asus_x00qd:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X00QSA",
+        "device": "ASUS_X00QD",
+        "fingerprint": "ASUS/asus_x00qd/asus_x00qd:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X00RD",
+        "device": "ASUS_X00R_1",
+        "fingerprint": "ASUS/asus_x00r_1/asus_x00r_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X00RD",
+        "device": "ASUS_X00R_2",
+        "fingerprint": "ASUS/asus_x00r_2/asus_x00r_2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X00RD",
+        "device": "ASUS_X00R_3",
+        "fingerprint": "ASUS/asus_x00r_3/asus_x00r_3:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X00RD",
+        "device": "ASUS_X00R_5",
+        "fingerprint": "ASUS/asus_x00r_5/asus_x00r_5:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X00RD",
+        "device": "ASUS_X00R_6",
+        "fingerprint": "ASUS/asus_x00r_6/asus_x00r_6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X00RD",
+        "device": "ASUS_X00R_7",
+        "fingerprint": "ASUS/asus_x00r_7/asus_x00r_7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X00TD",
+        "device": "ASUS_X00T_2",
+        "fingerprint": "ASUS/asus_x00t_2/asus_x00t_2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X00TD",
+        "device": "ASUS_X00T_3",
+        "fingerprint": "ASUS/asus_x00t_3/asus_x00t_3:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X00TD",
+        "device": "ASUS_X00T_4",
+        "fingerprint": "ASUS/asus_x00t_4/asus_x00t_4:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X00TD",
+        "device": "ASUS_X00T_6",
+        "fingerprint": "ASUS/asus_x00t_6/asus_x00t_6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X00TD",
+        "device": "ASUS_X00T_8",
+        "fingerprint": "ASUS/asus_x00t_8/asus_x00t_8:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X00TDB",
+        "device": "ASUS_X00T_2",
+        "fingerprint": "ASUS/asus_x00t_2/asus_x00t_2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X00TDB",
+        "device": "ASUS_X00T_6",
+        "fingerprint": "ASUS/asus_x00t_6/asus_x00t_6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X00TDB",
+        "device": "ASUS_X00T_8",
+        "fingerprint": "ASUS/asus_x00t_8/asus_x00t_8:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X013DA",
+        "device": "ASUS_X013D_1",
+        "fingerprint": "ASUS/asus_x013d_1/asus_x013d_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X013DA",
+        "device": "ASUS_X013D_2",
+        "fingerprint": "ASUS/asus_x013d_2/asus_x013d_2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X013DB",
+        "device": "ASUS_X013D_1",
+        "fingerprint": "ASUS/asus_x013d_1/asus_x013d_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X013DB",
+        "device": "ASUS_X013D_2",
+        "fingerprint": "ASUS/asus_x013d_2/asus_x013d_2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X014D",
+        "device": "ASUS_X014D_1",
+        "fingerprint": "ASUS/asus_x014d_1/asus_x014d_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X014D",
+        "device": "ASUS_X014D_2",
+        "fingerprint": "ASUS/asus_x014d_2/asus_x014d_2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X017D",
+        "device": "ASUS_X017D_1",
+        "fingerprint": "ASUS/asus_x017d_1/asus_x017d_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X017DA",
+        "device": "ASUS_X017D_2",
+        "fingerprint": "ASUS/asus_x017d_2/asus_x017d_2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X018D",
+        "device": "ASUS_X018_1",
+        "fingerprint": "ASUS/asus_x018_1/asus_x018_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X018D",
+        "device": "ASUS_X018_2",
+        "fingerprint": "ASUS/asus_x018_2/asus_x018_2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X018D",
+        "device": "ASUS_X018_4",
+        "fingerprint": "ASUS/asus_x018_4/asus_x018_4:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X01AD",
+        "device": "ASUS_X01A_1",
+        "fingerprint": "ASUS/asus_x01a_1/asus_x01a_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X01BDA",
+        "device": "ASUS_X01BD_1",
+        "fingerprint": "ASUS/asus_x01bd_1/asus_x01bd_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_X01BDA",
+        "device": "ASUS_X01BD_2",
+        "fingerprint": "ASUS/asus_x01bd_2/asus_x01bd_2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z002",
+        "device": "ASUS_Z002",
+        "fingerprint": "ASUS/asus_z002/asus_z002:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z007",
+        "device": "ASUS_Z007",
+        "fingerprint": "ASUS/asus_z007/asus_z007:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z008D",
+        "device": "Z008_1",
+        "fingerprint": "ASUS/z008_1/z008_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z00AD",
+        "device": "Z00A",
+        "fingerprint": "ASUS/z00a/z00a:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z00AD",
+        "device": "Z00A_1",
+        "fingerprint": "ASUS/z00a_1/z00a_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z00AD",
+        "device": "Z00A_3",
+        "fingerprint": "ASUS/z00a_3/z00a_3:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z00ADA",
+        "device": "Z00A",
+        "fingerprint": "ASUS/z00a/z00a:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z00ADB",
+        "device": "Z00A_1",
+        "fingerprint": "ASUS/z00a_1/z00a_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z00ED",
+        "device": "ASUS_Z00E_1",
+        "fingerprint": "ASUS/asus_z00e_1/asus_z00e_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z00ED",
+        "device": "ASUS_Z00E_2",
+        "fingerprint": "ASUS/asus_z00e_2/asus_z00e_2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z00ED",
+        "device": "ASUS_Z00E_3",
+        "fingerprint": "ASUS/asus_z00e_3/asus_z00e_3:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z00ED",
+        "device": "ASUS_Z00E_4",
+        "fingerprint": "ASUS/asus_z00e_4/asus_z00e_4:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z00EDB",
+        "device": "ASUS_Z00E_2",
+        "fingerprint": "ASUS/asus_z00e_2/asus_z00e_2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z00LD",
+        "device": "ASUS_Z00L_63",
+        "fingerprint": "ASUS/asus_z00l_63/asus_z00l_63:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z00LD",
+        "device": "ASUS_Z00L_63A",
+        "fingerprint": "ASUS/asus_z00l_63a/asus_z00l_63a:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z00LD",
+        "device": "ASUS_Z00L_63C",
+        "fingerprint": "ASUS/asus_z00l_63c/asus_z00l_63c:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z00LD",
+        "device": "ASUS_Z00L_93",
+        "fingerprint": "ASUS/asus_z00l_93/asus_z00l_93:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z00LDC",
+        "device": "ASUS_Z00L_63",
+        "fingerprint": "ASUS/asus_z00l_63/asus_z00l_63:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z00MD",
+        "device": "ASUS_Z00M",
+        "fingerprint": "ASUS/asus_z00m/asus_z00m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z00RD",
+        "device": "ASUS_Z00RD_5",
+        "fingerprint": "ASUS/asus_z00rd_5/asus_z00rd_5:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z00RD",
+        "device": "ASUS_Z00RD_7",
+        "fingerprint": "ASUS/asus_z00rd_7/asus_z00rd_7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z00SD",
+        "device": "ASUS_Z00SD",
+        "fingerprint": "ASUS/asus_z00sd/asus_z00sd:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z00TD",
+        "device": "ASUS_Z00T",
+        "fingerprint": "ASUS/asus_z00t/asus_z00t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z00UD",
+        "device": "ASUS_Z00U_1",
+        "fingerprint": "ASUS/asus_z00u_1/asus_z00u_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z00UD",
+        "device": "ASUS_Z00U_2",
+        "fingerprint": "ASUS/asus_z00u_2/asus_z00u_2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z00UDA",
+        "device": "ASUS_Z00U_1",
+        "fingerprint": "ASUS/asus_z00u_1/asus_z00u_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z00VD",
+        "device": "ASUS_Z00VD",
+        "fingerprint": "ASUS/asus_z00vd/asus_z00vd:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z00WD",
+        "device": "ASUS_Z00W_63",
+        "fingerprint": "ASUS/asus_z00w_63/asus_z00w_63:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z00XS",
+        "device": "Z00X",
+        "fingerprint": "ASUS/z00x/z00x:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z00XS",
+        "device": "Z00X_1",
+        "fingerprint": "ASUS/z00x_1/z00x_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z00XS",
+        "device": "Z00X_2",
+        "fingerprint": "ASUS/z00x_2/z00x_2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z00XSA",
+        "device": "Z00X",
+        "fingerprint": "ASUS/z00x/z00x:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z00XSA",
+        "device": "Z00X_1",
+        "fingerprint": "ASUS/z00x_1/z00x_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z00XSB",
+        "device": "Z00X",
+        "fingerprint": "ASUS/z00x/z00x:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z00YD",
+        "device": "ASUS_Z00YD",
+        "fingerprint": "ASUS/asus_z00yd/asus_z00yd:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z010D",
+        "device": "ASUS_Z010",
+        "fingerprint": "ASUS/asus_z010/asus_z010:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z010D",
+        "device": "ASUS_Z010_CD",
+        "fingerprint": "ASUS/asus_z010_cd/asus_z010_cd:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z010DA",
+        "device": "ASUS_Z010",
+        "fingerprint": "ASUS/asus_z010/asus_z010:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z010DA",
+        "device": "ASUS_Z010_CD",
+        "fingerprint": "ASUS/asus_z010_cd/asus_z010_cd:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z010DB",
+        "device": "ASUS_Z010",
+        "fingerprint": "ASUS/asus_z010/asus_z010:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z010DD",
+        "device": "ASUS_Z010_2",
+        "fingerprint": "ASUS/asus_z010_2/asus_z010_2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z011D",
+        "device": "ASUS_Z011",
+        "fingerprint": "ASUS/asus_z011/asus_z011:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z012D",
+        "device": "ASUS_Z012D",
+        "fingerprint": "ASUS/asus_z012d/asus_z012d:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z012DA",
+        "device": "ASUS_Z012D",
+        "fingerprint": "ASUS/asus_z012d/asus_z012d:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z012DE",
+        "device": "ASUS_Z012D",
+        "fingerprint": "ASUS/asus_z012d/asus_z012d:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z012S",
+        "device": "ASUS_Z012D",
+        "fingerprint": "ASUS/asus_z012d/asus_z012d:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z016D",
+        "device": "Z016",
+        "fingerprint": "ASUS/z016/z016:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z016D",
+        "device": "Z016_1",
+        "fingerprint": "ASUS/z016_1/z016_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z016DA",
+        "device": "Z016",
+        "fingerprint": "ASUS/z016/z016:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z016S",
+        "device": "Z016",
+        "fingerprint": "ASUS/z016/z016:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z017D",
+        "device": "ASUS_Z017D_1",
+        "fingerprint": "ASUS/asus_z017d_1/asus_z017d_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z017DA",
+        "device": "ASUS_Z017D_1",
+        "fingerprint": "ASUS/asus_z017d_1/asus_z017d_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z01BD",
+        "device": "Z01B_1",
+        "fingerprint": "ASUS/z01b_1/z01b_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z01BDA",
+        "device": "Z01B_1",
+        "fingerprint": "ASUS/z01b_1/z01b_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z01BDC",
+        "device": "Z01B_1",
+        "fingerprint": "ASUS/z01b_1/z01b_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z01BS",
+        "device": "Z01B_1",
+        "fingerprint": "ASUS/z01b_1/z01b_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z01FD",
+        "device": "ASUS_Z01F_1",
+        "fingerprint": "ASUS/asus_z01f_1/asus_z01f_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z01GD",
+        "device": "ASUS_Z01GD_1",
+        "fingerprint": "ASUS/asus_z01gd_1/asus_z01gd_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z01HD",
+        "device": "ASUS_Z01H_1",
+        "fingerprint": "ASUS/asus_z01h_1/asus_z01h_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z01HDA",
+        "device": "ASUS_Z01H_1",
+        "fingerprint": "ASUS/asus_z01h_1/asus_z01h_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z01KD",
+        "device": "ASUS_Z01KDA",
+        "fingerprint": "ASUS/asus_z01kda/asus_z01kda:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z01KD",
+        "device": "ASUS_Z01KD_2",
+        "fingerprint": "ASUS/asus_z01kd_2/asus_z01kd_2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z01KD",
+        "device": "ASUS_Z01KD_3",
+        "fingerprint": "ASUS/asus_z01kd_3/asus_z01kd_3:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z01KDA",
+        "device": "ASUS_Z01KD_1",
+        "fingerprint": "ASUS/asus_z01kd_1/asus_z01kd_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z01KS",
+        "device": "ASUS_Z01KDA",
+        "fingerprint": "ASUS/asus_z01kda/asus_z01kda:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z01MD",
+        "device": "ASUS_Z01M_1",
+        "fingerprint": "ASUS/asus_z01m_1/asus_z01m_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z01MDA",
+        "device": "ASUS_Z01M_1",
+        "fingerprint": "ASUS/asus_z01m_1/asus_z01m_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z01QD",
+        "device": "ASUS_Z01QD_1",
+        "fingerprint": "ASUS/asus_z01qd_1/asus_z01qd_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ASUS_Z01RD",
+        "device": "ASUS_Z01R_1",
+        "fingerprint": "ASUS/asus_z01r_1/asus_z01r_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ETBW11AA",
+        "device": "ETBW11AA",
+        "fingerprint": "ASUS/etbw11aa/etbw11aa:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ETBW11AA",
+        "device": "TF101G",
+        "fingerprint": "ASUS/tf101g/tf101g:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "G552KL",
+        "device": "ASUS_X00R_3",
+        "fingerprint": "ASUS/asus_x00r_3/asus_x00r_3:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "G553KL",
+        "device": "ASUS_X00R_7",
+        "fingerprint": "ASUS/asus_x00r_7/asus_x00r_7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Garmin-Asus A50",
+        "device": "a50",
+        "fingerprint": "ASUS/a50/a50:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "M1G",
+        "device": "dahu",
+        "fingerprint": "ASUS/dahu/dahu:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nexus 7",
+        "device": "grouper",
+        "fingerprint": "ASUS/grouper/grouper:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nexus 7",
+        "device": "tilapia",
+        "fingerprint": "ASUS/tilapia/tilapia:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nexus 7",
+        "device": "deb",
+        "fingerprint": "ASUS/deb/deb:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nexus 7",
+        "device": "flo",
+        "fingerprint": "ASUS/flo/flo:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Pegasus",
+        "device": "Pegasus",
+        "fingerprint": "MOBIWIRE/pegasus/pegasus:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Pegasus1",
+        "device": "Pegasus1",
+        "fingerprint": "NEBULLAR/pegasus1/pegasus1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Pegasus1_Payment",
+        "device": "Pegasus1",
+        "fingerprint": "NEBULLAR/pegasus1/pegasus1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "T10xTA",
+        "device": "T10xTA",
+        "fingerprint": "ASUS/t10xta/t10xta:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TX201LA",
+        "device": "TX201LA",
+        "fingerprint": "ASUS/tx201la/tx201la:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TX201LAF",
+        "device": "TX201LAF",
+        "fingerprint": "ASUS/tx201laf/tx201laf:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "XG34WCDMTG",
+        "device": "pangyo",
+        "fingerprint": "ASUS/pangyo/pangyo:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Z00D",
+        "device": "ASUS_Z00D",
+        "fingerprint": "ASUS/asus_z00d/asus_z00d:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ZA550KL",
+        "device": "ASUS_X00R_3",
+        "fingerprint": "ASUS/asus_x00r_3/asus_x00r_3:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ZA550KL",
+        "device": "ASUS_X00R_2",
+        "fingerprint": "ASUS/asus_x00r_2/asus_x00r_2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ZB553KL",
+        "device": "ASUS_X00LD_3",
+        "fingerprint": "ASUS/asus_x00ld_3/asus_x00ld_3:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ZB555KL",
+        "device": "ASUS_X00P_1",
+        "fingerprint": "ASUS/asus_x00p_1/asus_x00p_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ZB555KL",
+        "device": "ASUS_X00P_3",
+        "fingerprint": "ASUS/asus_x00p_3/asus_x00p_3:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ZB555KL",
+        "device": "ASUS_X00P_8",
+        "fingerprint": "ASUS/asus_x00p_8/asus_x00p_8:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ZB602KL",
+        "device": "ASUS_X00T_6",
+        "fingerprint": "ASUS/asus_x00t_6/asus_x00t_6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ZB631KL",
+        "device": "ASUS_X01BD_1",
+        "fingerprint": "ASUS/asus_x01bd_1/asus_x01bd_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ZB633KL",
+        "device": "ASUS_X01A_1",
+        "fingerprint": "ASUS/asus_x01a_1/asus_x01a_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ZC600KL",
+        "device": "ASUS_X017D_2",
+        "fingerprint": "ASUS/asus_x017d_2/asus_x017d_2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ZE620KL",
+        "device": "ASUS_X00QD",
+        "fingerprint": "ASUS/asus_x00qd/asus_x00qd:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ZS590KS",
+        "device": "ASUS_I006D",
+        "fingerprint": "ASUS/asus_i006d/asus_i006d:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ZS600KL",
+        "device": "ASUS_Z01QD_1",
+        "fingerprint": "ASUS/asus_z01qd_1/asus_z01qd_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ZS620KL",
+        "device": "ASUS_Z01R_1",
+        "fingerprint": "ASUS/asus_z01r_1/asus_z01r_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ZS630KL",
+        "device": "ASUS_I01WD",
+        "fingerprint": "ASUS/asus_i01wd/asus_i01wd:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ZS660KL",
+        "device": "ASUS_I001_1",
+        "fingerprint": "ASUS/asus_i001_1/asus_i001_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ZS661KS",
+        "device": "ASUS_I003_1",
+        "fingerprint": "ASUS/asus_i003_1/asus_i003_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ZS670KS",
+        "device": "ASUS_I002D",
+        "fingerprint": "ASUS/asus_i002d/asus_i002d:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ZS671KS",
+        "device": "ASUS_I002D",
+        "fingerprint": "ASUS/asus_i002d/asus_i002d:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ZS672KS",
+        "device": "ASUS_I004D",
+        "fingerprint": "ASUS/asus_i004d/asus_i004d:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ZS673KS",
+        "device": "ASUS_I005_1",
+        "fingerprint": "ASUS/asus_i005_1/asus_i005_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ZS676KS",
+        "device": "ASUS_I005_1",
+        "fingerprint": "ASUS/asus_i005_1/asus_i005_1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Zenbo",
+        "device": "ASUS_ZENBO",
+        "fingerprint": "ASUS/asus_zenbo/asus_zenbo:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "asus_google_cube",
+        "device": "asus_google_cube",
+        "fingerprint": "ASUS/asus_google_cube/asus_google_cube:12/SP1A.210812.016/7769886:user/release-keys"
+    }
+]

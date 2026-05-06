@@ -1,0 +1,1872 @@
+[
+    {
+        "model": "DP10APro",
+        "device": "DP10APro",
+        "fingerprint": "TECNO/dp10apro/dp10apro:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "DP7CPro-SGA1",
+        "device": "DP7CPro-SGA1",
+        "fingerprint": "TECNO/dp7cpro-sga1/dp7cpro-sga1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "EDT800",
+        "device": "EDT800",
+        "fingerprint": "TECNOMASTER/edt800/edt800:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "H7S",
+        "device": "qp16_tecno_h7s",
+        "fingerprint": "TECNO/qp16_tecno_h7s/qp16_tecno_h7s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PTM-Z-mini",
+        "device": "PTM-Z-mini",
+        "fingerprint": "TECNO/ptm-z-mini/ptm-z-mini:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Phantom6",
+        "device": "Phantom6",
+        "fingerprint": "TECNO/phantom6/phantom6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Phantom6-Plus",
+        "device": "Phantom6-Plus",
+        "fingerprint": "TECNO/phantom6-plus/phantom6-plus:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Phantom6S",
+        "device": "Phantom6",
+        "fingerprint": "TECNO/phantom6/phantom6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO AB7",
+        "device": "TECNO-AB7",
+        "fingerprint": "TECNO/tecno-ab7/tecno-ab7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO AC8",
+        "device": "TECNO-AC8",
+        "fingerprint": "TECNO/tecno-ac8/tecno-ac8:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO AD10",
+        "device": "TECNO-AD10",
+        "fingerprint": "TECNO/tecno-ad10/tecno-ad10:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO AD11",
+        "device": "TECNO-AD11",
+        "fingerprint": "TECNO/tecno-ad11/tecno-ad11:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO AD8",
+        "device": "TECNO-AD8",
+        "fingerprint": "TECNO/tecno-ad8/tecno-ad8:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO AD9",
+        "device": "TECNO-AD9",
+        "fingerprint": "TECNO/tecno-ad9/tecno-ad9:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO AE10",
+        "device": "TECNO-AE10",
+        "fingerprint": "TECNO/tecno-ae10/tecno-ae10:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO AE11",
+        "device": "TECNO-AE11",
+        "fingerprint": "TECNO/tecno-ae11/tecno-ae11:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO AX8",
+        "device": "TECNO-AX8",
+        "fingerprint": "TECNO/tecno-ax8/tecno-ax8:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO AX8S",
+        "device": "TECNO-AX8",
+        "fingerprint": "TECNO/tecno-ax8/tecno-ax8:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO B1",
+        "device": "TECNO-B1",
+        "fingerprint": "TECNO/tecno-b1/tecno-b1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO B1S",
+        "device": "TECNO-B1S",
+        "fingerprint": "TECNO/tecno-b1s/tecno-b1s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO B1f",
+        "device": "TECNO-B1f",
+        "fingerprint": "TECNO/tecno-b1f/tecno-b1f:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO B1g",
+        "device": "TECNO-B1g",
+        "fingerprint": "TECNO/tecno-b1g/tecno-b1g:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO B1p",
+        "device": "TECNO-B1p",
+        "fingerprint": "TECNO/tecno-b1p/tecno-b1p:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO BA2",
+        "device": "TECNO-BA2",
+        "fingerprint": "TECNO/tecno-ba2/tecno-ba2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO BB2",
+        "device": "TECNO-BB2",
+        "fingerprint": "TECNO/tecno-bb2/tecno-bb2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO BB4",
+        "device": "TECNO-BB4",
+        "fingerprint": "TECNO/tecno-bb4/tecno-bb4:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO BB4k",
+        "device": "TECNO-BB4k",
+        "fingerprint": "TECNO/tecno-bb4k/tecno-bb4k:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO BC1",
+        "device": "TECNO-BC1",
+        "fingerprint": "TECNO/tecno-bc1/tecno-bc1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO BC1s",
+        "device": "TECNO-BC1s",
+        "fingerprint": "TECNO/tecno-bc1s/tecno-bc1s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO BC2",
+        "device": "TECNO-BC2",
+        "fingerprint": "TECNO/tecno-bc2/tecno-bc2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO BC2c",
+        "device": "TECNO-BC2c",
+        "fingerprint": "TECNO/tecno-bc2c/tecno-bc2c:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO BC3",
+        "device": "TECNO-BC3",
+        "fingerprint": "TECNO/tecno-bc3/tecno-bc3:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO BD1",
+        "device": "TECNO-BD1",
+        "fingerprint": "TECNO/tecno-bd1/tecno-bd1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO BD2",
+        "device": "TECNO-BD2",
+        "fingerprint": "TECNO/tecno-bd2/tecno-bd2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO BD2d",
+        "device": "TECNO-BD2d",
+        "fingerprint": "TECNO/tecno-bd2d/tecno-bd2d:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO BD2p",
+        "device": "TECNO-BD2p",
+        "fingerprint": "TECNO/tecno-bd2p/tecno-bd2p:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO BD3",
+        "device": "TECNO-BD3",
+        "fingerprint": "TECNO/tecno-bd3/tecno-bd3:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO BD4",
+        "device": "TECNO-BD4",
+        "fingerprint": "TECNO/tecno-bd4/tecno-bd4:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO BD4i",
+        "device": "TECNO-BD4i",
+        "fingerprint": "TECNO/tecno-bd4i/tecno-bd4i:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO BE6",
+        "device": "TECNO-BE6-R2",
+        "fingerprint": "TECNO/tecno-be6-r2/tecno-be6-r2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO BE6j",
+        "device": "TECNO-BE6j",
+        "fingerprint": "TECNO/tecno-be6j/tecno-be6j:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO BE7",
+        "device": "TECNO-BE7",
+        "fingerprint": "TECNO/tecno-be7/tecno-be7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO BE8",
+        "device": "TECNO-BE8",
+        "fingerprint": "TECNO/tecno-be8/tecno-be8:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO BE8i",
+        "device": "TECNO-BE8i",
+        "fingerprint": "TECNO/tecno-be8i/tecno-be8i:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO BF6",
+        "device": "TECNO-BF6",
+        "fingerprint": "TECNO/tecno-bf6/tecno-bf6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO BF7",
+        "device": "TECNO-BF7",
+        "fingerprint": "TECNO/tecno-bf7/tecno-bf7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO BF7h",
+        "device": "TECNO-BF7h",
+        "fingerprint": "TECNO/tecno-bf7h/tecno-bf7h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO BF7n",
+        "device": "TECNO-BF7n",
+        "fingerprint": "TECNO/tecno-bf7n/tecno-bf7n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO BF7s",
+        "device": "TECNO-BF7s",
+        "fingerprint": "TECNO/tecno-bf7s/tecno-bf7s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO BG6",
+        "device": "TECNO-BG6",
+        "fingerprint": "TECNO/tecno-bg6/tecno-bg6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO BG6",
+        "device": "TECNO-BG6s",
+        "fingerprint": "TECNO/tecno-bg6s/tecno-bg6s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO BG6h",
+        "device": "TECNO-BG6h",
+        "fingerprint": "TECNO/tecno-bg6h/tecno-bg6h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO BG6i",
+        "device": "TECNO-BG6i",
+        "fingerprint": "TECNO/tecno-bg6i/tecno-bg6i:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO BG6m",
+        "device": "TECNO-BG6m",
+        "fingerprint": "TECNO/tecno-bg6m/tecno-bg6m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO BG6s",
+        "device": "TECNO-BG6s",
+        "fingerprint": "TECNO/tecno-bg6s/tecno-bg6s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO BG7",
+        "device": "TECNO-BG7",
+        "fingerprint": "TECNO/tecno-bg7/tecno-bg7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO BG7n",
+        "device": "TECNO-BG7n",
+        "fingerprint": "TECNO/tecno-bg7n/tecno-bg7n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CA6",
+        "device": "TECNO-CA6",
+        "fingerprint": "TECNO/tecno-ca6/tecno-ca6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CA6S",
+        "device": "TECNO-CA6",
+        "fingerprint": "TECNO/tecno-ca6/tecno-ca6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CA7",
+        "device": "TECNO-CA7",
+        "fingerprint": "TECNO/tecno-ca7/tecno-ca7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CA8",
+        "device": "TECNO-CA8",
+        "fingerprint": "TECNO/tecno-ca8/tecno-ca8:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CA8S",
+        "device": "TECNO-CA8",
+        "fingerprint": "TECNO/tecno-ca8/tecno-ca8:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CB7",
+        "device": "TECNO-CB7",
+        "fingerprint": "TECNO/tecno-cb7/tecno-cb7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CB7j",
+        "device": "TECNO-CB7j",
+        "fingerprint": "TECNO/tecno-cb7j/tecno-cb7j:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CC6",
+        "device": "TECNO-CC6",
+        "fingerprint": "TECNO/tecno-cc6/tecno-cc6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CC7",
+        "device": "TECNO-CC7",
+        "fingerprint": "TECNO/tecno-cc7/tecno-cc7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CC7S",
+        "device": "TECNO-CC7S",
+        "fingerprint": "TECNO/tecno-cc7s/tecno-cc7s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CC9",
+        "device": "TECNO-CC9",
+        "fingerprint": "TECNO/tecno-cc9/tecno-cc9:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CD6",
+        "device": "TECNO-CD6",
+        "fingerprint": "TECNO/tecno-cd6/tecno-cd6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CD6S",
+        "device": "TECNO-CD6",
+        "fingerprint": "TECNO/tecno-cd6/tecno-cd6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CD6j",
+        "device": "TECNO-CD6j",
+        "fingerprint": "TECNO/tecno-cd6j/tecno-cd6j:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CD7",
+        "device": "TECNO-CD7",
+        "fingerprint": "TECNO/tecno-cd7/tecno-cd7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CD8",
+        "device": "TECNO-CD8",
+        "fingerprint": "TECNO/tecno-cd8/tecno-cd8:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CD8j",
+        "device": "TECNO-CD8j",
+        "fingerprint": "TECNO/tecno-cd8j/tecno-cd8j:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CE7",
+        "device": "TECNO-CE7",
+        "fingerprint": "TECNO/tecno-ce7/tecno-ce7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CE7j",
+        "device": "TECNO-CE7j",
+        "fingerprint": "TECNO/tecno-ce7j/tecno-ce7j:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CE8",
+        "device": "TECNO-CE8",
+        "fingerprint": "TECNO/tecno-ce8/tecno-ce8:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CE9",
+        "device": "TECNO-CE9",
+        "fingerprint": "TECNO/tecno-ce9/tecno-ce9:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CE9h",
+        "device": "TECNO-CE9h",
+        "fingerprint": "TECNO/tecno-ce9h/tecno-ce9h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CF7",
+        "device": "TECNO-CF7",
+        "fingerprint": "TECNO/tecno-cf7/tecno-cf7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CF7S",
+        "device": "TECNO-CF7",
+        "fingerprint": "TECNO/tecno-cf7/tecno-cf7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CF7k",
+        "device": "TECNO-CF7k",
+        "fingerprint": "TECNO/tecno-cf7k/tecno-cf7k:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CF8",
+        "device": "TECNO-CF8",
+        "fingerprint": "TECNO/tecno-cf8/tecno-cf8:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CG6",
+        "device": "TECNO-CG6",
+        "fingerprint": "TECNO/tecno-cg6/tecno-cg6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CG6j",
+        "device": "TECNO-CG6j",
+        "fingerprint": "TECNO/tecno-cg6j/tecno-cg6j:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CG7",
+        "device": "TECNO-CG7",
+        "fingerprint": "TECNO/tecno-cg7/tecno-cg7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CG7n",
+        "device": "TECNO-CG7n",
+        "fingerprint": "TECNO/tecno-cg7n/tecno-cg7n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CG8",
+        "device": "TECNO-CG8",
+        "fingerprint": "TECNO/tecno-cg8/tecno-cg8:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CG8h",
+        "device": "TECNO-CG8h",
+        "fingerprint": "TECNO/tecno-cg8h/tecno-cg8h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CH6",
+        "device": "TECNO-CH6",
+        "fingerprint": "TECNO/tecno-ch6/tecno-ch6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CH6IS",
+        "device": "TECNO-CH6IS",
+        "fingerprint": "TECNO/tecno-ch6is/tecno-ch6is:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CH6h",
+        "device": "TECNO-CH6h",
+        "fingerprint": "TECNO/tecno-ch6h/tecno-ch6h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CH6i",
+        "device": "TECNO-CH6i",
+        "fingerprint": "TECNO/tecno-ch6i/tecno-ch6i:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CH6n",
+        "device": "TECNO-CH6n",
+        "fingerprint": "TECNO/tecno-ch6n/tecno-ch6n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CH7",
+        "device": "TECNO-CH7",
+        "fingerprint": "TECNO/tecno-ch7/tecno-ch7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CH7n",
+        "device": "TECNO-CH7n",
+        "fingerprint": "TECNO/tecno-ch7n/tecno-ch7n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CH9",
+        "device": "TECNO-CH9",
+        "fingerprint": "TECNO/tecno-ch9/tecno-ch9:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CH9n",
+        "device": "TECNO-CH9n",
+        "fingerprint": "TECNO/tecno-ch9n/tecno-ch9n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CI6",
+        "device": "TECNO-CI6",
+        "fingerprint": "TECNO/tecno-ci6/tecno-ci6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CI6n",
+        "device": "TECNO-CI6n",
+        "fingerprint": "TECNO/tecno-ci6n/tecno-ci6n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CI7n",
+        "device": "TECNO-CI7n",
+        "fingerprint": "TECNO/tecno-ci7n/tecno-ci7n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CI8",
+        "device": "TECNO-CI8",
+        "fingerprint": "TECNO/tecno-ci8/tecno-ci8:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CI8n",
+        "device": "TECNO-CI8n",
+        "fingerprint": "TECNO/tecno-ci8n/tecno-ci8n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CK6",
+        "device": "TECNO-CK6",
+        "fingerprint": "TECNO/tecno-ck6/tecno-ck6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CK6n",
+        "device": "TECNO-CK6n",
+        "fingerprint": "TECNO/tecno-ck6n/tecno-ck6n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CK6ns",
+        "device": "TECNO-CK6ns",
+        "fingerprint": "TECNO/tecno-ck6ns/tecno-ck6ns:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CK7n",
+        "device": "TECNO-CK7n",
+        "fingerprint": "TECNO/tecno-ck7n/tecno-ck7n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CK8n",
+        "device": "TECNO-CK8n",
+        "fingerprint": "TECNO/tecno-ck8n/tecno-ck8n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CK8nB",
+        "device": "TECNO-CK8nB",
+        "fingerprint": "TECNO/tecno-ck8nb/tecno-ck8nb:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CK9n",
+        "device": "TECNO-CK9n",
+        "fingerprint": "TECNO/tecno-ck9n/tecno-ck9n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CL6",
+        "device": "TECNO-CL6",
+        "fingerprint": "TECNO/tecno-cl6/tecno-cl6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CL6k",
+        "device": "TECNO-CL6k",
+        "fingerprint": "TECNO/tecno-cl6k/tecno-cl6k:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CL6s",
+        "device": "TECNO-CL6s",
+        "fingerprint": "TECNO/tecno-cl6s/tecno-cl6s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CL7",
+        "device": "TECNO-CL7",
+        "fingerprint": "TECNO/tecno-cl7/tecno-cl7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CL7k",
+        "device": "TECNO-CL7k",
+        "fingerprint": "TECNO/tecno-cl7k/tecno-cl7k:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CL7s",
+        "device": "TECNO-CL7s",
+        "fingerprint": "TECNO/tecno-cl7s/tecno-cl7s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CL8",
+        "device": "TECNO-CL8",
+        "fingerprint": "TECNO/tecno-cl8/tecno-cl8:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CL9",
+        "device": "TECNO-CL9",
+        "fingerprint": "TECNO/tecno-cl9/tecno-cl9:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CLA5",
+        "device": "TECNO-CLA5",
+        "fingerprint": "TECNO/tecno-cla5/tecno-cla5:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CLA6",
+        "device": "TECNO-CLA6",
+        "fingerprint": "TECNO/tecno-cla6/tecno-cla6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CM5",
+        "device": "TECNO-CM5",
+        "fingerprint": "TECNO/tecno-cm5/tecno-cm5:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CM6",
+        "device": "TECNO-CM6",
+        "fingerprint": "TECNO/tecno-cm6/tecno-cm6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CM7",
+        "device": "TECNO-CM7",
+        "fingerprint": "TECNO/tecno-cm7/tecno-cm7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CM8",
+        "device": "TECNO-CM8",
+        "fingerprint": "TECNO/tecno-cm8/tecno-cm8:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CN5",
+        "device": "TECNO-CN5",
+        "fingerprint": "TECNO/tecno-cn5/tecno-cn5:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CN5c",
+        "device": "TECNO-CN5c",
+        "fingerprint": "TECNO/tecno-cn5c/tecno-cn5c:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CN7c",
+        "device": "TECNO-CN7c",
+        "fingerprint": "TECNO/tecno-cn7c/tecno-cn7c:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO CX Air",
+        "device": "TECNO-CX-Air",
+        "fingerprint": "TECNO/tecno-cx-air/tecno-cx-air:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO Camon CX",
+        "device": "TECNO-CX",
+        "fingerprint": "TECNO/tecno-cx/tecno-cx:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO Camon CXS",
+        "device": "TECNO-CX",
+        "fingerprint": "TECNO/tecno-cx/tecno-cx:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO F2LTE",
+        "device": "TECNO-F2LTE",
+        "fingerprint": "TECNO/tecno-f2lte/tecno-f2lte:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO F3",
+        "device": "TECNO-F3-13M",
+        "fingerprint": "TECNO/tecno-f3-13m/tecno-f3-13m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO F3",
+        "device": "TECNO-F3",
+        "fingerprint": "TECNO/tecno-f3/tecno-f3:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO F4",
+        "device": "TECNO-F4",
+        "fingerprint": "TECNO/tecno-f4/tecno-f4:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO F4 Pro",
+        "device": "TECNO-F4Pro",
+        "fingerprint": "TECNO/tecno-f4pro/tecno-f4pro:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO H5S",
+        "device": "up09_tecno_h5s",
+        "fingerprint": "TECNO/up09_tecno_h5s/up09_tecno_h5s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO IA5",
+        "device": "TECNO-IA5",
+        "fingerprint": "TECNO/tecno-ia5/tecno-ia5:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO ID3k",
+        "device": "TECNO-ID3k",
+        "fingerprint": "TECNO/tecno-id3k/tecno-id3k:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO ID5",
+        "device": "TECNO-ID5",
+        "fingerprint": "TECNO/tecno-id5/tecno-id5:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO ID5a",
+        "device": "TECNO-ID5a",
+        "fingerprint": "TECNO/tecno-id5a/tecno-id5a:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO ID5b",
+        "device": "TECNO-ID5b",
+        "fingerprint": "TECNO/tecno-id5b/tecno-id5b:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO ID6",
+        "device": "TECNO-ID6",
+        "fingerprint": "TECNO/tecno-id6/tecno-id6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO IN1",
+        "device": "TECNO-IN1",
+        "fingerprint": "TECNO/tecno-in1/tecno-in1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO IN1 Pro",
+        "device": "TECNO-IN1-Pro",
+        "fingerprint": "TECNO/tecno-in1-pro/tecno-in1-pro:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO IN2",
+        "device": "TECNO-IN2",
+        "fingerprint": "TECNO/tecno-in2/tecno-in2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO IN3",
+        "device": "TECNO-IN3",
+        "fingerprint": "TECNO/tecno-in3/tecno-in3:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO IN5",
+        "device": "TECNO-IN5",
+        "fingerprint": "TECNO/tecno-in5/tecno-in5:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO IN6",
+        "device": "TECNO-IN6",
+        "fingerprint": "TECNO/tecno-in6/tecno-in6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO K7",
+        "device": "TECNO-K7",
+        "fingerprint": "TECNO/tecno-k7/tecno-k7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO K8",
+        "device": "TECNO-K8",
+        "fingerprint": "TECNO/tecno-k8/tecno-k8:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO K9",
+        "device": "TECNO-K9",
+        "fingerprint": "TECNO/tecno-k9/tecno-k9:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KA6",
+        "device": "TECNO-KA6",
+        "fingerprint": "TECNO/tecno-ka6/tecno-ka6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KA7",
+        "device": "TECNO-KA7-GO",
+        "fingerprint": "TECNO/tecno-ka7-go/tecno-ka7-go:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KA7O",
+        "device": "TECNO-KA7-O",
+        "fingerprint": "TECNO/tecno-ka7-o/tecno-ka7-o:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KA9",
+        "device": "TECNO-KA9",
+        "fingerprint": "TECNO/tecno-ka9/tecno-ka9:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KB2",
+        "device": "TECNO-KB2",
+        "fingerprint": "TECNO/tecno-kb2/tecno-kb2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KB2h",
+        "device": "TECNO-KB2h",
+        "fingerprint": "TECNO/tecno-kb2h/tecno-kb2h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KB2j",
+        "device": "TECNO-KB2j",
+        "fingerprint": "TECNO/tecno-kb2j/tecno-kb2j:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KB3",
+        "device": "TECNO-KB3",
+        "fingerprint": "TECNO/tecno-kb3/tecno-kb3:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KB7",
+        "device": "TECNO-KB7",
+        "fingerprint": "TECNO/tecno-kb7/tecno-kb7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KB7j",
+        "device": "TECNO-KB7j",
+        "fingerprint": "TECNO/tecno-kb7j/tecno-kb7j:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KB8",
+        "device": "TECNO-KB8",
+        "fingerprint": "TECNO/tecno-kb8/tecno-kb8:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KC1",
+        "device": "TECNO-KC1",
+        "fingerprint": "TECNO/tecno-kc1/tecno-kc1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KC1j",
+        "device": "TECNO-KC1j",
+        "fingerprint": "TECNO/tecno-kc1j/tecno-kc1j:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KC2",
+        "device": "TECNO-KC2",
+        "fingerprint": "TECNO/tecno-kc2/tecno-kc2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KC2j",
+        "device": "TECNO-KC2j",
+        "fingerprint": "TECNO/tecno-kc2j/tecno-kc2j:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KC3",
+        "device": "TECNO-KC3",
+        "fingerprint": "TECNO/tecno-kc3/tecno-kc3:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KC6",
+        "device": "TECNO-KC6",
+        "fingerprint": "TECNO/tecno-kc6/tecno-kc6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KC6S",
+        "device": "TECNO-KC6S",
+        "fingerprint": "TECNO/tecno-kc6s/tecno-kc6s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KC8",
+        "device": "TECNO-KC8",
+        "fingerprint": "TECNO/tecno-kc8/tecno-kc8:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KC8S",
+        "device": "TECNO-KC8S",
+        "fingerprint": "TECNO/tecno-kc8s/tecno-kc8s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KD6",
+        "device": "TECNO-KD6",
+        "fingerprint": "TECNO/tecno-kd6/tecno-kd6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KD6a",
+        "device": "TECNO-KD6",
+        "fingerprint": "TECNO/tecno-kd6/tecno-kd6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KD7",
+        "device": "TECNO-KD7",
+        "fingerprint": "TECNO/tecno-kd7/tecno-kd7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KD7S",
+        "device": "TECNO-KD7h",
+        "fingerprint": "TECNO/tecno-kd7h/tecno-kd7h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KD7h",
+        "device": "TECNO-KD7h",
+        "fingerprint": "TECNO/tecno-kd7h/tecno-kd7h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KE5",
+        "device": "TECNO-KE5",
+        "fingerprint": "TECNO/tecno-ke5/tecno-ke5:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KE5S",
+        "device": "TECNO-KE5S",
+        "fingerprint": "TECNO/tecno-ke5s/tecno-ke5s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KE5j",
+        "device": "TECNO-KE5j",
+        "fingerprint": "TECNO/tecno-ke5j/tecno-ke5j:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KE5k",
+        "device": "TECNO-KE5k",
+        "fingerprint": "TECNO/tecno-ke5k/tecno-ke5k:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KE6",
+        "device": "TECNO-KE6",
+        "fingerprint": "TECNO/tecno-ke6/tecno-ke6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KE6j",
+        "device": "TECNO-KE6j",
+        "fingerprint": "TECNO/tecno-ke6j/tecno-ke6j:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KF6",
+        "device": "TECNO-KF6",
+        "fingerprint": "TECNO/tecno-kf6/tecno-kf6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KF6h",
+        "device": "TECNO-KF6h",
+        "fingerprint": "TECNO/tecno-kf6h/tecno-kf6h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KF6i",
+        "device": "TECNO-KF6i",
+        "fingerprint": "TECNO/tecno-kf6i/tecno-kf6i:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KF6j",
+        "device": "TECNO-KF6j",
+        "fingerprint": "TECNO/tecno-kf6j/tecno-kf6j:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KF6k",
+        "device": "TECNO-KF6k",
+        "fingerprint": "TECNO/tecno-kf6k/tecno-kf6k:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KF6ks",
+        "device": "TECNO-KF6ks",
+        "fingerprint": "TECNO/tecno-kf6ks/tecno-kf6ks:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KF6m",
+        "device": "TECNO-KF6m",
+        "fingerprint": "TECNO/tecno-kf6m/tecno-kf6m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KF6n",
+        "device": "TECNO-KF6n",
+        "fingerprint": "TECNO/tecno-kf6n/tecno-kf6n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KF6p",
+        "device": "TECNO-KF6p",
+        "fingerprint": "TECNO/tecno-kf6p/tecno-kf6p:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KF7j",
+        "device": "TECNO-KF7j",
+        "fingerprint": "TECNO/tecno-kf7j/tecno-kf7j:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KF8",
+        "device": "TECNO-KF8",
+        "fingerprint": "TECNO/tecno-kf8/tecno-kf8:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KG5",
+        "device": "TECNO-KG5",
+        "fingerprint": "TECNO/tecno-kg5/tecno-kg5:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KG5h",
+        "device": "TECNO-KG5h",
+        "fingerprint": "TECNO/tecno-kg5h/tecno-kg5h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KG5j",
+        "device": "TECNO-KG5j",
+        "fingerprint": "TECNO/tecno-kg5j/tecno-kg5j:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KG5k",
+        "device": "TECNO-KG5k",
+        "fingerprint": "TECNO/tecno-kg5k/tecno-kg5k:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KG5ks",
+        "device": "TECNO-KG5ks",
+        "fingerprint": "TECNO/tecno-kg5ks/tecno-kg5ks:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KG5m",
+        "device": "TECNO-KG5m",
+        "fingerprint": "TECNO/tecno-kg5m/tecno-kg5m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KG5p",
+        "device": "TECNO-KG5p",
+        "fingerprint": "TECNO/tecno-kg5p/tecno-kg5p:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KG5q",
+        "device": "TECNO-KG5q",
+        "fingerprint": "TECNO/tecno-kg5q/tecno-kg5q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KG6",
+        "device": "TECNO-KG6",
+        "fingerprint": "TECNO/tecno-kg6/tecno-kg6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KG6P",
+        "device": "TECNO-KG6P",
+        "fingerprint": "TECNO/tecno-kg6p/tecno-kg6p:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KG6k",
+        "device": "TECNO-KG6k",
+        "fingerprint": "TECNO/tecno-kg6k/tecno-kg6k:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KG6p",
+        "device": "TECNO-KG6P",
+        "fingerprint": "TECNO/tecno-kg6p/tecno-kg6p:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KG7",
+        "device": "TECNO-KG7",
+        "fingerprint": "TECNO/tecno-kg7/tecno-kg7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KG7n",
+        "device": "TECNO-KG7n",
+        "fingerprint": "TECNO/tecno-kg7n/tecno-kg7n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KG8",
+        "device": "TECNO-KG8",
+        "fingerprint": "TECNO/tecno-kg8/tecno-kg8:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KH6",
+        "device": "TECNO-KH6",
+        "fingerprint": "TECNO/tecno-kh6/tecno-kh6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KH7S",
+        "device": "TECNO-KH7S",
+        "fingerprint": "TECNO/tecno-kh7s/tecno-kh7s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KH7n",
+        "device": "TECNO-KH7n",
+        "fingerprint": "TECNO/tecno-kh7n/tecno-kh7n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KI5k",
+        "device": "TECNO-KI5k",
+        "fingerprint": "TECNO/tecno-ki5k/tecno-ki5k:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KI5m",
+        "device": "TECNO-KI5m",
+        "fingerprint": "TECNO/tecno-ki5m/tecno-ki5m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KI5n",
+        "device": "TECNO-KI5n",
+        "fingerprint": "TECNO/tecno-ki5n/tecno-ki5n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KI5q",
+        "device": "TECNO-KI5q",
+        "fingerprint": "TECNO/tecno-ki5q/tecno-ki5q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KI5qs",
+        "device": "TECNO-KI5qs",
+        "fingerprint": "TECNO/tecno-ki5qs/tecno-ki5qs:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KI7",
+        "device": "TECNO-KI7",
+        "fingerprint": "TECNO/tecno-ki7/tecno-ki7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KI7s",
+        "device": "TECNO-KI7s",
+        "fingerprint": "TECNO/tecno-ki7s/tecno-ki7s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KI8",
+        "device": "TECNO-KI8",
+        "fingerprint": "TECNO/tecno-ki8/tecno-ki8:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KJ5",
+        "device": "TECNO-KJ5",
+        "fingerprint": "TECNO/tecno-kj5/tecno-kj5:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KJ5n",
+        "device": "TECNO-KJ5n",
+        "fingerprint": "TECNO/tecno-kj5n/tecno-kj5n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KJ5s",
+        "device": "TECNO-KJ5s",
+        "fingerprint": "TECNO/tecno-kj5s/tecno-kj5s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KJ6",
+        "device": "TECNO-KJ6",
+        "fingerprint": "TECNO/tecno-kj6/tecno-kj6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KJ7",
+        "device": "TECNO-KJ7",
+        "fingerprint": "TECNO/tecno-kj7/tecno-kj7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KJ7s",
+        "device": "TECNO-KJ7s",
+        "fingerprint": "TECNO/tecno-kj7s/tecno-kj7s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KJ8",
+        "device": "TECNO-KJ8",
+        "fingerprint": "TECNO/tecno-kj8/tecno-kj8:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KJ8s",
+        "device": "TECNO-KJ8s",
+        "fingerprint": "TECNO/tecno-kj8s/tecno-kj8s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KL4",
+        "device": "TECNO-KL4",
+        "fingerprint": "TECNO/tecno-kl4/tecno-kl4:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KL4s",
+        "device": "TECNO-KL4s",
+        "fingerprint": "TECNO/tecno-kl4s/tecno-kl4s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KL5",
+        "device": "TECNO-KL5",
+        "fingerprint": "TECNO/tecno-kl5/tecno-kl5:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KL5n",
+        "device": "TECNO-KL5n",
+        "fingerprint": "TECNO/tecno-kl5n/tecno-kl5n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KL5s",
+        "device": "TECNO-KL5s",
+        "fingerprint": "TECNO/tecno-kl5s/tecno-kl5s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KL6",
+        "device": "TECNO-KL6",
+        "fingerprint": "TECNO/tecno-kl6/tecno-kl6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KL7",
+        "device": "TECNO-KL7",
+        "fingerprint": "TECNO/tecno-kl7/tecno-kl7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KL8",
+        "device": "TECNO-KL8",
+        "fingerprint": "TECNO/tecno-kl8/tecno-kl8:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KL8h",
+        "device": "TECNO-KL8h",
+        "fingerprint": "TECNO/tecno-kl8h/tecno-kl8h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KL8hs",
+        "device": "TECNO-KL8hs",
+        "fingerprint": "TECNO/tecno-kl8hs/tecno-kl8hs:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KL8s",
+        "device": "TECNO-KL8s",
+        "fingerprint": "TECNO/tecno-kl8s/tecno-kl8s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KM4",
+        "device": "TECNO-KM4",
+        "fingerprint": "TECNO/tecno-km4/tecno-km4:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KM4k",
+        "device": "TECNO-KM4k",
+        "fingerprint": "TECNO/tecno-km4k/tecno-km4k:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KM4s",
+        "device": "TECNO-KM4s",
+        "fingerprint": "TECNO/tecno-km4s/tecno-km4s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KM5",
+        "device": "TECNO-KM5",
+        "fingerprint": "TECNO/tecno-km5/tecno-km5:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KM5n",
+        "device": "TECNO-KM5n",
+        "fingerprint": "TECNO/tecno-km5n/tecno-km5n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KM5s",
+        "device": "TECNO-KM5s",
+        "fingerprint": "TECNO/tecno-km5s/tecno-km5s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KM6",
+        "device": "TECNO-KM6",
+        "fingerprint": "TECNO/tecno-km6/tecno-km6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KM7",
+        "device": "TECNO-KM7",
+        "fingerprint": "TECNO/tecno-km7/tecno-km7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KM7k",
+        "device": "TECNO-KM7k",
+        "fingerprint": "TECNO/tecno-km7k/tecno-km7k:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KM8",
+        "device": "TECNO-KM8",
+        "fingerprint": "TECNO/tecno-km8/tecno-km8:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KM8n",
+        "device": "TECNO-KM8n",
+        "fingerprint": "TECNO/tecno-km8n/tecno-km8n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KM9",
+        "device": "TECNO-KM9",
+        "fingerprint": "TECNO/tecno-km9/tecno-km9:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KN3",
+        "device": "TECNO-KN3",
+        "fingerprint": "TECNO/tecno-kn3/tecno-kn3:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KN4",
+        "device": "TECNO-KN4",
+        "fingerprint": "TECNO/tecno-kn4/tecno-kn4:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KN4n",
+        "device": "TECNO-KN4n",
+        "fingerprint": "TECNO/tecno-kn4n/tecno-kn4n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO KN8",
+        "device": "TECNO-KN8",
+        "fingerprint": "TECNO/tecno-kn8/tecno-kn8:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO L6502S",
+        "device": "TECNO-L6502S",
+        "fingerprint": "TECNO/tecno-l6502s/tecno-l6502s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO L8 Lite",
+        "device": "L8Lite",
+        "fingerprint": "TECNO/l8lite/l8lite:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO L9 Plus",
+        "device": "TECNO-L9Plus",
+        "fingerprint": "TECNO/tecno-l9plus/tecno-l9plus:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO LA6",
+        "device": "TECNO-LA6",
+        "fingerprint": "TECNO/tecno-la6/tecno-la6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO LA7",
+        "device": "TECNO-LA7",
+        "fingerprint": "TECNO/tecno-la7/tecno-la7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO LA7 Pro",
+        "device": "TECNO-LA7-13M",
+        "fingerprint": "TECNO/tecno-la7-13m/tecno-la7-13m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO LB6",
+        "device": "TECNO-LB6",
+        "fingerprint": "TECNO/tecno-lb6/tecno-lb6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO LB7",
+        "device": "TECNO-LB7",
+        "fingerprint": "TECNO/tecno-lb7/tecno-lb7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO LC6",
+        "device": "TECNO-LC6",
+        "fingerprint": "TECNO/tecno-lc6/tecno-lc6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO LC6a",
+        "device": "TECNO-LC6a",
+        "fingerprint": "TECNO/tecno-lc6a/tecno-lc6a:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO LC7",
+        "device": "TECNO-LC7",
+        "fingerprint": "TECNO/tecno-lc7/tecno-lc7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO LC7S",
+        "device": "TECNO-LC7",
+        "fingerprint": "TECNO/tecno-lc7/tecno-lc7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO LC8",
+        "device": "TECNO-LC8",
+        "fingerprint": "TECNO/tecno-lc8/tecno-lc8:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO LD7",
+        "device": "TECNO-LD7",
+        "fingerprint": "TECNO/tecno-ld7/tecno-ld7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO LD7j",
+        "device": "TECNO-LD7j",
+        "fingerprint": "TECNO/tecno-ld7j/tecno-ld7j:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO LE6",
+        "device": "TECNO-LE6",
+        "fingerprint": "TECNO/tecno-le6/tecno-le6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO LE7",
+        "device": "TECNO-LE7",
+        "fingerprint": "TECNO/tecno-le7/tecno-le7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO LE7n",
+        "device": "TECNO-LE7n",
+        "fingerprint": "TECNO/tecno-le7n/tecno-le7n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO LE8",
+        "device": "TECNO-LE8",
+        "fingerprint": "TECNO/tecno-le8/tecno-le8:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO LF7",
+        "device": "TECNO-LF7",
+        "fingerprint": "TECNO/tecno-lf7/tecno-lf7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO LF7n",
+        "device": "TECNO-LF7n",
+        "fingerprint": "TECNO/tecno-lf7n/tecno-lf7n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO LG6n",
+        "device": "TECNO-LG6n",
+        "fingerprint": "TECNO/tecno-lg6n/tecno-lg6n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO LG7n",
+        "device": "TECNO-LG7n",
+        "fingerprint": "TECNO/tecno-lg7n/tecno-lg7n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO LG8n",
+        "device": "TECNO-LG8n",
+        "fingerprint": "TECNO/tecno-lg8n/tecno-lg8n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO LH6n",
+        "device": "TECNO-LH6n",
+        "fingerprint": "TECNO/tecno-lh6n/tecno-lh6n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO LH7n",
+        "device": "TECNO-LH7n",
+        "fingerprint": "TECNO/tecno-lh7n/tecno-lh7n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO LH8n",
+        "device": "TECNO-LH8n",
+        "fingerprint": "TECNO/tecno-lh8n/tecno-lh8n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO LI6",
+        "device": "TECNO-LI6",
+        "fingerprint": "TECNO/tecno-li6/tecno-li6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO LI7",
+        "device": "TECNO-LI7",
+        "fingerprint": "TECNO/tecno-li7/tecno-li7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO LI9",
+        "device": "TECNO-LI9",
+        "fingerprint": "TECNO/tecno-li9/tecno-li9:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO LJ6",
+        "device": "TECNO-LJ6",
+        "fingerprint": "TECNO/tecno-lj6/tecno-lj6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO LJ7",
+        "device": "TECNO-LJ7",
+        "fingerprint": "TECNO/tecno-lj7/tecno-lj7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO LJ8",
+        "device": "TECNO-LJ8",
+        "fingerprint": "TECNO/tecno-lj8/tecno-lj8:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO LJ8k",
+        "device": "TECNO-LJ8k",
+        "fingerprint": "TECNO/tecno-lj8k/tecno-lj8k:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO LJ9",
+        "device": "TECNO-LJ9",
+        "fingerprint": "TECNO/tecno-lj9/tecno-lj9:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO LK6",
+        "device": "TECNO-LK6",
+        "fingerprint": "TECNO/tecno-lk6/tecno-lk6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO LK7k",
+        "device": "TECNO-LK7k",
+        "fingerprint": "TECNO/tecno-lk7k/tecno-lk7k:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO Mobile AD8",
+        "device": "TECNO-Mobile-AD8",
+        "fingerprint": "TECNO MOBILE/tecno-mobile-ad8/tecno-mobile-ad8:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO Mobile BF7n",
+        "device": "TECNO-Mobile-BF7n",
+        "fingerprint": "TECNO MOBILE/tecno-mobile-bf7n/tecno-mobile-bf7n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO Mobile BG6",
+        "device": "TECNO-Mobile-BG6",
+        "fingerprint": "TECNO MOBILE/tecno-mobile-bg6/tecno-mobile-bg6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO Mobile BG7n",
+        "device": "TECNO-Mobile-BG7n",
+        "fingerprint": "TECNO MOBILE/tecno-mobile-bg7n/tecno-mobile-bg7n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO Mobile CH6i",
+        "device": "TECNO-Mobile-CH6i",
+        "fingerprint": "TECNO MOBILE/tecno-mobile-ch6i/tecno-mobile-ch6i:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO Mobile CH6n",
+        "device": "TECNO-Mobile-CH6n",
+        "fingerprint": "TECNO/tecno-mobile-ch6n/tecno-mobile-ch6n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO Mobile CI6n",
+        "device": "TECNO-Mobile-CI6n",
+        "fingerprint": "TECNO/tecno-mobile-ci6n/tecno-mobile-ci6n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO Mobile CLA6",
+        "device": "TECNO-Mobile-CLA6",
+        "fingerprint": "TECNO/tecno-mobile-cla6/tecno-mobile-cla6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO Mobile KG5k",
+        "device": "TECNO-Mobile-KG5k",
+        "fingerprint": "TECNO/tecno-mobile-kg5k/tecno-mobile-kg5k:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO Mobile KG6k",
+        "device": "TECNO-Mobile-KG6k",
+        "fingerprint": "TECNO/tecno-mobile-kg6k/tecno-mobile-kg6k:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO Mobile KG6p",
+        "device": "TECNO-Mobile-KG6p",
+        "fingerprint": "TECNO/tecno-mobile-kg6p/tecno-mobile-kg6p:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO Mobile KG8",
+        "device": "TECNO-Mobile-KG8",
+        "fingerprint": "TECNO/tecno-mobile-kg8/tecno-mobile-kg8:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO Mobile KI5q",
+        "device": "TECNO-Mobile-KI5q",
+        "fingerprint": "TECNO MOBILE/tecno-mobile-ki5q/tecno-mobile-ki5q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO Mobile KJ5n",
+        "device": "TECNO-Mobile-KJ5n",
+        "fingerprint": "TECNO MOBILE/tecno-mobile-kj5n/tecno-mobile-kj5n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO Mobile KJ6",
+        "device": "TECNO-Mobile-KJ6",
+        "fingerprint": "TECNO/tecno-mobile-kj6/tecno-mobile-kj6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO Mobile KJ7",
+        "device": "TECNO-Mobile-KJ7",
+        "fingerprint": "TECNO MOBILE/tecno-mobile-kj7/tecno-mobile-kj7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO Mobile KL4",
+        "device": "TECNO-Mobile-KL4",
+        "fingerprint": "TECNO/tecno-mobile-kl4/tecno-mobile-kl4:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO Mobile KL5n",
+        "device": "TECNO-Mobile-KL5n",
+        "fingerprint": "TECNO MOBILE/tecno-mobile-kl5n/tecno-mobile-kl5n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO Mobile KL7",
+        "device": "TECNO-Mobile-KL7",
+        "fingerprint": "TECNO MOBILE/tecno-mobile-kl7/tecno-mobile-kl7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO Mobile KL8",
+        "device": "TECNO-Mobile-KL8",
+        "fingerprint": "TECNO MOBILE/tecno-mobile-kl8/tecno-mobile-kl8:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO Mobile LG6n",
+        "device": "TECNO-Mobile-LG6n",
+        "fingerprint": "TECNO MOBILE/tecno-mobile-lg6n/tecno-mobile-lg6n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO Mobile LH7n",
+        "device": "TECNO-Mobile-LH7n",
+        "fingerprint": "TECNO MOBILE/tecno-mobile-lh7n/tecno-mobile-lh7n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO Mobile LH8n",
+        "device": "TECNO-Mobile-LH8n",
+        "fingerprint": "TECNO MOBILE/tecno-mobile-lh8n/tecno-mobile-lh8n:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO Mobile LI6",
+        "device": "TECNO-Mobile-LI6",
+        "fingerprint": "TECNO MOBILE/tecno-mobile-li6/tecno-mobile-li6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO N5S",
+        "device": "N5S",
+        "fingerprint": "TECNO/n5s/n5s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO P3S",
+        "device": "P3S",
+        "fingerprint": "GIGABYTE/p3s/p3s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO P702AS",
+        "device": "TECNO-P702",
+        "fingerprint": "TECNO/tecno-p702/tecno-p702:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO P904",
+        "device": "TECNO-P904",
+        "fingerprint": "TECNO/tecno-p904/tecno-p904:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO PR651",
+        "device": "TECNO-PR651",
+        "fingerprint": "TECNO/tecno-pr651/tecno-pr651:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO PR651E",
+        "device": "TECNO-PR651E",
+        "fingerprint": "TECNO/tecno-pr651e/tecno-pr651e:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO PR651H",
+        "device": "TECNO-PR651H",
+        "fingerprint": "TECNO/tecno-pr651h/tecno-pr651h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO R6S",
+        "device": "TECNO-R6",
+        "fingerprint": "TECNO/tecno-r6/tecno-r6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO RA6",
+        "device": "TECNO-RA6",
+        "fingerprint": "TECNO/tecno-ra6/tecno-ra6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO RA6S",
+        "device": "TECNO-RA6",
+        "fingerprint": "TECNO/tecno-ra6/tecno-ra6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO RA7",
+        "device": "TECNO-F2LTE",
+        "fingerprint": "TECNO/tecno-f2lte/tecno-f2lte:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO RA8",
+        "device": "TECNO-RA8",
+        "fingerprint": "TECNO/tecno-ra8/tecno-ra8:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO RB6S",
+        "device": "TECNO-RB6S",
+        "fingerprint": "TECNO/tecno-rb6s/tecno-rb6s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO RB7S",
+        "device": "TECNO-RB7S",
+        "fingerprint": "TECNO/tecno-rb7s/tecno-rb7s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO RB8S",
+        "device": "TECNO-RB8S",
+        "fingerprint": "TECNO/tecno-rb8s/tecno-rb8s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO RC6",
+        "device": "TECNO-RC6",
+        "fingerprint": "TECNO/tecno-rc6/tecno-rc6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO S1 Lite",
+        "device": "TECNO-S1Lite",
+        "fingerprint": "TECNO/tecno-s1lite/tecno-s1lite:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO S1 Pro",
+        "device": "TECNO-S1-Pro",
+        "fingerprint": "TECNO/tecno-s1-pro/tecno-s1-pro:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO S1E Pro",
+        "device": "TECNO-S1-Pro",
+        "fingerprint": "TECNO/tecno-s1-pro/tecno-s1-pro:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO S6S",
+        "device": "TECNO-S6S",
+        "fingerprint": "TECNO/tecno-s6s/tecno-s6s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO SA1S Pro",
+        "device": "TECNO-SA1S-PRO",
+        "fingerprint": "TECNO/tecno-sa1s-pro/tecno-sa1s-pro:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO SA2S",
+        "device": "TECNO-SA2S",
+        "fingerprint": "TECNO/tecno-sa2s/tecno-sa2s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO SA6",
+        "device": "TECNO-SA6",
+        "fingerprint": "TECNO/tecno-sa6/tecno-sa6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO SA6S",
+        "device": "TECNO-SA6",
+        "fingerprint": "TECNO/tecno-sa6/tecno-sa6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO SA7S",
+        "device": "TECNO-SA7S",
+        "fingerprint": "TECNO/tecno-sa7s/tecno-sa7s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO SC7S",
+        "device": "TECNO-SC7S",
+        "fingerprint": "TECNO/tecno-sc7s/tecno-sc7s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO T1201",
+        "device": "TECNO-T1201",
+        "fingerprint": "TECNO/tecno-t1201/tecno-t1201:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO W3 Pro",
+        "device": "TECNO-W3Pro",
+        "fingerprint": "TECNO/tecno-w3pro/tecno-w3pro:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO W5 Lite",
+        "device": "W5Lite",
+        "fingerprint": "TECNO/w5lite/w5lite:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO W5006S",
+        "device": "TECNO-W5006S",
+        "fingerprint": "TECNO/tecno-w5006s/tecno-w5006s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO WX3",
+        "device": "TECNO-WX3",
+        "fingerprint": "TECNO/tecno-wx3/tecno-wx3:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO WX3F LTE",
+        "device": "TECNO-WX3FLTE",
+        "fingerprint": "TECNO/tecno-wx3flte/tecno-wx3flte:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO WX3LTE",
+        "device": "TECNO-WX3LTE",
+        "fingerprint": "TECNO/tecno-wx3lte/tecno-wx3lte:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO WX3P",
+        "device": "TECNO-WX3P",
+        "fingerprint": "TECNO/tecno-wx3p/tecno-wx3p:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO WX4",
+        "device": "TECNO-WX4",
+        "fingerprint": "TECNO/tecno-wx4/tecno-wx4:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO WX4 Pro",
+        "device": "TECNO-WX4-Pro",
+        "fingerprint": "TECNO/tecno-wx4-pro/tecno-wx4-pro:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO WX4 Pro S",
+        "device": "TECNO-WX4-Pro",
+        "fingerprint": "TECNO/tecno-wx4-pro/tecno-wx4-pro:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO i3 Pro",
+        "device": "TECNO-i3-Pro",
+        "fingerprint": "TECNO/tecno-i3-pro/tecno-i3-pro:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO i5 Pro",
+        "device": "TECNO-i5-Pro",
+        "fingerprint": "TECNO/tecno-i5-pro/tecno-i5-pro:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO-A7S",
+        "device": "TECNO-A7S",
+        "fingerprint": "TECNO/tecno-a7s/tecno-a7s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO-C7",
+        "device": "TECNO-C7",
+        "fingerprint": "TECNO/tecno-c7/tecno-c7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO-C9",
+        "device": "TECNO-C9",
+        "fingerprint": "TECNO/tecno-c9/tecno-c9:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO-C9S",
+        "device": "TECNO-C9",
+        "fingerprint": "TECNO/tecno-c9/tecno-c9:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO-L6",
+        "device": "TECNO-L6",
+        "fingerprint": "TECNO/tecno-l6/tecno-l6:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO-L8Plus",
+        "device": "TECNO-L8",
+        "fingerprint": "TECNO/tecno-l8/tecno-l8:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO-M6S",
+        "device": "g335_b1",
+        "fingerprint": "TECNO/g335_b1/g335_b1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO-N2S",
+        "device": "TECNO_N2S",
+        "fingerprint": "TECNO/tecno_n2s/tecno_n2s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO-N6S",
+        "device": "TECNO-N6S",
+        "fingerprint": "TECNO/tecno-n6s/tecno-n6s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO-N8R",
+        "device": "N8R",
+        "fingerprint": "TECNO/n8r/n8r:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO-N8S",
+        "device": "TECNO-N8S",
+        "fingerprint": "TECNO/tecno-n8s/tecno-n8s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO-N9S",
+        "device": "N9S",
+        "fingerprint": "TECNO/n9s/n9s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO-PHANTOM5",
+        "device": "TECNO-PHANTOM5",
+        "fingerprint": "TECNO/tecno-phantom5/tecno-phantom5:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO-W3LTE",
+        "device": "TECNO-W3LTE",
+        "fingerprint": "TECNO/tecno-w3lte/tecno-w3lte:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO-W5",
+        "device": "TECNO-W5",
+        "fingerprint": "TECNO/tecno-w5/tecno-w5:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO-Y2",
+        "device": "TECNO-Y2",
+        "fingerprint": "TECNO/tecno-y2/tecno-y2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO-Y3+",
+        "device": "TECNO-Y2",
+        "fingerprint": "TECNO/tecno-y2/tecno-y2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TECNO-Y3S",
+        "device": "TECNO-Y3S",
+        "fingerprint": "TECNO/tecno-y3s/tecno-y3s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TESHM1863",
+        "device": "TESHM1863",
+        "fingerprint": "TECNOMASTER/teshm1863/teshm1863:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TESHM8863",
+        "device": "TESHM8863",
+        "fingerprint": "TECNOMASTER/teshm8863/teshm8863:12/SP1A.210812.016/7769886:user/release-keys"
+    }
+]

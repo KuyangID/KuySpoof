@@ -1,0 +1,4382 @@
+[
+    {
+        "model": "204HW",
+        "device": "hw204HW",
+        "fingerprint": "HUAWEI/hw204hw/hw204hw:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "302HW",
+        "device": "hwp6s-l04",
+        "fingerprint": "HUAWEI/hwp6s-l04/hwp6s-l04:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "503HW",
+        "device": "hwALE-H",
+        "fingerprint": "HUAWEI/hwale-h/hwale-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "608HW",
+        "device": "HWPRA-H",
+        "fingerprint": "HUAWEI/hwpra-h/hwpra-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "704HW",
+        "device": "HWFIG-H",
+        "fingerprint": "HUAWEI/hwfig-h/hwfig-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ALE-L02",
+        "device": "hwALE-H",
+        "fingerprint": "HUAWEI/hwale-h/hwale-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ALE-L21",
+        "device": "hwALE-H",
+        "fingerprint": "HUAWEI/hwale-h/hwale-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ALE-L23",
+        "device": "hwALE-H",
+        "fingerprint": "HUAWEI/hwale-h/hwale-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ALP-AL00",
+        "device": "HWALP",
+        "fingerprint": "HUAWEI/hwalp/hwalp:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ALP-L09",
+        "device": "HWALP",
+        "fingerprint": "HUAWEI/hwalp/hwalp:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ALP-L29",
+        "device": "HWALP",
+        "fingerprint": "HUAWEI/hwalp/hwalp:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ALP-TL00",
+        "device": "HWALP",
+        "fingerprint": "HUAWEI/hwalp/hwalp:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "AMN-LX1",
+        "device": "HWAMN-M",
+        "fingerprint": "HUAWEI/hwamn-m/hwamn-m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "AMN-LX2",
+        "device": "HWAMN-M",
+        "fingerprint": "HUAWEI/hwamn-m/hwamn-m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "AMN-LX3",
+        "device": "HWAMN-M",
+        "fingerprint": "HUAWEI/hwamn-m/hwamn-m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "AMN-LX9",
+        "device": "HWAMN-M",
+        "fingerprint": "HUAWEI/hwamn-m/hwamn-m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ANE-AL00",
+        "device": "HWANE",
+        "fingerprint": "HUAWEI/hwane/hwane:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ANE-LX1",
+        "device": "HWANE",
+        "fingerprint": "HUAWEI/hwane/hwane:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ANE-LX2",
+        "device": "HWANE",
+        "fingerprint": "HUAWEI/hwane/hwane:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ANE-LX2J",
+        "device": "HWANE",
+        "fingerprint": "HUAWEI/hwane/hwane:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ANE-LX3",
+        "device": "HWANE",
+        "fingerprint": "HUAWEI/hwane/hwane:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ANE-TL00",
+        "device": "HWANE",
+        "fingerprint": "HUAWEI/hwane/hwane:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ARE-L22HN",
+        "device": "HWARE-QC",
+        "fingerprint": "HUAWEI/hware-qc/hware-qc:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ARS-L22",
+        "device": "HWARS-Q",
+        "fingerprint": "HUAWEI/hwars-q/hwars-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ATH-AL00",
+        "device": "HWATH",
+        "fingerprint": "HUAWEI/hwath/hwath:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ATH-CL00",
+        "device": "HWATH",
+        "fingerprint": "HUAWEI/hwath/hwath:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ATH-TL00",
+        "device": "HWATH",
+        "fingerprint": "HUAWEI/hwath/hwath:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ATH-TL00H",
+        "device": "HWATH",
+        "fingerprint": "HUAWEI/hwath/hwath:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ATH-UL00",
+        "device": "HWATH",
+        "fingerprint": "HUAWEI/hwath/hwath:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ATU-L11",
+        "device": "HWATU-QG",
+        "fingerprint": "HUAWEI/hwatu-qg/hwatu-qg:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ATU-L21",
+        "device": "HWATU-QG",
+        "fingerprint": "HUAWEI/hwatu-qg/hwatu-qg:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ATU-L22",
+        "device": "HWATU-QG",
+        "fingerprint": "HUAWEI/hwatu-qg/hwatu-qg:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ATU-L31",
+        "device": "HWATU-QG",
+        "fingerprint": "HUAWEI/hwatu-qg/hwatu-qg:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ATU-L42",
+        "device": "HWATU-QG",
+        "fingerprint": "HUAWEI/hwatu-qg/hwatu-qg:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ATU-LX3",
+        "device": "HWATU-QG",
+        "fingerprint": "HUAWEI/hwatu-qg/hwatu-qg:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "AUM-AL00",
+        "device": "HWAUM-Q",
+        "fingerprint": "HUAWEI/hwaum-q/hwaum-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "AUM-AL20",
+        "device": "HWAUM-Q",
+        "fingerprint": "HUAWEI/hwaum-q/hwaum-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "AUM-L29",
+        "device": "HWAUM-Q",
+        "fingerprint": "HUAWEI/hwaum-q/hwaum-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "AUM-L33",
+        "device": "HWAUM-Q",
+        "fingerprint": "HUAWEI/hwaum-q/hwaum-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "AUM-L41",
+        "device": "HWAUM-Q",
+        "fingerprint": "HUAWEI/hwaum-q/hwaum-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "AUM-TL00",
+        "device": "HWAUM-Q",
+        "fingerprint": "HUAWEI/hwaum-q/hwaum-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "AUM-TL20",
+        "device": "HWAUM-Q",
+        "fingerprint": "HUAWEI/hwaum-q/hwaum-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Autana LTE",
+        "device": "hwALE-H",
+        "fingerprint": "HUAWEI/hwale-h/hwale-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "BAC-AL00",
+        "device": "HWBAC",
+        "fingerprint": "HUAWEI/hwbac/hwbac:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "BAC-L01",
+        "device": "HWBAC",
+        "fingerprint": "HUAWEI/hwbac/hwbac:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "BAC-L03",
+        "device": "HWBAC",
+        "fingerprint": "HUAWEI/hwbac/hwbac:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "BAC-L21",
+        "device": "HWBAC",
+        "fingerprint": "HUAWEI/hwbac/hwbac:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "BAC-L22",
+        "device": "HWBAC",
+        "fingerprint": "HUAWEI/hwbac/hwbac:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "BAC-L23",
+        "device": "HWBAC",
+        "fingerprint": "HUAWEI/hwbac/hwbac:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "BAC-TL00",
+        "device": "HWBAC",
+        "fingerprint": "HUAWEI/hwbac/hwbac:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "BKK-AL10",
+        "device": "HWBKK-Q",
+        "fingerprint": "HUAWEI/hwbkk-q/hwbkk-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "BKK-L21",
+        "device": "HWBKK-Q",
+        "fingerprint": "HUAWEI/hwbkk-q/hwbkk-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "BKK-L22",
+        "device": "HWBKK-Q",
+        "fingerprint": "HUAWEI/hwbkk-q/hwbkk-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "BKK-LX2",
+        "device": "HWBKK-Q",
+        "fingerprint": "HUAWEI/hwbkk-q/hwbkk-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "BKL-AL00",
+        "device": "HWBKL",
+        "fingerprint": "HUAWEI/hwbkl/hwbkl:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "BKL-AL20",
+        "device": "HWBKL",
+        "fingerprint": "HUAWEI/hwbkl/hwbkl:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "BKL-L04",
+        "device": "HWBKL",
+        "fingerprint": "HUAWEI/hwbkl/hwbkl:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "BKL-L09",
+        "device": "HWBKL",
+        "fingerprint": "HUAWEI/hwbkl/hwbkl:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "BKL-TL10",
+        "device": "HWBKL",
+        "fingerprint": "HUAWEI/hwbkl/hwbkl:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "BLA-A09",
+        "device": "HWBLA",
+        "fingerprint": "HUAWEI/hwbla/hwbla:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "BLA-AL00",
+        "device": "HWBLA",
+        "fingerprint": "HUAWEI/hwbla/hwbla:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "BLA-L09",
+        "device": "HWBLA",
+        "fingerprint": "HUAWEI/hwbla/hwbla:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "BLA-L29",
+        "device": "HWBLA",
+        "fingerprint": "HUAWEI/hwbla/hwbla:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "BLA-TL00",
+        "device": "HWBLA",
+        "fingerprint": "HUAWEI/hwbla/hwbla:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "BLL-L21",
+        "device": "HWBLN-H",
+        "fingerprint": "HUAWEI/hwbln-h/hwbln-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "BLL-L22",
+        "device": "HWBLN-H",
+        "fingerprint": "HUAWEI/hwbln-h/hwbln-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "BLL-L23",
+        "device": "HWBLN-H",
+        "fingerprint": "HUAWEI/hwbln-h/hwbln-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "BLN-L21",
+        "device": "HWBLN-H",
+        "fingerprint": "HUAWEI/hwbln-h/hwbln-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "BLN-L22",
+        "device": "HWBLN-H",
+        "fingerprint": "HUAWEI/hwbln-h/hwbln-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "BLN-L24",
+        "device": "HWBLN-H",
+        "fingerprint": "HUAWEI/hwbln-h/hwbln-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "BND-L21",
+        "device": "HWBND-H",
+        "fingerprint": "HUAWEI/hwbnd-h/hwbnd-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "BND-L24",
+        "device": "HWBND-H",
+        "fingerprint": "HUAWEI/hwbnd-h/hwbnd-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "BND-L31",
+        "device": "HWBND-H",
+        "fingerprint": "HUAWEI/hwbnd-h/hwbnd-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "BND-L34",
+        "device": "HWBND-H",
+        "fingerprint": "HUAWEI/hwbnd-h/hwbnd-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "C8817D",
+        "device": "hwC8817D",
+        "fingerprint": "HUAWEI/hwc8817d/hwc8817d:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CAG-L02",
+        "device": "HWCAG-L6737M",
+        "fingerprint": "HUAWEI/hwcag-l6737m/hwcag-l6737m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CAG-L03",
+        "device": "HWCAG-L6737M",
+        "fingerprint": "HUAWEI/hwcag-l6737m/hwcag-l6737m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CAG-L22",
+        "device": "HWCAG-L6737M",
+        "fingerprint": "HUAWEI/hwcag-l6737m/hwcag-l6737m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CAG-L23",
+        "device": "HWCAG-L6737M",
+        "fingerprint": "HUAWEI/hwcag-l6737m/hwcag-l6737m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CAM-L03",
+        "device": "HWCAM-H",
+        "fingerprint": "HUAWEI/hwcam-h/hwcam-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CAM-L21",
+        "device": "HWCAM-H",
+        "fingerprint": "HUAWEI/hwcam-h/hwcam-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CAM-L23",
+        "device": "HWCAM-H",
+        "fingerprint": "HUAWEI/hwcam-h/hwcam-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CAM-L32",
+        "device": "HWCAM-Q",
+        "fingerprint": "HUAWEI/hwcam-q/hwcam-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CAM-U22",
+        "device": "HWCAM-H",
+        "fingerprint": "HUAWEI/hwcam-h/hwcam-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CHC-U01",
+        "device": "hwCHC-H",
+        "fingerprint": "HUAWEI/hwchc-h/hwchc-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CHC-U03",
+        "device": "hwCHC-H",
+        "fingerprint": "HUAWEI/hwchc-h/hwchc-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CHC-U23",
+        "device": "hwCHC-H",
+        "fingerprint": "HUAWEI/hwchc-h/hwchc-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CHM-CL00",
+        "device": "hwCHM-Q",
+        "fingerprint": "HUAWEI/hwchm-q/hwchm-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CHM-U01",
+        "device": "hwCHM-H",
+        "fingerprint": "HUAWEI/hwchm-h/hwchm-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CLT-AL00",
+        "device": "HWCLT",
+        "fingerprint": "HUAWEI/hwclt/hwclt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CLT-AL00l",
+        "device": "HWCLT",
+        "fingerprint": "HUAWEI/hwclt/hwclt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CLT-AL01",
+        "device": "HWCLT",
+        "fingerprint": "HUAWEI/hwclt/hwclt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CLT-L04",
+        "device": "HWCLT",
+        "fingerprint": "HUAWEI/hwclt/hwclt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CLT-L09",
+        "device": "HWCLT",
+        "fingerprint": "HUAWEI/hwclt/hwclt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CLT-L29",
+        "device": "HWCLT",
+        "fingerprint": "HUAWEI/hwclt/hwclt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CLT-TL00",
+        "device": "HWCLT",
+        "fingerprint": "HUAWEI/hwclt/hwclt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CLT-TL01",
+        "device": "HWCLT",
+        "fingerprint": "HUAWEI/hwclt/hwclt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CM990",
+        "device": "hwCM990",
+        "fingerprint": "HUAWEI/hwcm990/hwcm990:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "COL-AL00",
+        "device": "HWCOL",
+        "fingerprint": "HUAWEI/hwcol/hwcol:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "COL-AL10",
+        "device": "HWCOL",
+        "fingerprint": "HUAWEI/hwcol/hwcol:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "COL-L29",
+        "device": "HWCOL",
+        "fingerprint": "HUAWEI/hwcol/hwcol:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "COL-TL10",
+        "device": "HWCOL",
+        "fingerprint": "HUAWEI/hwcol/hwcol:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "COR-AL00",
+        "device": "HWCOR",
+        "fingerprint": "HUAWEI/hwcor/hwcor:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "COR-AL10",
+        "device": "HWCOR",
+        "fingerprint": "HUAWEI/hwcor/hwcor:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "COR-L29",
+        "device": "HWCOR",
+        "fingerprint": "HUAWEI/hwcor/hwcor:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "COR-TL10",
+        "device": "HWCOR",
+        "fingerprint": "HUAWEI/hwcor/hwcor:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CRO-L02",
+        "device": "HWCRO-L6737M",
+        "fingerprint": "HUAWEI/hwcro-l6737m/hwcro-l6737m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CRO-L03",
+        "device": "HWCRO-L6737M",
+        "fingerprint": "HUAWEI/hwcro-l6737m/hwcro-l6737m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CRO-L22",
+        "device": "HWCRO-L6737M",
+        "fingerprint": "HUAWEI/hwcro-l6737m/hwcro-l6737m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CRO-L23",
+        "device": "HWCRO-L6737M",
+        "fingerprint": "HUAWEI/hwcro-l6737m/hwcro-l6737m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CRO-U00",
+        "device": "HWCRO-U6580M",
+        "fingerprint": "HUAWEI/hwcro-u6580m/hwcro-u6580m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CRO-U23",
+        "device": "HWCRO-U6580M",
+        "fingerprint": "HUAWEI/hwcro-u6580m/hwcro-u6580m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CUN-AL00",
+        "device": "HWCUN-L6735",
+        "fingerprint": "HUAWEI/hwcun-l6735/hwcun-l6735:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CUN-L22",
+        "device": "HWCUN-L6735",
+        "fingerprint": "HUAWEI/hwcun-l6735/hwcun-l6735:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "CUN-TL00",
+        "device": "HWCUN-L6735",
+        "fingerprint": "HUAWEI/hwcun-l6735/hwcun-l6735:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Che1-CL10",
+        "device": "Che1",
+        "fingerprint": "HUAWEI/che1/che1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Che1-CL20",
+        "device": "Che1",
+        "fingerprint": "HUAWEI/che1/che1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Che1-L04",
+        "device": "Che1",
+        "fingerprint": "HUAWEI/che1/che1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Che2-L11",
+        "device": "hwChe2",
+        "fingerprint": "HUAWEI/hwche2/hwche2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Che2-L12",
+        "device": "hwChe2",
+        "fingerprint": "HUAWEI/hwche2/hwche2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Che2-L23",
+        "device": "hwChe2",
+        "fingerprint": "HUAWEI/hwche2/hwche2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Che2-TL00",
+        "device": "hwChe2",
+        "fingerprint": "HUAWEI/hwche2/hwche2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Che2-TL00H",
+        "device": "hwChe2",
+        "fingerprint": "HUAWEI/hwche2/hwche2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Che2-TL00M",
+        "device": "hwChe2",
+        "fingerprint": "HUAWEI/hwche2/hwche2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Che2-UL00",
+        "device": "hwChe2",
+        "fingerprint": "HUAWEI/hwche2/hwche2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Comet",
+        "device": "U8150",
+        "fingerprint": "HUAWEI/u8150/u8150:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "DIG-L01",
+        "device": "HWDIG-L8940",
+        "fingerprint": "HUAWEI/hwdig-l8940/hwdig-l8940:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "DIG-L21",
+        "device": "HWDIG-L8940",
+        "fingerprint": "HUAWEI/hwdig-l8940/hwdig-l8940:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "DIG-L21HN",
+        "device": "HWDIG-L8940",
+        "fingerprint": "HUAWEI/hwdig-l8940/hwdig-l8940:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "DIG-L22",
+        "device": "HWDIG-L8940",
+        "fingerprint": "HUAWEI/hwdig-l8940/hwdig-l8940:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "DLI-L22",
+        "device": "HWDLI-Q",
+        "fingerprint": "HUAWEI/hwdli-q/hwdli-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "DLI-L42",
+        "device": "HWDLI-Q",
+        "fingerprint": "HUAWEI/hwdli-q/hwdli-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "DLI-TL20",
+        "device": "HWDLI-Q",
+        "fingerprint": "HUAWEI/hwdli-q/hwdli-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "DRA-L01",
+        "device": "HWDRA-M",
+        "fingerprint": "HUAWEI/hwdra-m/hwdra-m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "DRA-L21",
+        "device": "HWDRA-M",
+        "fingerprint": "HUAWEI/hwdra-m/hwdra-m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "DRA-LX2",
+        "device": "HWDRA-M",
+        "fingerprint": "HUAWEI/hwdra-m/hwdra-m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "DRA-LX3",
+        "device": "HWDRA-MG",
+        "fingerprint": "HUAWEI/hwdra-mg/hwdra-mg:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "DRA-LX5",
+        "device": "HWDRA-MG",
+        "fingerprint": "HUAWEI/hwdra-mg/hwdra-mg:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "DUA-AL00",
+        "device": "HWDUA-M",
+        "fingerprint": "HUAWEI/hwdua-m/hwdua-m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "DUA-L22",
+        "device": "HWDUA-M",
+        "fingerprint": "HUAWEI/hwdua-m/hwdua-m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "DUA-LX3",
+        "device": "HWDUA-M",
+        "fingerprint": "HUAWEI/hwdua-m/hwdua-m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "DUB-AL20",
+        "device": "HWDUB-Q",
+        "fingerprint": "HUAWEI/hwdub-q/hwdub-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "DUB-LX1",
+        "device": "HWDUB-Q",
+        "fingerprint": "HUAWEI/hwdub-q/hwdub-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "DUB-LX2",
+        "device": "HWDUB-Q",
+        "fingerprint": "HUAWEI/hwdub-q/hwdub-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "DUB-LX3",
+        "device": "HWDUB-Q",
+        "fingerprint": "HUAWEI/hwdub-q/hwdub-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "DUK-AL20",
+        "device": "HWDUK",
+        "fingerprint": "HUAWEI/hwduk/hwduk:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "DUK-L09",
+        "device": "HWDUK",
+        "fingerprint": "HUAWEI/hwduk/hwduk:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "DUK-TL30",
+        "device": "HWDUK",
+        "fingerprint": "HUAWEI/hwduk/hwduk:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Delta Y360-U93",
+        "device": "HWY360-U6572",
+        "fingerprint": "HUAWEI/hwy360-u6572/hwy360-u6572:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ELE-AL00",
+        "device": "HWELE",
+        "fingerprint": "HUAWEI/hwele/hwele:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ELE-L04",
+        "device": "HWELE",
+        "fingerprint": "HUAWEI/hwele/hwele:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ELE-L09",
+        "device": "HWELE",
+        "fingerprint": "HUAWEI/hwele/hwele:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ELE-L14",
+        "device": "HWELE",
+        "fingerprint": "HUAWEI/hwele/hwele:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ELE-L29",
+        "device": "HWELE",
+        "fingerprint": "HUAWEI/hwele/hwele:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ELE-L39",
+        "device": "HWELE",
+        "fingerprint": "HUAWEI/hwele/hwele:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ELE-L49",
+        "device": "HWELE",
+        "fingerprint": "HUAWEI/hwele/hwele:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ELE-TL00",
+        "device": "HWELE",
+        "fingerprint": "HUAWEI/hwele/hwele:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "EML-AL00",
+        "device": "HWEML",
+        "fingerprint": "HUAWEI/hweml/hweml:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "EML-L09",
+        "device": "HWEML",
+        "fingerprint": "HUAWEI/hweml/hweml:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "EML-L29",
+        "device": "HWEML",
+        "fingerprint": "HUAWEI/hweml/hweml:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "EML-TL00",
+        "device": "HWEML",
+        "fingerprint": "HUAWEI/hweml/hweml:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ES8100",
+        "device": "hwes8100",
+        "fingerprint": "HUAWEI/hwes8100/hwes8100:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "EVR-AL00",
+        "device": "HWEVR",
+        "fingerprint": "HUAWEI/hwevr/hwevr:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "EVR-AN00",
+        "device": "HWEVR",
+        "fingerprint": "HUAWEI/hwevr/hwevr:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "EVR-L29",
+        "device": "HWEVR",
+        "fingerprint": "HUAWEI/hwevr/hwevr:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "EVR-N29",
+        "device": "HWEVR",
+        "fingerprint": "HUAWEI/hwevr/hwevr:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "EVR-TL00",
+        "device": "HWEVR",
+        "fingerprint": "HUAWEI/hwevr/hwevr:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "FIG-LX1",
+        "device": "HWFIG-H",
+        "fingerprint": "HUAWEI/hwfig-h/hwfig-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "FLA-LX1",
+        "device": "HWFLA-H",
+        "fingerprint": "HUAWEI/hwfla-h/hwfla-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "FLA-LX2",
+        "device": "HWFLA-H",
+        "fingerprint": "HUAWEI/hwfla-h/hwfla-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "FLA-LX3",
+        "device": "HWFLA-H",
+        "fingerprint": "HUAWEI/hwfla-h/hwfla-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "FRD-AL00",
+        "device": "HWFRD",
+        "fingerprint": "HUAWEI/hwfrd/hwfrd:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "FRD-AL10",
+        "device": "HWFRD",
+        "fingerprint": "HUAWEI/hwfrd/hwfrd:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "FRD-DL00",
+        "device": "HWFRD",
+        "fingerprint": "HUAWEI/hwfrd/hwfrd:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "FRD-L02",
+        "device": "HWFRD",
+        "fingerprint": "HUAWEI/hwfrd/hwfrd:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "FRD-L04",
+        "device": "HWFRD",
+        "fingerprint": "HUAWEI/hwfrd/hwfrd:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "FRD-L09",
+        "device": "HWFRD",
+        "fingerprint": "HUAWEI/hwfrd/hwfrd:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "FRD-L14",
+        "device": "HWFRD",
+        "fingerprint": "HUAWEI/hwfrd/hwfrd:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "FRD-L19",
+        "device": "HWFRD",
+        "fingerprint": "HUAWEI/hwfrd/hwfrd:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "FRD-L24",
+        "device": "HWFRD",
+        "fingerprint": "HUAWEI/hwfrd/hwfrd:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "FRD-TL00",
+        "device": "HWFRD",
+        "fingerprint": "HUAWEI/hwfrd/hwfrd:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "G526-L11",
+        "device": "hwG526-L11",
+        "fingerprint": "HUAWEI/hwg526-l11/hwg526-l11:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "G526-L22",
+        "device": "hwG526-L22",
+        "fingerprint": "HUAWEI/hwg526-l22/hwg526-l22:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "G526-L33",
+        "device": "hwG526-L33",
+        "fingerprint": "HUAWEI/hwg526-l33/hwg526-l33:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "G527-U081",
+        "device": "hwG527-U081",
+        "fingerprint": "HUAWEI/hwg527-u081/hwg527-u081:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "G610-U00",
+        "device": "hwG610-U00",
+        "fingerprint": "HUAWEI/hwg610-u00/hwg610-u00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "G615-U10",
+        "device": "hwG615-U10",
+        "fingerprint": "HUAWEI/hwg615-u10/hwg615-u10:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "G620-L75",
+        "device": "hwG620-L75",
+        "fingerprint": "HUAWEI/hwg620-l75/hwg620-l75:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "G620S-L01",
+        "device": "hwG620S-L01",
+        "fingerprint": "HUAWEI/hwg620s-l01/hwg620s-l01:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "G620S-L02",
+        "device": "hwG620S-L02",
+        "fingerprint": "HUAWEI/hwg620s-l02/hwg620s-l02:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "G620S-L03",
+        "device": "hwG620S-L03",
+        "fingerprint": "HUAWEI/hwg620s-l03/hwg620s-l03:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "G620S-UL00",
+        "device": "hwG620S-UL00",
+        "fingerprint": "HUAWEI/hwg620s-ul00/hwg620s-ul00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "G621-TL00",
+        "device": "hwG621-TL00",
+        "fingerprint": "HUAWEI/hwg621-tl00/hwg621-tl00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "G621-TL00M",
+        "device": "hwG621-TL00",
+        "fingerprint": "HUAWEI/hwg621-tl00/hwg621-tl00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "G630-U10",
+        "device": "hwG630-U10",
+        "fingerprint": "HUAWEI/hwg630-u10/hwg630-u10:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "G630-U20",
+        "device": "hwG630-U20",
+        "fingerprint": "HUAWEI/hwg630-u20/hwg630-u20:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "G630-U251",
+        "device": "hwG630-U251",
+        "fingerprint": "HUAWEI/hwg630-u251/hwg630-u251:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "G7-L01",
+        "device": "hwG7-L01",
+        "fingerprint": "HUAWEI/hwg7-l01/hwg7-l01:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "G7-L03",
+        "device": "hwG7-L03",
+        "fingerprint": "HUAWEI/hwg7-l03/hwg7-l03:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "G7-TL00",
+        "device": "hwG7-TL00",
+        "fingerprint": "HUAWEI/hwg7-tl00/hwg7-tl00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "G735-L03",
+        "device": "hwG735",
+        "fingerprint": "HUAWEI/hwg735/hwg735:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "G735-L12",
+        "device": "hwG735",
+        "fingerprint": "HUAWEI/hwg735/hwg735:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "G735-L23",
+        "device": "hwG735",
+        "fingerprint": "HUAWEI/hwg735/hwg735:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "G740-L00",
+        "device": "hwG740-L00",
+        "fingerprint": "HUAWEI/hwg740-l00/hwg740-l00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "H1611",
+        "device": "HWH1611-Q",
+        "fingerprint": "HUAWEI/hwh1611-q/hwh1611-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "H1621",
+        "device": "HWH1621-Q",
+        "fingerprint": "HUAWEI/hwh1621-q/hwh1621-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "H1622",
+        "device": "HWH710VL-Q",
+        "fingerprint": "HUAWEI/hwh710vl-q/hwh710vl-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "H1623",
+        "device": "HWH1621-Q",
+        "fingerprint": "HUAWEI/hwh1621-q/hwh1621-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "H30-C00",
+        "device": "hwH30-C00",
+        "fingerprint": "HUAWEI/hwh30-c00/hwh30-c00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "H30-L02",
+        "device": "hwH30",
+        "fingerprint": "HUAWEI/hwh30/hwh30:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "H30-T00",
+        "device": "hwH30-T00",
+        "fingerprint": "HUAWEI/hwh30-t00/hwh30-t00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "H30-T10",
+        "device": "hwH30-T10",
+        "fingerprint": "HUAWEI/hwh30-t10/hwh30-t10:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "H30-U10",
+        "device": "hwH30-U10",
+        "fingerprint": "HUAWEI/hwh30-u10/hwh30-u10:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "H60-L01",
+        "device": "hwH60",
+        "fingerprint": "HUAWEI/hwh60/hwh60:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "H60-L02",
+        "device": "hwH60",
+        "fingerprint": "HUAWEI/hwh60/hwh60:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "H60-L03",
+        "device": "hwH60",
+        "fingerprint": "HUAWEI/hwh60/hwh60:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "H60-L04",
+        "device": "hwH60",
+        "fingerprint": "HUAWEI/hwh60/hwh60:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "H60-L11",
+        "device": "hwH60",
+        "fingerprint": "HUAWEI/hwh60/hwh60:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "H60-L12",
+        "device": "hwH60",
+        "fingerprint": "HUAWEI/hwh60/hwh60:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "H60-L21",
+        "device": "hwH60",
+        "fingerprint": "HUAWEI/hwh60/hwh60:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "H60-L21",
+        "device": "hwH60-L21",
+        "fingerprint": "HUAWEI/hwh60-l21/hwh60-l21:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "H710VL",
+        "device": "HWH710VL-Q",
+        "fingerprint": "HUAWEI/hwh710vl-q/hwh710vl-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "H715BL",
+        "device": "HWH715BL-Q",
+        "fingerprint": "HUAWEI/hwh715bl-q/hwh715bl-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "H882L",
+        "device": "hwh882l",
+        "fingerprint": "HUAWEI/hwh882l/hwh882l:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HONOR H30-L01",
+        "device": "hwH30",
+        "fingerprint": "HUAWEI/hwh30/hwh30:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HONOR H30-L01M",
+        "device": "hwH30",
+        "fingerprint": "HUAWEI/hwh30/hwh30:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HONOR H30-L02",
+        "device": "hwH30",
+        "fingerprint": "HUAWEI/hwh30/hwh30:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HRY-AL00",
+        "device": "HWHRY-H",
+        "fingerprint": "HUAWEI/hwhry-h/hwhry-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HRY-AL00",
+        "device": "HWHRY-HF",
+        "fingerprint": "HUAWEI/hwhry-hf/hwhry-hf:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HRY-AL00Ta",
+        "device": "HWHRY-HF",
+        "fingerprint": "HUAWEI/hwhry-hf/hwhry-hf:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HRY-AL00a",
+        "device": "HWHRY-HF",
+        "fingerprint": "HUAWEI/hwhry-hf/hwhry-hf:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HRY-LX1",
+        "device": "HWHRY-H",
+        "fingerprint": "HUAWEI/hwhry-h/hwhry-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HRY-LX1MEB",
+        "device": "HWHRY-H",
+        "fingerprint": "HUAWEI/hwhry-h/hwhry-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HRY-LX1T",
+        "device": "HWHRY-HF",
+        "fingerprint": "HUAWEI/hwhry-hf/hwhry-hf:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HRY-LX2",
+        "device": "HWHRY-H",
+        "fingerprint": "HUAWEI/hwhry-h/hwhry-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI",
+        "device": "hwRIO-L01",
+        "fingerprint": "HUAWEI/hwrio-l01/hwrio-l01:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI A199",
+        "device": "hwa199",
+        "fingerprint": "HUAWEI/hwa199/hwa199:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI ALE-CL00",
+        "device": "hwALE-Q",
+        "fingerprint": "HUAWEI/hwale-q/hwale-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI ALE-L04",
+        "device": "hwALE-Q",
+        "fingerprint": "HUAWEI/hwale-q/hwale-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI ATH-UL01",
+        "device": "HWATH",
+        "fingerprint": "HUAWEI/hwath/hwath:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI ATH-UL06",
+        "device": "HWATH",
+        "fingerprint": "HUAWEI/hwath/hwath:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Ascend G510",
+        "device": "hwG510-0200",
+        "fingerprint": "HUAWEI/hwg510-0200/hwg510-0200:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Ascend G525",
+        "device": "hwG525-U00",
+        "fingerprint": "HUAWEI/hwg525-u00/hwg525-u00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Ascend Y300",
+        "device": "hwY300-0100",
+        "fingerprint": "HUAWEI/hwy300-0100/hwy300-0100:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI B199",
+        "device": "hwB199",
+        "fingerprint": "HUAWEI/hwb199/hwb199:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI BLL-L21",
+        "device": "HWBLN-H",
+        "fingerprint": "HUAWEI/hwbln-h/hwbln-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI BLL-L22",
+        "device": "HWBLN-H",
+        "fingerprint": "HUAWEI/hwbln-h/hwbln-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI BLL-L23",
+        "device": "HWBLN-H",
+        "fingerprint": "HUAWEI/hwbln-h/hwbln-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI C199",
+        "device": "hwC199",
+        "fingerprint": "HUAWEI/hwc199/hwc199:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI C199s",
+        "device": "hwC199s",
+        "fingerprint": "HUAWEI/hwc199s/hwc199s:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI C8812",
+        "device": "hwc8812",
+        "fingerprint": "HUAWEI/hwc8812/hwc8812:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI C8813D",
+        "device": "hwc8813",
+        "fingerprint": "HUAWEI/hwc8813/hwc8813:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI C8813DQ",
+        "device": "hwC8813DQ",
+        "fingerprint": "HUAWEI/hwc8813dq/hwc8813dq:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI C8815",
+        "device": "hwC8815",
+        "fingerprint": "HUAWEI/hwc8815/hwc8815:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI C8816",
+        "device": "hwC8816",
+        "fingerprint": "HUAWEI/hwc8816/hwc8816:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI C8816D",
+        "device": "hwC8816D",
+        "fingerprint": "HUAWEI/hwc8816d/hwc8816d:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI C8817E",
+        "device": "hwC8817E",
+        "fingerprint": "HUAWEI/hwc8817e/hwc8817e:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI C8817L",
+        "device": "hwC8817L",
+        "fingerprint": "HUAWEI/hwc8817l/hwc8817l:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI C8818",
+        "device": "hwC8818",
+        "fingerprint": "HUAWEI/hwc8818/hwc8818:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI C8826D",
+        "device": "hwc8826D",
+        "fingerprint": "HUAWEI/hwc8826d/hwc8826d:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI CAM-L03",
+        "device": "HWCAM-H",
+        "fingerprint": "HUAWEI/hwcam-h/hwcam-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI CAM-L21",
+        "device": "HWCAM-H",
+        "fingerprint": "HUAWEI/hwcam-h/hwcam-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI CAM-L23",
+        "device": "HWCAM-H",
+        "fingerprint": "HUAWEI/hwcam-h/hwcam-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI CAM-L53",
+        "device": "HWCAM-H",
+        "fingerprint": "HUAWEI/hwcam-h/hwcam-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI CAM-U22",
+        "device": "HWCAM-H",
+        "fingerprint": "HUAWEI/hwcam-h/hwcam-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI CAN-AL10",
+        "device": "HWCAN",
+        "fingerprint": "HUAWEI/hwcan/hwcan:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI CAN-L01",
+        "device": "HWCAN",
+        "fingerprint": "HUAWEI/hwcan/hwcan:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI CAN-L02",
+        "device": "HWCAN",
+        "fingerprint": "HUAWEI/hwcan/hwcan:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI CAN-L03",
+        "device": "HWCAN",
+        "fingerprint": "HUAWEI/hwcan/hwcan:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI CAN-L11",
+        "device": "HWCAN",
+        "fingerprint": "HUAWEI/hwcan/hwcan:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI CAN-L12",
+        "device": "HWCAN",
+        "fingerprint": "HUAWEI/hwcan/hwcan:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI CAN-L13",
+        "device": "HWCAN",
+        "fingerprint": "HUAWEI/hwcan/hwcan:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI CAZ-AL00",
+        "device": "HWCAZ",
+        "fingerprint": "HUAWEI/hwcaz/hwcaz:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI CAZ-AL10",
+        "device": "HWCAN",
+        "fingerprint": "HUAWEI/hwcan/hwcan:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI CAZ-AL10",
+        "device": "HWCAZ",
+        "fingerprint": "HUAWEI/hwcaz/hwcaz:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI CAZ-TL10",
+        "device": "HWCAZ",
+        "fingerprint": "HUAWEI/hwcaz/hwcaz:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI CAZ-TL20",
+        "device": "HWCAZ",
+        "fingerprint": "HUAWEI/hwcaz/hwcaz:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI CRO-L02",
+        "device": "HWCRO-L6737M",
+        "fingerprint": "HUAWEI/hwcro-l6737m/hwcro-l6737m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI CRO-L03",
+        "device": "HWCRO-L6737M",
+        "fingerprint": "HUAWEI/hwcro-l6737m/hwcro-l6737m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI CRO-L22",
+        "device": "HWCRO-L6737M",
+        "fingerprint": "HUAWEI/hwcro-l6737m/hwcro-l6737m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI CRO-L23",
+        "device": "HWCRO-L6737M",
+        "fingerprint": "HUAWEI/hwcro-l6737m/hwcro-l6737m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI CRO-U00",
+        "device": "HWCRO-U6580M",
+        "fingerprint": "HUAWEI/hwcro-u6580m/hwcro-u6580m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI CRO-U23",
+        "device": "HWCRO-U6580M",
+        "fingerprint": "HUAWEI/hwcro-u6580m/hwcro-u6580m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI CRR-CL00",
+        "device": "HWCRR",
+        "fingerprint": "HUAWEI/hwcrr/hwcrr:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI CRR-CL20",
+        "device": "HWCRR",
+        "fingerprint": "HUAWEI/hwcrr/hwcrr:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI CRR-L09",
+        "device": "HWCRR",
+        "fingerprint": "HUAWEI/hwcrr/hwcrr:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI CRR-TL00",
+        "device": "HWCRR",
+        "fingerprint": "HUAWEI/hwcrr/hwcrr:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI CRR-UL00",
+        "device": "HWCRR",
+        "fingerprint": "HUAWEI/hwcrr/hwcrr:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI CRR-UL20",
+        "device": "HWCRR",
+        "fingerprint": "HUAWEI/hwcrr/hwcrr:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI CUN-L01",
+        "device": "HWCUN-L6735",
+        "fingerprint": "HUAWEI/hwcun-l6735/hwcun-l6735:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI CUN-L02",
+        "device": "HWCUN-L6735",
+        "fingerprint": "HUAWEI/hwcun-l6735/hwcun-l6735:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI CUN-L03",
+        "device": "HWCUN-L6735",
+        "fingerprint": "HUAWEI/hwcun-l6735/hwcun-l6735:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI CUN-L21",
+        "device": "HWCUN-L6735",
+        "fingerprint": "HUAWEI/hwcun-l6735/hwcun-l6735:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI CUN-L22",
+        "device": "HWCUN-L6735",
+        "fingerprint": "HUAWEI/hwcun-l6735/hwcun-l6735:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI CUN-L23",
+        "device": "HWCUN-L6735",
+        "fingerprint": "HUAWEI/hwcun-l6735/hwcun-l6735:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI CUN-L33",
+        "device": "HWCUN-L6735",
+        "fingerprint": "HUAWEI/hwcun-l6735/hwcun-l6735:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI CUN-U29",
+        "device": "HWCUN-U6582",
+        "fingerprint": "HUAWEI/hwcun-u6582/hwcun-u6582:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G350",
+        "device": "hwg350",
+        "fingerprint": "HUAWEI/hwg350/hwg350:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G350-U00",
+        "device": "hwg350",
+        "fingerprint": "HUAWEI/hwg350/hwg350:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G350-U20",
+        "device": "HWG350",
+        "fingerprint": "HUAWEI/hwg350/hwg350:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G506-U151",
+        "device": "hwG506-U151",
+        "fingerprint": "HUAWEI/hwg506-u151/hwg506-u151:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G510-0010",
+        "device": "hwG510-0010",
+        "fingerprint": "HUAWEI/hwg510-0010/hwg510-0010:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G510-0100",
+        "device": "hwG510-0100",
+        "fingerprint": "HUAWEI/hwg510-0100/hwg510-0100:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G510-0200",
+        "device": "hwG510-0200",
+        "fingerprint": "HUAWEI/hwg510-0200/hwg510-0200:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G510-0251",
+        "device": "hwG510-0251",
+        "fingerprint": "HUAWEI/hwg510-0251/hwg510-0251:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G520-5000",
+        "device": "hwG520-5000",
+        "fingerprint": "HUAWEI/hwg520-5000/hwg520-5000:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G521-L076",
+        "device": "HWG521-L",
+        "fingerprint": "HUAWEI/hwg521-l/hwg521-l:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G521-L176",
+        "device": "HWG521-L",
+        "fingerprint": "HUAWEI/hwg521-l/hwg521-l:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G525-U00",
+        "device": "hwG525-U00",
+        "fingerprint": "HUAWEI/hwg525-u00/hwg525-u00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G535-L11",
+        "device": "hwG535-L11",
+        "fingerprint": "HUAWEI/hwg535-l11/hwg535-l11:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G6-C00",
+        "device": "hwG6-C00",
+        "fingerprint": "HUAWEI/hwg6-c00/hwg6-c00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G6-L11",
+        "device": "hwG6-L11",
+        "fingerprint": "HUAWEI/hwg6-l11/hwg6-l11:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G6-L22",
+        "device": "hwG6-L22",
+        "fingerprint": "HUAWEI/hwg6-l22/hwg6-l22:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G6-L33",
+        "device": "hwG6-L33",
+        "fingerprint": "HUAWEI/hwg6-l33/hwg6-l33:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G6-U00",
+        "device": "hwG6-U00",
+        "fingerprint": "HUAWEI/hwg6-u00/hwg6-u00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G6-U10",
+        "device": "hwG6-U10",
+        "fingerprint": "HUAWEI/hwg6-u10/hwg6-u10:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G6-U251",
+        "device": "hwG6-U251",
+        "fingerprint": "HUAWEI/hwg6-u251/hwg6-u251:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G6-U34",
+        "device": "hwG6-U34",
+        "fingerprint": "HUAWEI/hwg6-u34/hwg6-u34:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G606-T00",
+        "device": "HWG606",
+        "fingerprint": "HUAWEI/hwg606/hwg606:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G606-T00",
+        "device": "HWG606-T00",
+        "fingerprint": "HUAWEI/hwg606-t00/hwg606-t00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G610-C00",
+        "device": "hwG610-C00",
+        "fingerprint": "HUAWEI/hwg610-c00/hwg610-c00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G610-T00",
+        "device": "hwG610-T00",
+        "fingerprint": "HUAWEI/hwg610-t00/hwg610-t00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G610-T01",
+        "device": "hwG610-T01",
+        "fingerprint": "HUAWEI/hwg610-t01/hwg610-t01:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G610-T11",
+        "device": "hwG610-T11",
+        "fingerprint": "HUAWEI/hwg610-t11/hwg610-t11:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G610-U00",
+        "device": "hwG610-U00",
+        "fingerprint": "HUAWEI/hwg610-u00/hwg610-u00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G610-U15",
+        "device": "hwG610-U15",
+        "fingerprint": "HUAWEI/hwg610-u15/hwg610-u15:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G610-U20",
+        "device": "hwG610-U20",
+        "fingerprint": "HUAWEI/hwg610-u20/hwg610-u20:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G610-U30",
+        "device": "hwG610-U30",
+        "fingerprint": "HUAWEI/hwg610-u30/hwg610-u30:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G615-U10",
+        "device": "hwG615-U10",
+        "fingerprint": "HUAWEI/hwg615-u10/hwg615-u10:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G616-L076",
+        "device": "HWG616-L",
+        "fingerprint": "HUAWEI/hwg616-l/hwg616-l:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G620",
+        "device": "hwG620S-L03",
+        "fingerprint": "HUAWEI/hwg620s-l03/hwg620s-l03:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G620-A2",
+        "device": "hwG620-A2",
+        "fingerprint": "HUAWEI/hwg620-a2/hwg620-a2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G620-L72",
+        "device": "hwG620-L72",
+        "fingerprint": "HUAWEI/hwg620-l72/hwg620-l72:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G628-TL00",
+        "device": "HWG628-TL",
+        "fingerprint": "HUAWEI/hwg628-tl/hwg628-tl:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G629-UL00",
+        "device": "HWG629-UL",
+        "fingerprint": "HUAWEI/hwg629-ul/hwg629-ul:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G630-T00",
+        "device": "hwG630-T00",
+        "fingerprint": "HUAWEI/hwg630-t00/hwg630-t00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G630-U00",
+        "device": "hwG630-U00",
+        "fingerprint": "HUAWEI/hwg630-u00/hwg630-u00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G630-U251",
+        "device": "hwG630-U251",
+        "fingerprint": "HUAWEI/hwg630-u251/hwg630-u251:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G660-L075",
+        "device": "hwG660-L075",
+        "fingerprint": "HUAWEI/hwg660-l075/hwg660-l075:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G7",
+        "device": "hwG7-L03",
+        "fingerprint": "HUAWEI/hwg7-l03/hwg7-l03:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G7-L01",
+        "device": "hwG7-L01",
+        "fingerprint": "HUAWEI/hwg7-l01/hwg7-l01:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G7-L02",
+        "device": "hwG7-L02",
+        "fingerprint": "HUAWEI/hwg7-l02/hwg7-l02:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G7-L03",
+        "device": "hwG7-L03",
+        "fingerprint": "HUAWEI/hwg7-l03/hwg7-l03:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G7-L11",
+        "device": "hwG7-L11",
+        "fingerprint": "HUAWEI/hwg7-l11/hwg7-l11:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G7-TL00",
+        "device": "hwG7-TL00",
+        "fingerprint": "HUAWEI/hwg7-tl00/hwg7-tl00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G7-UL20",
+        "device": "hwG7-UL20",
+        "fingerprint": "HUAWEI/hwg7-ul20/hwg7-ul20:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G700-T00",
+        "device": "hwG700-T00",
+        "fingerprint": "HUAWEI/hwg700-t00/hwg700-t00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G700-T01",
+        "device": "hwG700-T01",
+        "fingerprint": "HUAWEI/hwg700-t01/hwg700-t01:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G700-U00",
+        "device": "hwG700-U00",
+        "fingerprint": "HUAWEI/hwg700-u00/hwg700-u00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G700-U10",
+        "device": "hwG700-U10",
+        "fingerprint": "HUAWEI/hwg700-u10/hwg700-u10:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G700-U20",
+        "device": "hwG700-U20",
+        "fingerprint": "HUAWEI/hwg700-u20/hwg700-u20:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G716-L070",
+        "device": "hwG716-L070",
+        "fingerprint": "HUAWEI/hwg716-l070/hwg716-l070:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G718",
+        "device": "hwg718",
+        "fingerprint": "HUAWEI/hwg718/hwg718:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G730-C00",
+        "device": "hwG730-C00",
+        "fingerprint": "HUAWEI/hwg730-c00/hwg730-c00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G730-L075",
+        "device": "hwG730-L075",
+        "fingerprint": "HUAWEI/hwg730-l075/hwg730-l075:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G730-T00",
+        "device": "hwG730-T00",
+        "fingerprint": "HUAWEI/hwg730-t00/hwg730-t00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G730-U00",
+        "device": "hwG730-U00",
+        "fingerprint": "HUAWEI/hwg730-u00/hwg730-u00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G730-U10",
+        "device": "hwG730-U10",
+        "fingerprint": "HUAWEI/hwg730-u10/hwg730-u10:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G730-U251",
+        "device": "hwG730-U251",
+        "fingerprint": "HUAWEI/hwg730-u251/hwg730-u251:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G730-U27",
+        "device": "hwG730-U27",
+        "fingerprint": "HUAWEI/hwg730-u27/hwg730-u27:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G730-U30",
+        "device": "hwG730-U30",
+        "fingerprint": "HUAWEI/hwg730-u30/hwg730-u30:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G750-T00",
+        "device": "hwG750-T00",
+        "fingerprint": "HUAWEI/hwg750-t00/hwg750-t00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G750-T01",
+        "device": "hwG750-T01",
+        "fingerprint": "HUAWEI/hwg750-t01/hwg750-t01:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G750-T01M",
+        "device": "hwG750-T01M",
+        "fingerprint": "HUAWEI/hwg750-t01m/hwg750-t01m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G750-T20",
+        "device": "hwG750-T20",
+        "fingerprint": "HUAWEI/hwg750-t20/hwg750-t20:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G750-U10",
+        "device": "hwG750-U10",
+        "fingerprint": "HUAWEI/hwg750-u10/hwg750-u10:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI G7500",
+        "device": "HWG7500",
+        "fingerprint": "HUAWEI/hwg7500/hwg7500:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI H1611",
+        "device": "HWH1611-Q",
+        "fingerprint": "HUAWEI/hwh1611-q/hwh1611-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI H871G",
+        "device": "hwh871g",
+        "fingerprint": "HUAWEI/hwh871g/hwh871g:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI H891L",
+        "device": "hwH891L",
+        "fingerprint": "HUAWEI/hwh891l/hwh891l:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI H892L",
+        "device": "hwH892L",
+        "fingerprint": "HUAWEI/hwh892l/hwh892l:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI HN3-U00",
+        "device": "hwhn3-u00",
+        "fingerprint": "HUAWEI/hwhn3-u00/hwhn3-u00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI HN3-U01",
+        "device": "hwhn3-u01",
+        "fingerprint": "HUAWEI/hwhn3-u01/hwhn3-u01:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI KII-L03",
+        "device": "HWKII-Q",
+        "fingerprint": "HUAWEI/hwkii-q/hwkii-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI KII-L05",
+        "device": "HWKII-Q",
+        "fingerprint": "HUAWEI/hwkii-q/hwkii-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI KII-L21",
+        "device": "HWKII-Q",
+        "fingerprint": "HUAWEI/hwkii-q/hwkii-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI KII-L22",
+        "device": "HWKII-Q",
+        "fingerprint": "HUAWEI/hwkii-q/hwkii-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI KII-L23",
+        "device": "HWKII-Q",
+        "fingerprint": "HUAWEI/hwkii-q/hwkii-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI KII-L33",
+        "device": "HWKII-Q",
+        "fingerprint": "HUAWEI/hwkii-q/hwkii-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI LUA-L01",
+        "device": "HWLUA-L6735",
+        "fingerprint": "HUAWEI/hwlua-l6735/hwlua-l6735:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI LUA-L02",
+        "device": "HWLUA-L6735",
+        "fingerprint": "HUAWEI/hwlua-l6735/hwlua-l6735:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI LUA-L03",
+        "device": "HWLUA-L6735",
+        "fingerprint": "HUAWEI/hwlua-l6735/hwlua-l6735:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI LUA-L13",
+        "device": "HWLUA-L6735",
+        "fingerprint": "HUAWEI/hwlua-l6735/hwlua-l6735:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI LUA-L21",
+        "device": "HWLUA-L6735",
+        "fingerprint": "HUAWEI/hwlua-l6735/hwlua-l6735:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI LUA-L23",
+        "device": "HWLUA-L6735",
+        "fingerprint": "HUAWEI/hwlua-l6735/hwlua-l6735:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI LUA-U02",
+        "device": "HWLUA-U6582",
+        "fingerprint": "HUAWEI/hwlua-u6582/hwlua-u6582:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI LUA-U03",
+        "device": "HWLUA-U6582",
+        "fingerprint": "HUAWEI/hwlua-u6582/hwlua-u6582:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI LUA-U22",
+        "device": "HWLUA-U6582",
+        "fingerprint": "HUAWEI/hwlua-u6582/hwlua-u6582:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI LUA-U23",
+        "device": "HWLUA-U6582",
+        "fingerprint": "HUAWEI/hwlua-u6582/hwlua-u6582:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI LYO-L02",
+        "device": "HWLYO-L6735",
+        "fingerprint": "HUAWEI/hwlyo-l6735/hwlyo-l6735:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI LYO-L21",
+        "device": "HWLYO-L6735",
+        "fingerprint": "HUAWEI/hwlyo-l6735/hwlyo-l6735:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI M2-A01L",
+        "device": "hwliszt",
+        "fingerprint": "HUAWEI/hwliszt/hwliszt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI M2-A01W",
+        "device": "hwliszt",
+        "fingerprint": "HUAWEI/hwliszt/hwliszt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI M868",
+        "device": "hwm868",
+        "fingerprint": "HUAWEI/hwm868/hwm868:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI M881",
+        "device": "hwm881",
+        "fingerprint": "HUAWEI/hwm881/hwm881:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI MLA-L01",
+        "device": "HWMLA",
+        "fingerprint": "HUAWEI/hwmla/hwmla:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI MLA-L02",
+        "device": "HWMLA",
+        "fingerprint": "HUAWEI/hwmla/hwmla:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI MLA-L03",
+        "device": "HWMLA",
+        "fingerprint": "HUAWEI/hwmla/hwmla:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI MLA-L11",
+        "device": "HWMLA",
+        "fingerprint": "HUAWEI/hwmla/hwmla:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI MLA-L12",
+        "device": "HWMLA",
+        "fingerprint": "HUAWEI/hwmla/hwmla:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI MLA-L13",
+        "device": "HWMLA",
+        "fingerprint": "HUAWEI/hwmla/hwmla:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI MLA-TL00",
+        "device": "HWMLA",
+        "fingerprint": "HUAWEI/hwmla/hwmla:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI MLA-TL10",
+        "device": "HWMLA",
+        "fingerprint": "HUAWEI/hwmla/hwmla:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI MLA-UL00",
+        "device": "HWMLA",
+        "fingerprint": "HUAWEI/hwmla/hwmla:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI MT1-T00",
+        "device": "hwmt1-t00",
+        "fingerprint": "HUAWEI/hwmt1-t00/hwmt1-t00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI MT1-U06",
+        "device": "hwmt1-u06",
+        "fingerprint": "HUAWEI/hwmt1-u06/hwmt1-u06:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI MT2-C00",
+        "device": "hwmt2-c00",
+        "fingerprint": "HUAWEI/hwmt2-c00/hwmt2-c00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI MT2-L01",
+        "device": "hwmt2-l01",
+        "fingerprint": "HUAWEI/hwmt2-l01/hwmt2-l01:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI MT2-L02",
+        "device": "hwmt2-l02",
+        "fingerprint": "HUAWEI/hwmt2-l02/hwmt2-l02:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI MT2-L05",
+        "device": "hwmt2-l05",
+        "fingerprint": "HUAWEI/hwmt2-l05/hwmt2-l05:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI MT7-CL00",
+        "device": "hwmt7",
+        "fingerprint": "HUAWEI/hwmt7/hwmt7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI MT7-J1",
+        "device": "hwmt7",
+        "fingerprint": "HUAWEI/hwmt7/hwmt7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI MT7-L09",
+        "device": "hwmt7",
+        "fingerprint": "HUAWEI/hwmt7/hwmt7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI MT7-TL00",
+        "device": "hwmt7",
+        "fingerprint": "HUAWEI/hwmt7/hwmt7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI MT7-TL10",
+        "device": "hwmt7",
+        "fingerprint": "HUAWEI/hwmt7/hwmt7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI MT7-UL00",
+        "device": "hwmt7",
+        "fingerprint": "HUAWEI/hwmt7/hwmt7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI NMO-L21",
+        "device": "HWNMO-H",
+        "fingerprint": "HUAWEI/hwnmo-h/hwnmo-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI NMO-L22",
+        "device": "HWNMO-H",
+        "fingerprint": "HUAWEI/hwnmo-h/hwnmo-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI NMO-L23",
+        "device": "HWNMO-H",
+        "fingerprint": "HUAWEI/hwnmo-h/hwnmo-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI NMO-L31",
+        "device": "HWNMO-H",
+        "fingerprint": "HUAWEI/hwnmo-h/hwnmo-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI NTS-AL00",
+        "device": "HWNTS",
+        "fingerprint": "HUAWEI/hwnts/hwnts:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI NXT-AL10",
+        "device": "HWNXT",
+        "fingerprint": "HUAWEI/hwnxt/hwnxt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI NXT-CL00",
+        "device": "HWNXT",
+        "fingerprint": "HUAWEI/hwnxt/hwnxt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI NXT-DL00",
+        "device": "HWNXT",
+        "fingerprint": "HUAWEI/hwnxt/hwnxt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI NXT-L09",
+        "device": "HWNXT",
+        "fingerprint": "HUAWEI/hwnxt/hwnxt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI NXT-L29",
+        "device": "HWNXT",
+        "fingerprint": "HUAWEI/hwnxt/hwnxt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI NXT-TL00",
+        "device": "HWNXT",
+        "fingerprint": "HUAWEI/hwnxt/hwnxt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI NXT-TL00B",
+        "device": "HWNXT",
+        "fingerprint": "HUAWEI/hwnxt/hwnxt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI P6 S-U06",
+        "device": "hwp6s-u06",
+        "fingerprint": "HUAWEI/hwp6s-u06/hwp6s-u06:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI P7 mini",
+        "device": "hwP7Mini",
+        "fingerprint": "HUAWEI/hwp7mini/hwp7mini:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI P7-L09",
+        "device": "hwp7",
+        "fingerprint": "HUAWEI/hwp7/hwp7:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI P8max",
+        "device": "HWP8max",
+        "fingerprint": "HUAWEI/hwp8max/hwp8max:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI RIO-CL00",
+        "device": "hwRIO-CL00",
+        "fingerprint": "HUAWEI/hwrio-cl00/hwrio-cl00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI RIO-L01",
+        "device": "hwRIO-L01",
+        "fingerprint": "HUAWEI/hwrio-l01/hwrio-l01:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI RIO-TL00",
+        "device": "HWRIO",
+        "fingerprint": "HUAWEI/hwrio/hwrio:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI RIO-UL00",
+        "device": "HWRIO",
+        "fingerprint": "HUAWEI/hwrio/hwrio:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI SC-CL00",
+        "device": "HWSC-CL00",
+        "fingerprint": "HUAWEI/hwsc-cl00/hwsc-cl00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI SC-UL10",
+        "device": "HWSC-UL10",
+        "fingerprint": "HUAWEI/hwsc-ul10/hwsc-ul10:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI T8808D",
+        "device": "hwT8808D",
+        "fingerprint": "HUAWEI/hwt8808d/hwt8808d:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI TAG-AL00",
+        "device": "HWTAG-L6753",
+        "fingerprint": "HUAWEI/hwtag-l6753/hwtag-l6753:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI TAG-CL00",
+        "device": "HWTAG-L6753",
+        "fingerprint": "HUAWEI/hwtag-l6753/hwtag-l6753:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI TAG-L01",
+        "device": "HWTAG-L6753",
+        "fingerprint": "HUAWEI/hwtag-l6753/hwtag-l6753:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI TAG-L03",
+        "device": "HWTAG-L6753",
+        "fingerprint": "HUAWEI/hwtag-l6753/hwtag-l6753:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI TAG-L13",
+        "device": "HWTAG-L6753",
+        "fingerprint": "HUAWEI/hwtag-l6753/hwtag-l6753:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI TAG-L21",
+        "device": "HWTAG-L6753",
+        "fingerprint": "HUAWEI/hwtag-l6753/hwtag-l6753:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI TAG-L22",
+        "device": "HWTAG-L6753",
+        "fingerprint": "HUAWEI/hwtag-l6753/hwtag-l6753:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI TAG-L23",
+        "device": "HWTAG-L6753",
+        "fingerprint": "HUAWEI/hwtag-l6753/hwtag-l6753:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI TAG-TL00",
+        "device": "HWTAG-L6753",
+        "fingerprint": "HUAWEI/hwtag-l6753/hwtag-l6753:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI TIT-AL00",
+        "device": "HWTIT-AL00",
+        "fingerprint": "HUAWEI/hwtit-al00/hwtit-al00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI TIT-AL00",
+        "device": "HWTIT-L6735",
+        "fingerprint": "HUAWEI/hwtit-l6735/hwtit-l6735:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI TIT-CL00",
+        "device": "HWTIT-L8916",
+        "fingerprint": "HUAWEI/hwtit-l8916/hwtit-l8916:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI TIT-CL10",
+        "device": "HWTIT-L6735",
+        "fingerprint": "HUAWEI/hwtit-l6735/hwtit-l6735:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI TIT-L01",
+        "device": "HWTIT-L6735",
+        "fingerprint": "HUAWEI/hwtit-l6735/hwtit-l6735:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI TIT-TL00",
+        "device": "HWTIT-L6735",
+        "fingerprint": "HUAWEI/hwtit-l6735/hwtit-l6735:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI TIT-U02",
+        "device": "HWTIT-U6582",
+        "fingerprint": "HUAWEI/hwtit-u6582/hwtit-u6582:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI VNS-L21",
+        "device": "HWVNS-H",
+        "fingerprint": "HUAWEI/hwvns-h/hwvns-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI VNS-L22",
+        "device": "HWVNS-H",
+        "fingerprint": "HUAWEI/hwvns-h/hwvns-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI VNS-L23",
+        "device": "HWVNS-H",
+        "fingerprint": "HUAWEI/hwvns-h/hwvns-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI VNS-L31",
+        "device": "HWVNS-H",
+        "fingerprint": "HUAWEI/hwvns-h/hwvns-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI VNS-L52",
+        "device": "HWVNS-Q",
+        "fingerprint": "HUAWEI/hwvns-q/hwvns-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI VNS-L53",
+        "device": "HWVNS-H",
+        "fingerprint": "HUAWEI/hwvns-h/hwvns-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI VNS-L62",
+        "device": "HWVNS-Q",
+        "fingerprint": "HUAWEI/hwvns-q/hwvns-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y 220T",
+        "device": "hwy220t",
+        "fingerprint": "HUAWEI/hwy220t/hwy220t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y220-T10",
+        "device": "hwy220-t10",
+        "fingerprint": "HUAWEI/hwy220-t10/hwy220-t10:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y221-U03",
+        "device": "HWY221-U",
+        "fingerprint": "HUAWEI/hwy221-u/hwy221-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y221-U12",
+        "device": "HWY221-U",
+        "fingerprint": "HUAWEI/hwy221-u/hwy221-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y221-U22",
+        "device": "HWY221-U",
+        "fingerprint": "HUAWEI/hwy221-u/hwy221-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y221-U33",
+        "device": "HWY221-U",
+        "fingerprint": "HUAWEI/hwy221-u/hwy221-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y221-U43",
+        "device": "HWY221-U",
+        "fingerprint": "HUAWEI/hwy221-u/hwy221-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y221-U53",
+        "device": "HWY221-U",
+        "fingerprint": "HUAWEI/hwy221-u/hwy221-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y300-0000",
+        "device": "hwY300-0000",
+        "fingerprint": "HUAWEI/hwy300-0000/hwy300-0000:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y300-0100",
+        "device": "hwY300-0100",
+        "fingerprint": "HUAWEI/hwy300-0100/hwy300-0100:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y300-0151",
+        "device": "hwY300-0151",
+        "fingerprint": "HUAWEI/hwy300-0151/hwy300-0151:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y310-5000",
+        "device": "hwy310-5000",
+        "fingerprint": "HUAWEI/hwy310-5000/hwy310-5000:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y310-T10",
+        "device": "hwy310-t10",
+        "fingerprint": "HUAWEI/hwy310-t10/hwy310-t10:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y320-C00",
+        "device": "hwy320-c00",
+        "fingerprint": "HUAWEI/hwy320-c00/hwy320-c00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y320-T00",
+        "device": "HWY320-T00",
+        "fingerprint": "HUAWEI/hwy320-t00/hwy320-t00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y320-U01",
+        "device": "HWY320",
+        "fingerprint": "HUAWEI/hwy320/hwy320:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y320-U10",
+        "device": "HWY320-U",
+        "fingerprint": "HUAWEI/hwy320-u/hwy320-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y320-U151",
+        "device": "HWY320-U",
+        "fingerprint": "HUAWEI/hwy320-u/hwy320-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y320-U30",
+        "device": "HWY320-U",
+        "fingerprint": "HUAWEI/hwy320-u/hwy320-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y320-U351",
+        "device": "HWY320-U",
+        "fingerprint": "HUAWEI/hwy320-u/hwy320-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y321-C00",
+        "device": "hwy321-c00",
+        "fingerprint": "HUAWEI/hwy321-c00/hwy321-c00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y321-U051",
+        "device": "HWY321-U",
+        "fingerprint": "HUAWEI/hwy321-u/hwy321-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y325-T00",
+        "device": "HWY325-T",
+        "fingerprint": "HUAWEI/hwy325-t/hwy325-t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y330-C00",
+        "device": "hwY330-C00",
+        "fingerprint": "HUAWEI/hwy330-c00/hwy330-c00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y330-U01",
+        "device": "hwY330-U01",
+        "fingerprint": "HUAWEI/hwy330-u01/hwy330-u01:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y330-U05",
+        "device": "hwY330-U05",
+        "fingerprint": "HUAWEI/hwy330-u05/hwy330-u05:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y330-U07",
+        "device": "hwY330-U07",
+        "fingerprint": "HUAWEI/hwy330-u07/hwy330-u07:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y330-U08",
+        "device": "hwY330-U08",
+        "fingerprint": "HUAWEI/hwy330-u08/hwy330-u08:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y330-U11",
+        "device": "hwY330-U11",
+        "fingerprint": "HUAWEI/hwy330-u11/hwy330-u11:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y330-U15",
+        "device": "hwY330-U15",
+        "fingerprint": "HUAWEI/hwy330-u15/hwy330-u15:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y330-U17",
+        "device": "hwY330-U17",
+        "fingerprint": "HUAWEI/hwy330-u17/hwy330-u17:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y330-U21",
+        "device": "hwY330-U21",
+        "fingerprint": "HUAWEI/hwy330-u21/hwy330-u21:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y336-A1",
+        "device": "hwY336-A1",
+        "fingerprint": "HUAWEI/hwy336-a1/hwy336-a1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y336-U02",
+        "device": "HWY336-U",
+        "fingerprint": "HUAWEI/hwy336-u/hwy336-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y336-U12",
+        "device": "HWY336-U",
+        "fingerprint": "HUAWEI/hwy336-u/hwy336-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y360-U03",
+        "device": "HWY360-U",
+        "fingerprint": "HUAWEI/hwy360-u/hwy360-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y360-U103",
+        "device": "HWY360-U6572",
+        "fingerprint": "HUAWEI/hwy360-u6572/hwy360-u6572:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y360-U12",
+        "device": "HWY360-U",
+        "fingerprint": "HUAWEI/hwy360-u/hwy360-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y360-U23",
+        "device": "HWY360-U",
+        "fingerprint": "HUAWEI/hwy360-u/hwy360-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y360-U31",
+        "device": "HWY360-U",
+        "fingerprint": "HUAWEI/hwy360-u/hwy360-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y360-U42",
+        "device": "HWY360-U",
+        "fingerprint": "HUAWEI/hwy360-u/hwy360-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y360-U61",
+        "device": "HWY360-U",
+        "fingerprint": "HUAWEI/hwy360-u/hwy360-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y360-U72",
+        "device": "HWY360-U6572",
+        "fingerprint": "HUAWEI/hwy360-u6572/hwy360-u6572:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y360-U82",
+        "device": "HWY360-U6572",
+        "fingerprint": "HUAWEI/hwy360-u6572/hwy360-u6572:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y360-U93",
+        "device": "HWY360-U6572",
+        "fingerprint": "HUAWEI/hwy360-u6572/hwy360-u6572:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y500-T00",
+        "device": "HWY500-T00",
+        "fingerprint": "HUAWEI/hwy500-t00/hwy500-t00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y511-T00",
+        "device": "HWY511-T",
+        "fingerprint": "HUAWEI/hwy511-t/hwy511-t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y511-U10",
+        "device": "HWY511-U",
+        "fingerprint": "HUAWEI/hwy511-u/hwy511-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y511-U251",
+        "device": "HWY511-U",
+        "fingerprint": "HUAWEI/hwy511-u/hwy511-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y511-U30",
+        "device": "HWY511-U",
+        "fingerprint": "HUAWEI/hwy511-u/hwy511-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y516-T00",
+        "device": "HWY516-T",
+        "fingerprint": "HUAWEI/hwy516-t/hwy516-t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y518-T00",
+        "device": "HWY518-T",
+        "fingerprint": "HUAWEI/hwy518-t/hwy518-t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y520-U03",
+        "device": "HWY520-U",
+        "fingerprint": "HUAWEI/hwy520-u/hwy520-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y520-U12",
+        "device": "HWY520-U",
+        "fingerprint": "HUAWEI/hwy520-u/hwy520-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y520-U22",
+        "device": "HWY520-U",
+        "fingerprint": "HUAWEI/hwy520-u/hwy520-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y520-U33",
+        "device": "HWY520-U",
+        "fingerprint": "HUAWEI/hwy520-u/hwy520-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y523-L076",
+        "device": "HWY523",
+        "fingerprint": "HUAWEI/hwy523/hwy523:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y523-L176",
+        "device": "HWY523",
+        "fingerprint": "HUAWEI/hwy523/hwy523:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y530",
+        "device": "hwY530-U051",
+        "fingerprint": "HUAWEI/hwy530-u051/hwy530-u051:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y530-U00",
+        "device": "hwY530-U00",
+        "fingerprint": "HUAWEI/hwy530-u00/hwy530-u00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y530-U051",
+        "device": "hwY530-U051",
+        "fingerprint": "HUAWEI/hwy530-u051/hwy530-u051:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y535-C00",
+        "device": "HWY535-C00",
+        "fingerprint": "HUAWEI/hwy535-c00/hwy535-c00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y535D-C00",
+        "device": "HWY535D-C00",
+        "fingerprint": "HUAWEI/hwy535d-c00/hwy535d-c00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y536A1",
+        "device": "hwY536A1",
+        "fingerprint": "HUAWEI/hwy536a1/hwy536a1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y540-U01",
+        "device": "HWY540-U",
+        "fingerprint": "HUAWEI/hwy540-u/hwy540-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y541-U02",
+        "device": "HWY541-U",
+        "fingerprint": "HUAWEI/hwy541-u/hwy541-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y550",
+        "device": "hwY550-L03",
+        "fingerprint": "HUAWEI/hwy550-l03/hwy550-l03:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y550-L01",
+        "device": "hwY550-L01",
+        "fingerprint": "HUAWEI/hwy550-l01/hwy550-l01:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y550-L02",
+        "device": "hwY550-L02",
+        "fingerprint": "HUAWEI/hwy550-l02/hwy550-l02:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y550-L03",
+        "device": "hwY550-L03",
+        "fingerprint": "HUAWEI/hwy550-l03/hwy550-l03:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y560-CL00",
+        "device": "HWY560-CL",
+        "fingerprint": "HUAWEI/hwy560-cl/hwy560-cl:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y560-L01",
+        "device": "HWY560-L",
+        "fingerprint": "HUAWEI/hwy560-l/hwy560-l:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y560-L03",
+        "device": "HWY560-L",
+        "fingerprint": "HUAWEI/hwy560-l/hwy560-l:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y560-U02",
+        "device": "HWY560-U",
+        "fingerprint": "HUAWEI/hwy560-u/hwy560-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y560-U12",
+        "device": "HWY560-U",
+        "fingerprint": "HUAWEI/hwy560-u/hwy560-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y560-U23",
+        "device": "HWY560-U",
+        "fingerprint": "HUAWEI/hwy560-u/hwy560-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y600-U00",
+        "device": "HWY600-U",
+        "fingerprint": "HUAWEI/hwy600-u/hwy600-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y600-U151",
+        "device": "HWY600-U",
+        "fingerprint": "HUAWEI/hwy600-u/hwy600-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y600-U20",
+        "device": "HWY600-U",
+        "fingerprint": "HUAWEI/hwy600-u/hwy600-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y600-U351",
+        "device": "HWY600-U",
+        "fingerprint": "HUAWEI/hwy600-u/hwy600-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y600-U40",
+        "device": "HWY600-U",
+        "fingerprint": "HUAWEI/hwy600-u/hwy600-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y600D-C00",
+        "device": "HWY600D-C00",
+        "fingerprint": "HUAWEI/hwy600d-c00/hwy600d-c00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y610-U00",
+        "device": "HWY610-U",
+        "fingerprint": "HUAWEI/hwy610-u/hwy610-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y618-T00",
+        "device": "HWY618-T",
+        "fingerprint": "HUAWEI/hwy618-t/hwy618-t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y625-U13",
+        "device": "HWY625-U",
+        "fingerprint": "HUAWEI/hwy625-u/hwy625-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y625-U21",
+        "device": "HWY625-U",
+        "fingerprint": "HUAWEI/hwy625-u/hwy625-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y625-U32",
+        "device": "HWY625-U",
+        "fingerprint": "HUAWEI/hwy625-u/hwy625-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y625-U43",
+        "device": "HWY625-U",
+        "fingerprint": "HUAWEI/hwy625-u/hwy625-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y625-U51",
+        "device": "HWY625-U",
+        "fingerprint": "HUAWEI/hwy625-u/hwy625-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y635-CL00",
+        "device": "hwY635",
+        "fingerprint": "HUAWEI/hwy635/hwy635:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y635-L02",
+        "device": "hwY635",
+        "fingerprint": "HUAWEI/hwy635/hwy635:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y635-L03",
+        "device": "hwY635",
+        "fingerprint": "HUAWEI/hwy635/hwy635:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI Y635-TL00",
+        "device": "hwY635",
+        "fingerprint": "HUAWEI/hwy635/hwy635:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI-C8850",
+        "device": "hwc8850",
+        "fingerprint": "HUAWEI/hwc8850/hwc8850:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI-M835",
+        "device": "hwm835",
+        "fingerprint": "HUAWEI/hwm835/hwm835:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI-U8850",
+        "device": "hwu8850",
+        "fingerprint": "HUAWEI/hwu8850/hwu8850:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HUAWEI-U9000",
+        "device": "hwu9000",
+        "fingerprint": "HUAWEI/hwu9000/hwu9000:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HW-01K",
+        "device": "HW-01K",
+        "fingerprint": "HUAWEI/hw-01k/hw-01k:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HW-02L",
+        "device": "HW-02L",
+        "fingerprint": "HUAWEI/hw-02l/hw-02l:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HW-03E",
+        "device": "HW-03E",
+        "fingerprint": "HUAWEI/hw-03e/hw-03e:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HW-H60-J1",
+        "device": "hwH60",
+        "fingerprint": "HUAWEI/hwh60/hwh60:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HWI-AL00",
+        "device": "HWHWI",
+        "fingerprint": "HUAWEI/hwhwi/hwhwi:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HWI-TL00",
+        "device": "HWHWI",
+        "fingerprint": "HUAWEI/hwhwi/hwhwi:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HWT31",
+        "device": "hwfdra04l",
+        "fingerprint": "HUAWEI/hwfdra04l/hwfdra04l:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HWV31",
+        "device": "HWPIC",
+        "fingerprint": "HUAWEI/hwpic/hwpic:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HWV32",
+        "device": "HWANE",
+        "fingerprint": "HUAWEI/hwane/hwane:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HWV33",
+        "device": "HWMAR",
+        "fingerprint": "HUAWEI/hwmar/hwmar:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Hol-T00",
+        "device": "HWHol-T",
+        "fingerprint": "HUAWEI/hwhol-t/hwhol-t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Hol-U10",
+        "device": "HWHol-U",
+        "fingerprint": "HUAWEI/hwhol-u/hwhol-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Hol-U19",
+        "device": "HWHol-U",
+        "fingerprint": "HUAWEI/hwhol-u/hwhol-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Honor T1 8.0",
+        "device": "hwt1821l",
+        "fingerprint": "HUAWEI/hwt1821l/hwt1821l:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Huawei 858",
+        "device": "hwu8160",
+        "fingerprint": "HUAWEI/hwu8160/hwu8160:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Huawei U8800-51",
+        "device": "hwu8800-51",
+        "fingerprint": "HUAWEI/hwu8800-51/hwu8800-51:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Huawei Y301A1",
+        "device": "hwY301A1",
+        "fingerprint": "HUAWEI/hwy301a1/hwy301a1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Huawei Y301A2",
+        "device": "hwY301A2",
+        "fingerprint": "HUAWEI/hwy301a2/hwy301a2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Huawei-U8652",
+        "device": "hwu8652",
+        "fingerprint": "HUAWEI/hwu8652/hwu8652:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Huawei-U8665",
+        "device": "hwu8665",
+        "fingerprint": "HUAWEI/hwu8665/hwu8665:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Huawei-U8687",
+        "device": "hwu8687",
+        "fingerprint": "HUAWEI/hwu8687/hwu8687:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HuaweiES8500",
+        "device": "hwes8500",
+        "fingerprint": "HUAWEI/hwes8500/hwes8500:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HuaweiG510-0100",
+        "device": "hwG510-0100",
+        "fingerprint": "HUAWEI/hwg510-0100/hwg510-0100:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "HuaweiG510-0100-orange",
+        "device": "hwG510-0100",
+        "fingerprint": "HUAWEI/hwg510-0100/hwg510-0100:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Huawei_8100-9",
+        "device": "U8100",
+        "fingerprint": "HUAWEI/u8100/u8100:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "IDEOS X5",
+        "device": "hwu8800-51",
+        "fingerprint": "HUAWEI/hwu8800-51/hwu8800-51:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "INE-AL00",
+        "device": "HWINE",
+        "fingerprint": "HUAWEI/hwine/hwine:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "INE-LX1",
+        "device": "HWINE",
+        "fingerprint": "HUAWEI/hwine/hwine:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "INE-LX1r",
+        "device": "HWINE",
+        "fingerprint": "HUAWEI/hwine/hwine:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "INE-LX2",
+        "device": "HWINE",
+        "fingerprint": "HUAWEI/hwine/hwine:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "INE-LX2r",
+        "device": "HWINE",
+        "fingerprint": "HUAWEI/hwine/hwine:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "INE-TL00",
+        "device": "HWINE",
+        "fingerprint": "HUAWEI/hwine/hwine:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Ice-Twist",
+        "device": "Ice-Twist",
+        "fingerprint": "HUAWEI/ice-twist/ice-twist:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Ideos",
+        "device": "U8150",
+        "fingerprint": "HUAWEI/u8150/u8150:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Ideos",
+        "device": "u8150",
+        "fingerprint": "HUAWEI/u8150/u8150:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "JAT-AL00",
+        "device": "HWJAT-M",
+        "fingerprint": "HUAWEI/hwjat-m/hwjat-m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "JAT-L29",
+        "device": "HWJAT-M",
+        "fingerprint": "HUAWEI/hwjat-m/hwjat-m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "JAT-L41",
+        "device": "HWJAT-M",
+        "fingerprint": "HUAWEI/hwjat-m/hwjat-m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "JAT-LX1",
+        "device": "HWJAT-M",
+        "fingerprint": "HUAWEI/hwjat-m/hwjat-m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "JAT-LX3",
+        "device": "HWJAT-M",
+        "fingerprint": "HUAWEI/hwjat-m/hwjat-m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "JKM-AL00a",
+        "device": "HWJKM-HM",
+        "fingerprint": "HUAWEI/hwjkm-hm/hwjkm-hm:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "JKM-LX1",
+        "device": "HWJKM-H",
+        "fingerprint": "HUAWEI/hwjkm-h/hwjkm-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "JKM-LX2",
+        "device": "HWJKM-H",
+        "fingerprint": "HUAWEI/hwjkm-h/hwjkm-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "JKM-LX3",
+        "device": "HWJKM-H",
+        "fingerprint": "HUAWEI/hwjkm-h/hwjkm-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "JMM-L22",
+        "device": "HWJMM",
+        "fingerprint": "HUAWEI/hwjmm/hwjmm:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "JSN-L21",
+        "device": "HWJSN-H",
+        "fingerprint": "HUAWEI/hwjsn-h/hwjsn-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "JSN-L22",
+        "device": "HWJSN-H",
+        "fingerprint": "HUAWEI/hwjsn-h/hwjsn-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "JSN-L23",
+        "device": "HWJSN-H",
+        "fingerprint": "HUAWEI/hwjsn-h/hwjsn-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "JSN-L42",
+        "device": "HWJSN-H",
+        "fingerprint": "HUAWEI/hwjsn-h/hwjsn-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "KII-L21",
+        "device": "HWKII-Q",
+        "fingerprint": "HUAWEI/hwkii-q/hwkii-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "KIW-L21",
+        "device": "HNKIW-Q",
+        "fingerprint": "HUAWEI/hnkiw-q/hnkiw-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "KIW-L22",
+        "device": "HNKIW-Q",
+        "fingerprint": "HUAWEI/hnkiw-q/hnkiw-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "KIW-L23",
+        "device": "HNKIW-Q",
+        "fingerprint": "HUAWEI/hnkiw-q/hnkiw-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "KIW-L24",
+        "device": "HNKIW-Q",
+        "fingerprint": "HUAWEI/hnkiw-q/hnkiw-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "KIW-TL00H",
+        "device": "HNKIW-Q",
+        "fingerprint": "HUAWEI/hnkiw-q/hnkiw-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "KNT-AL10",
+        "device": "HWKNT",
+        "fingerprint": "HUAWEI/hwknt/hwknt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "KNT-AL20",
+        "device": "HWKNT",
+        "fingerprint": "HUAWEI/hwknt/hwknt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "KNT-TL10",
+        "device": "HWKNT",
+        "fingerprint": "HUAWEI/hwknt/hwknt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "KNT-UL10",
+        "device": "HWKNT",
+        "fingerprint": "HUAWEI/hwknt/hwknt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "KSA-LX2",
+        "device": "HWKSA-M",
+        "fingerprint": "HUAWEI/hwksa-m/hwksa-m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "KSA-LX3",
+        "device": "HWKSA-M",
+        "fingerprint": "HUAWEI/hwksa-m/hwksa-m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "KSA-LX9",
+        "device": "HWKSA-M",
+        "fingerprint": "HUAWEI/hwksa-m/hwksa-m:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Kavak Y625-U03",
+        "device": "KVY625-U",
+        "fingerprint": "HUAWEI/kvy625-u/kvy625-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Kestrel",
+        "device": "hwG535-L11",
+        "fingerprint": "HUAWEI/hwg535-l11/hwg535-l11:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LDN-L01",
+        "device": "HWLDN-Q",
+        "fingerprint": "HUAWEI/hwldn-q/hwldn-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LDN-L21",
+        "device": "HWLDN-Q",
+        "fingerprint": "HUAWEI/hwldn-q/hwldn-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LDN-LX2",
+        "device": "HWLDN-Q",
+        "fingerprint": "HUAWEI/hwldn-q/hwldn-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LDN-LX3",
+        "device": "HWLDN-Q",
+        "fingerprint": "HUAWEI/hwldn-q/hwldn-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LLD-AL20",
+        "device": "HWLLD-H2",
+        "fingerprint": "HUAWEI/hwlld-h2/hwlld-h2:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LLD-L21",
+        "device": "HWLLD-H",
+        "fingerprint": "HUAWEI/hwlld-h/hwlld-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LLD-L31",
+        "device": "HWLLD-H",
+        "fingerprint": "HUAWEI/hwlld-h/hwlld-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LND-AL30",
+        "device": "HWLND-Q",
+        "fingerprint": "HUAWEI/hwlnd-q/hwlnd-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LND-AL40",
+        "device": "HWLND-Q",
+        "fingerprint": "HUAWEI/hwlnd-q/hwlnd-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LND-L29",
+        "device": "HWLND-Q",
+        "fingerprint": "HUAWEI/hwlnd-q/hwlnd-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LND-TL30",
+        "device": "HWLND-Q",
+        "fingerprint": "HUAWEI/hwlnd-q/hwlnd-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LND-TL40",
+        "device": "HWLND-Q",
+        "fingerprint": "HUAWEI/hwlnd-q/hwlnd-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LON-AL00",
+        "device": "HWLON",
+        "fingerprint": "HUAWEI/hwlon/hwlon:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LON-L29",
+        "device": "HWLON",
+        "fingerprint": "HUAWEI/hwlon/hwlon:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LYA-AL00",
+        "device": "HWLYA",
+        "fingerprint": "HUAWEI/hwlya/hwlya:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LYA-AL00P",
+        "device": "HWLYA",
+        "fingerprint": "HUAWEI/hwlya/hwlya:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LYA-AL10",
+        "device": "HWLYA",
+        "fingerprint": "HUAWEI/hwlya/hwlya:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LYA-L09",
+        "device": "HWLYA",
+        "fingerprint": "HUAWEI/hwlya/hwlya:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LYA-L0C",
+        "device": "HWLYA",
+        "fingerprint": "HUAWEI/hwlya/hwlya:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LYA-L29",
+        "device": "HWLYA",
+        "fingerprint": "HUAWEI/hwlya/hwlya:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LYA-TL00",
+        "device": "HWLYA",
+        "fingerprint": "HUAWEI/hwlya/hwlya:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "LYO-L21",
+        "device": "HWLYO-L6735",
+        "fingerprint": "HUAWEI/hwlyo-l6735/hwlyo-l6735:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Luno",
+        "device": "hwY330-U01",
+        "fingerprint": "HUAWEI/hwy330-u01/hwy330-u01:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "M220",
+        "device": "hwmediaqm220",
+        "fingerprint": "HUAWEI/hwmediaqm220/hwmediaqm220:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "M220c",
+        "device": "hwmediaqm220",
+        "fingerprint": "HUAWEI/hwmediaqm220/hwmediaqm220:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "M330",
+        "device": "m330",
+        "fingerprint": "HUAWEI/m330/m330:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "M380-10",
+        "device": "HWM380",
+        "fingerprint": "HUAWEI/hwm380/hwm380:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "M620",
+        "device": "M620",
+        "fingerprint": "HUAWEI/m620/m620:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "M860",
+        "device": "M860",
+        "fingerprint": "HUAWEI/m860/m860:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "M865",
+        "device": "hwm865",
+        "fingerprint": "HUAWEI/hwm865/hwm865:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MAR-AL00",
+        "device": "HWMAR",
+        "fingerprint": "HUAWEI/hwmar/hwmar:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MAR-LX1A",
+        "device": "HWMAR",
+        "fingerprint": "HUAWEI/hwmar/hwmar:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MAR-LX1Am",
+        "device": "HWMAR",
+        "fingerprint": "HUAWEI/hwmar/hwmar:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MAR-LX1B",
+        "device": "HWMAR",
+        "fingerprint": "HUAWEI/hwmar/hwmar:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MAR-LX1H",
+        "device": "HWMAR",
+        "fingerprint": "HUAWEI/hwmar/hwmar:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MAR-LX1M",
+        "device": "HWMAR",
+        "fingerprint": "HUAWEI/hwmar/hwmar:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MAR-LX1Mm",
+        "device": "HWMAR",
+        "fingerprint": "HUAWEI/hwmar/hwmar:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MAR-LX1R",
+        "device": "HWMAR",
+        "fingerprint": "HUAWEI/hwmar/hwmar:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MAR-LX2",
+        "device": "HWMAR",
+        "fingerprint": "HUAWEI/hwmar/hwmar:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MAR-LX2B",
+        "device": "HWMAR",
+        "fingerprint": "HUAWEI/hwmar/hwmar:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MAR-LX2J",
+        "device": "HWMAR",
+        "fingerprint": "HUAWEI/hwmar/hwmar:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MAR-LX2m",
+        "device": "HWMAR",
+        "fingerprint": "HUAWEI/hwmar/hwmar:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MAR-LX3A",
+        "device": "HWMAR",
+        "fingerprint": "HUAWEI/hwmar/hwmar:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MAR-LX3Am",
+        "device": "HWMAR",
+        "fingerprint": "HUAWEI/hwmar/hwmar:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MAR-LX3Bm",
+        "device": "HWMAR",
+        "fingerprint": "HUAWEI/hwmar/hwmar:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MAR-TL00",
+        "device": "HWMAR",
+        "fingerprint": "HUAWEI/hwmar/hwmar:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MHA-AL00",
+        "device": "HWMHA",
+        "fingerprint": "HUAWEI/hwmha/hwmha:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MHA-L09",
+        "device": "HWMHA",
+        "fingerprint": "HUAWEI/hwmha/hwmha:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MHA-L29",
+        "device": "HWMHA",
+        "fingerprint": "HUAWEI/hwmha/hwmha:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MHA-TL00",
+        "device": "HWMHA",
+        "fingerprint": "HUAWEI/hwmha/hwmha:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MLA-L01",
+        "device": "HWMLA",
+        "fingerprint": "HUAWEI/hwmla/hwmla:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MLA-L02",
+        "device": "HWMLA",
+        "fingerprint": "HUAWEI/hwmla/hwmla:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MLA-L03",
+        "device": "HWMLA",
+        "fingerprint": "HUAWEI/hwmla/hwmla:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MLA-L11",
+        "device": "HWMLA",
+        "fingerprint": "HUAWEI/hwmla/hwmla:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MLA-L12",
+        "device": "HWMLA",
+        "fingerprint": "HUAWEI/hwmla/hwmla:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MLA-L13",
+        "device": "HWMLA",
+        "fingerprint": "HUAWEI/hwmla/hwmla:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MLA-TL00",
+        "device": "HWMLA",
+        "fingerprint": "HUAWEI/hwmla/hwmla:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MLA-UL00",
+        "device": "HWMLA",
+        "fingerprint": "HUAWEI/hwmla/hwmla:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MRD-LX1",
+        "device": "HWMRD-M1",
+        "fingerprint": "HUAWEI/hwmrd-m1/hwmrd-m1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MRD-LX1F",
+        "device": "HWMRD-M1",
+        "fingerprint": "HUAWEI/hwmrd-m1/hwmrd-m1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MRD-LX1N",
+        "device": "HWMRD-M1",
+        "fingerprint": "HUAWEI/hwmrd-m1/hwmrd-m1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MRD-LX2",
+        "device": "HWMRD-M1",
+        "fingerprint": "HUAWEI/hwmrd-m1/hwmrd-m1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MRD-LX3",
+        "device": "HWMRD-M1",
+        "fingerprint": "HUAWEI/hwmrd-m1/hwmrd-m1:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MS4C",
+        "device": "hwMS4C",
+        "fingerprint": "HUAWEI/hwms4c/hwms4c:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MT-803G",
+        "device": "hwt802",
+        "fingerprint": "HUAWEI/hwt802/hwt802:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MT2L03",
+        "device": "hwMT2L03",
+        "fingerprint": "HUAWEI/hwmt2l03/hwmt2l03:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MT2L03",
+        "device": "hwMT2L03LITE",
+        "fingerprint": "HUAWEI/hwmt2l03lite/hwmt2l03lite:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MTC 950",
+        "device": "hwu8160",
+        "fingerprint": "HUAWEI/hwu8160/hwu8160:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MTC Mini",
+        "device": "hwu8160",
+        "fingerprint": "HUAWEI/hwu8160/hwu8160:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MYA-AL00",
+        "device": "HWMYA-L6737",
+        "fingerprint": "HUAWEI/hwmya-l6737/hwmya-l6737:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MYA-L02",
+        "device": "HWMYA-L6737",
+        "fingerprint": "HUAWEI/hwmya-l6737/hwmya-l6737:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MYA-L03",
+        "device": "HWMYA-L6737",
+        "fingerprint": "HUAWEI/hwmya-l6737/hwmya-l6737:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MYA-L11",
+        "device": "HWMYA-L6737",
+        "fingerprint": "HUAWEI/hwmya-l6737/hwmya-l6737:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MYA-L13",
+        "device": "HWMYA-L6737",
+        "fingerprint": "HUAWEI/hwmya-l6737/hwmya-l6737:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MYA-L22",
+        "device": "HWMYA-L6737",
+        "fingerprint": "HUAWEI/hwmya-l6737/hwmya-l6737:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MYA-L23",
+        "device": "HWMYA-L6737",
+        "fingerprint": "HUAWEI/hwmya-l6737/hwmya-l6737:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MYA-L41",
+        "device": "HWMYA-L6737",
+        "fingerprint": "HUAWEI/hwmya-l6737/hwmya-l6737:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MYA-TL00",
+        "device": "HWMYA-L6737",
+        "fingerprint": "HUAWEI/hwmya-l6737/hwmya-l6737:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "MYA-U29",
+        "device": "HWMYA-U6580",
+        "fingerprint": "HUAWEI/hwmya-u6580/hwmya-u6580:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "NEM-L21",
+        "device": "HNNEM-H",
+        "fingerprint": "HUAWEI/hnnem-h/hnnem-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "NEM-L22",
+        "device": "HNNEM-H",
+        "fingerprint": "HUAWEI/hnnem-h/hnnem-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "NEM-L51",
+        "device": "HNNEM-H",
+        "fingerprint": "HUAWEI/hnnem-h/hnnem-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "NEO-AL00",
+        "device": "HWNEO",
+        "fingerprint": "HUAWEI/hwneo/hwneo:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "NEO-L29",
+        "device": "HWNEO",
+        "fingerprint": "HUAWEI/hwneo/hwneo:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "NTS-AL00",
+        "device": "HWNTS",
+        "fingerprint": "HUAWEI/hwnts/hwnts:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "NXT-AL10",
+        "device": "HWNXT",
+        "fingerprint": "HUAWEI/hwnxt/hwnxt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "NXT-CL00",
+        "device": "HWNXT",
+        "fingerprint": "HUAWEI/hwnxt/hwnxt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "NXT-DL00",
+        "device": "HWNXT",
+        "fingerprint": "HUAWEI/hwnxt/hwnxt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "NXT-L09",
+        "device": "HWNXT",
+        "fingerprint": "HUAWEI/hwnxt/hwnxt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "NXT-L29",
+        "device": "HWNXT",
+        "fingerprint": "HUAWEI/hwnxt/hwnxt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "NXT-TL00",
+        "device": "HWNXT",
+        "fingerprint": "HUAWEI/hwnxt/hwnxt:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Nexus 6P",
+        "device": "angler",
+        "fingerprint": "HUAWEI/angler/angler:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "ORINOQUIA Auyantepui+Y221-U03",
+        "device": "QAY221-U",
+        "fingerprint": "HUAWEI/qay221-u/qay221-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Orange Daytona",
+        "device": "hwG510-0200",
+        "fingerprint": "HUAWEI/hwg510-0200/hwg510-0200:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Orange Gova",
+        "device": "hwG535-L11",
+        "fingerprint": "HUAWEI/hwg535-l11/hwg535-l11:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Orange Yumo",
+        "device": "hwG740-L00",
+        "fingerprint": "HUAWEI/hwg740-l00/hwg740-l00:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Orinoquia Auyantepui Y210",
+        "device": "oay210",
+        "fingerprint": "HUAWEI/oay210/oay210:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Orinoquia Gran Roraima + S7-722u",
+        "device": "hws7721u",
+        "fingerprint": "HUAWEI/hws7721u/hws7721u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Orinoquia Gran Roraima S7-702u",
+        "device": "hws7701u",
+        "fingerprint": "HUAWEI/hws7701u/hws7701u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "P6 S-L04",
+        "device": "hwP6s-l04",
+        "fingerprint": "HUAWEI/hwp6s-l04/hwp6s-l04:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PAR-AL00",
+        "device": "HWPAR",
+        "fingerprint": "HUAWEI/hwpar/hwpar:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PAR-L21",
+        "device": "HWPAR",
+        "fingerprint": "HUAWEI/hwpar/hwpar:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PAR-L29",
+        "device": "HWPAR",
+        "fingerprint": "HUAWEI/hwpar/hwpar:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PAR-LX1",
+        "device": "HWPAR",
+        "fingerprint": "HUAWEI/hwpar/hwpar:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PAR-LX1M",
+        "device": "HWPAR",
+        "fingerprint": "HUAWEI/hwpar/hwpar:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PAR-LX9",
+        "device": "HWPAR",
+        "fingerprint": "HUAWEI/hwpar/hwpar:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PAR-TL00",
+        "device": "HWPAR",
+        "fingerprint": "HUAWEI/hwpar/hwpar:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PAR-TL20",
+        "device": "HWPAR",
+        "fingerprint": "HUAWEI/hwpar/hwpar:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PCT-AL10",
+        "device": "HWPCT",
+        "fingerprint": "HUAWEI/hwpct/hwpct:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PCT-L29",
+        "device": "HWPCT",
+        "fingerprint": "HUAWEI/hwpct/hwpct:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PCT-TL10",
+        "device": "HWPCT",
+        "fingerprint": "HUAWEI/hwpct/hwpct:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PE-CL00",
+        "device": "hwPE",
+        "fingerprint": "HUAWEI/hwpe/hwpe:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PE-TL00M",
+        "device": "hwPE",
+        "fingerprint": "HUAWEI/hwpe/hwpe:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PE-TL10",
+        "device": "hwPE",
+        "fingerprint": "HUAWEI/hwpe/hwpe:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PE-TL20",
+        "device": "hwPE",
+        "fingerprint": "HUAWEI/hwpe/hwpe:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PE-UL00",
+        "device": "hwPE",
+        "fingerprint": "HUAWEI/hwpe/hwpe:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PIC-AL00",
+        "device": "HWPIC",
+        "fingerprint": "HUAWEI/hwpic/hwpic:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PIC-LX9",
+        "device": "HWPIC",
+        "fingerprint": "HUAWEI/hwpic/hwpic:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PIC-TL00",
+        "device": "HWPIC",
+        "fingerprint": "HUAWEI/hwpic/hwpic:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PLK-AL10",
+        "device": "HWPLK",
+        "fingerprint": "HUAWEI/hwplk/hwplk:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PLK-CL00",
+        "device": "HWPLK",
+        "fingerprint": "HUAWEI/hwplk/hwplk:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PLK-L01",
+        "device": "HWPLK",
+        "fingerprint": "HUAWEI/hwplk/hwplk:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PLK-TL00",
+        "device": "HWPLK",
+        "fingerprint": "HUAWEI/hwplk/hwplk:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PLK-TL01H",
+        "device": "HWPLK",
+        "fingerprint": "HUAWEI/hwplk/hwplk:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PLK-UL00",
+        "device": "HWPLK",
+        "fingerprint": "HUAWEI/hwplk/hwplk:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "POT-LX2J",
+        "device": "HWPOT-H",
+        "fingerprint": "HUAWEI/hwpot-h/hwpot-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PRA-LA1",
+        "device": "HWPRA-H",
+        "fingerprint": "HUAWEI/hwpra-h/hwpra-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PRA-LX1",
+        "device": "HWPRA-H",
+        "fingerprint": "HUAWEI/hwpra-h/hwpra-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PRA-LX2",
+        "device": "HWPRA-H",
+        "fingerprint": "HUAWEI/hwpra-h/hwpra-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "PRA-LX3",
+        "device": "HWPRA-H",
+        "fingerprint": "HUAWEI/hwpra-h/hwpra-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Pelephone-Y300-",
+        "device": "hwY300-0151",
+        "fingerprint": "HUAWEI/hwy300-0151/hwy300-0151:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Personal Huawei G620S",
+        "device": "hwG620S-L03",
+        "fingerprint": "HUAWEI/hwg620s-l03/hwg620s-l03:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Personal Huawei Y550",
+        "device": "hwY550-L03",
+        "fingerprint": "HUAWEI/hwy550-l03/hwy550-l03:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Prism II",
+        "device": "hwu8686",
+        "fingerprint": "HUAWEI/hwu8686/hwu8686:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Pulse",
+        "device": "U8220",
+        "fingerprint": "HUAWEI/u8220/u8220:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Q22",
+        "device": "HWQ22",
+        "fingerprint": "HUAWEI/hwq22/hwq22:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "QH-10",
+        "device": "hwt102",
+        "fingerprint": "HUAWEI/hwt102/hwt102:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "RNE-AL00",
+        "device": "HWRNE",
+        "fingerprint": "HUAWEI/hwrne/hwrne:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "RNE-L01",
+        "device": "HWRNE",
+        "fingerprint": "HUAWEI/hwrne/hwrne:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "RNE-L02",
+        "device": "HWRNE",
+        "fingerprint": "HUAWEI/hwrne/hwrne:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "RNE-L03",
+        "device": "HWRNE",
+        "fingerprint": "HUAWEI/hwrne/hwrne:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "RNE-L21",
+        "device": "HWRNE",
+        "fingerprint": "HUAWEI/hwrne/hwrne:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "RNE-L22",
+        "device": "HWRNE",
+        "fingerprint": "HUAWEI/hwrne/hwrne:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "RNE-L23",
+        "device": "HWRNE",
+        "fingerprint": "HUAWEI/hwrne/hwrne:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "RVL-AL09",
+        "device": "HWRVL",
+        "fingerprint": "HUAWEI/hwrvl/hwrvl:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "S8-701u",
+        "device": "hws8701",
+        "fingerprint": "HUAWEI/hws8701/hws8701:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "S8-701w",
+        "device": "hws8701",
+        "fingerprint": "HUAWEI/hws8701/hws8701:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "S8-821w",
+        "device": "hwt1821l",
+        "fingerprint": "HUAWEI/hwt1821l/hwt1821l:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "SCC-U21",
+        "device": "hnSCC-Q",
+        "fingerprint": "HUAWEI/hnscc-q/hnscc-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "SCL-AL00",
+        "device": "hnSCL-Q",
+        "fingerprint": "HUAWEI/hnscl-q/hnscl-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "SCL-CL00",
+        "device": "hnSCL-Q",
+        "fingerprint": "HUAWEI/hnscl-q/hnscl-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "SCL-TL00",
+        "device": "hnSCL-Q",
+        "fingerprint": "HUAWEI/hnscl-q/hnscl-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "SCL-TL00H",
+        "device": "hnSCL-Q",
+        "fingerprint": "HUAWEI/hnscl-q/hnscl-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "SLA-L02",
+        "device": "HWSLA-Q",
+        "fingerprint": "HUAWEI/hwsla-q/hwsla-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "SLA-L03",
+        "device": "HWSLA-Q",
+        "fingerprint": "HUAWEI/hwsla-q/hwsla-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "SLA-L22",
+        "device": "HWSLA-Q",
+        "fingerprint": "HUAWEI/hwsla-q/hwsla-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "SLA-L23",
+        "device": "HWSLA-Q",
+        "fingerprint": "HUAWEI/hwsla-q/hwsla-q:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "SNE-AL00",
+        "device": "HWSNE",
+        "fingerprint": "HUAWEI/hwsne/hwsne:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "SNE-LX1",
+        "device": "HWSNE",
+        "fingerprint": "HUAWEI/hwsne/hwsne:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "SNE-LX2",
+        "device": "HWSNE",
+        "fingerprint": "HUAWEI/hwsne/hwsne:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "SNE-LX3",
+        "device": "HWSNE",
+        "fingerprint": "HUAWEI/hwsne/hwsne:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "STF-AL00",
+        "device": "HWSTF",
+        "fingerprint": "HUAWEI/hwstf/hwstf:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "STF-AL10",
+        "device": "HWSTF",
+        "fingerprint": "HUAWEI/hwstf/hwstf:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "STF-L09",
+        "device": "HWSTF",
+        "fingerprint": "HUAWEI/hwstf/hwstf:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "STF-L09S",
+        "device": "HWSTF",
+        "fingerprint": "HUAWEI/hwstf/hwstf:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "STF-TL10",
+        "device": "HWSTF",
+        "fingerprint": "HUAWEI/hwstf/hwstf:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "STK-L21",
+        "device": "HWSTK-HF",
+        "fingerprint": "HUAWEI/hwstk-hf/hwstk-hf:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "STK-L22",
+        "device": "HWSTK-HF",
+        "fingerprint": "HUAWEI/hwstk-hf/hwstk-hf:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "STK-LX1",
+        "device": "HWSTK-HF",
+        "fingerprint": "HUAWEI/hwstk-hf/hwstk-hf:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "STK-LX3",
+        "device": "HWSTK-HF",
+        "fingerprint": "HUAWEI/hwstk-hf/hwstk-hf:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Speedsurfer",
+        "device": "hwG535-L11",
+        "fingerprint": "HUAWEI/hwg535-l11/hwg535-l11:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "T-101",
+        "device": "hwt101",
+        "fingerprint": "HUAWEI/hwt101/hwt101:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "T1-821w",
+        "device": "hwt1821l",
+        "fingerprint": "HUAWEI/hwt1821l/hwt1821l:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "T1-823L",
+        "device": "hwt1821l",
+        "fingerprint": "HUAWEI/hwt1821l/hwt1821l:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "T1-A21L",
+        "device": "hwt1a21l",
+        "fingerprint": "HUAWEI/hwt1a21l/hwt1a21l:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "T1-A21W",
+        "device": "hwt1a21l",
+        "fingerprint": "HUAWEI/hwt1a21l/hwt1a21l:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "T1-A21w",
+        "device": "hwt1a21l",
+        "fingerprint": "HUAWEI/hwt1a21l/hwt1a21l:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "T1-A22L",
+        "device": "hwt1a21l",
+        "fingerprint": "HUAWEI/hwt1a21l/hwt1a21l:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "T1-A23L",
+        "device": "hwt1a21l",
+        "fingerprint": "HUAWEI/hwt1a21l/hwt1a21l:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TB01",
+        "device": "M620",
+        "fingerprint": "HUAWEI/m620/m620:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TIT-AL00",
+        "device": "HWTIT-L6735",
+        "fingerprint": "HUAWEI/hwtit-l6735/hwtit-l6735:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TIT-L01",
+        "device": "HWTIT-L6735",
+        "fingerprint": "HUAWEI/hwtit-l6735/hwtit-l6735:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TNY-AL00",
+        "device": "HWTNY",
+        "fingerprint": "HUAWEI/hwtny/hwtny:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "TNY-TL00",
+        "device": "HWTNY",
+        "fingerprint": "HUAWEI/hwtny/hwtny:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Tactile internet",
+        "device": "U8100",
+        "fingerprint": "HUAWEI/u8100/u8100:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "U8100",
+        "device": "U8100",
+        "fingerprint": "HUAWEI/u8100/u8100:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "U8220",
+        "device": "U8220",
+        "fingerprint": "HUAWEI/u8220/u8220:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "U8220PLUS",
+        "device": "U8220",
+        "fingerprint": "HUAWEI/u8220/u8220:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "U8230",
+        "device": "U8230",
+        "fingerprint": "HUAWEI/u8230/u8230:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "U8652",
+        "device": "hwu8652",
+        "fingerprint": "HUAWEI/hwu8652/hwu8652:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "U8800",
+        "device": "hwu8800-51",
+        "fingerprint": "HUAWEI/hwu8800-51/hwu8800-51:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "U8800-51",
+        "device": "hwu8800-51",
+        "fingerprint": "HUAWEI/hwu8800-51/hwu8800-51:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "U8812D",
+        "device": "hwu8812D",
+        "fingerprint": "HUAWEI/hwu8812d/hwu8812d:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "U8832D",
+        "device": "hwu8832D",
+        "fingerprint": "HUAWEI/hwu8832d/hwu8832d:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "U8836D",
+        "device": "hwu8836D",
+        "fingerprint": "HUAWEI/hwu8836d/hwu8836d:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "U9500",
+        "device": "hwu9500",
+        "fingerprint": "HUAWEI/hwu9500/hwu9500:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "USCCADR3305",
+        "device": "hwm865",
+        "fingerprint": "HUAWEI/hwm865/hwm865:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Ultym5",
+        "device": "hwG535-L11",
+        "fingerprint": "HUAWEI/hwg535-l11/hwg535-l11:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "V8510",
+        "device": "hwY330-U11",
+        "fingerprint": "HUAWEI/hwy330-u11/hwy330-u11:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "VCE-AL00",
+        "device": "HWVCE",
+        "fingerprint": "HUAWEI/hwvce/hwvce:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "VCE-L22",
+        "device": "HWVCE",
+        "fingerprint": "HUAWEI/hwvce/hwvce:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "VCE-TL00",
+        "device": "HWVCE",
+        "fingerprint": "HUAWEI/hwvce/hwvce:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "VIE-AL10",
+        "device": "HWVIE",
+        "fingerprint": "HUAWEI/hwvie/hwvie:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "VIE-L09",
+        "device": "HWVIE",
+        "fingerprint": "HUAWEI/hwvie/hwvie:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "VIE-L29",
+        "device": "HWVIE",
+        "fingerprint": "HUAWEI/hwvie/hwvie:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "VIETTEL V8506",
+        "device": "HWY511-U",
+        "fingerprint": "HUAWEI/hwy511-u/hwy511-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "VKY-AL00",
+        "device": "HWVKY",
+        "fingerprint": "HUAWEI/hwvky/hwvky:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "VKY-L09",
+        "device": "HWVKY",
+        "fingerprint": "HUAWEI/hwvky/hwvky:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "VKY-L29",
+        "device": "HWVKY",
+        "fingerprint": "HUAWEI/hwvky/hwvky:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "VKY-TL00",
+        "device": "HWVKY",
+        "fingerprint": "HUAWEI/hwvky/hwvky:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "VOG-AL00",
+        "device": "HWVOG",
+        "fingerprint": "HUAWEI/hwvog/hwvog:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "VOG-AL10",
+        "device": "HWVOG",
+        "fingerprint": "HUAWEI/hwvog/hwvog:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "VOG-L04",
+        "device": "HWVOG",
+        "fingerprint": "HUAWEI/hwvog/hwvog:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "VOG-L09",
+        "device": "HWVOG",
+        "fingerprint": "HUAWEI/hwvog/hwvog:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "VOG-L29",
+        "device": "HWVOG",
+        "fingerprint": "HUAWEI/hwvog/hwvog:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "VOG-TL00",
+        "device": "HWVOG",
+        "fingerprint": "HUAWEI/hwvog/hwvog:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "VTR-AL00",
+        "device": "HWVTR",
+        "fingerprint": "HUAWEI/hwvtr/hwvtr:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "VTR-L09",
+        "device": "HWVTR",
+        "fingerprint": "HUAWEI/hwvtr/hwvtr:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "VTR-L29",
+        "device": "HWVTR",
+        "fingerprint": "HUAWEI/hwvtr/hwvtr:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "VTR-TL00",
+        "device": "HWVTR",
+        "fingerprint": "HUAWEI/hwvtr/hwvtr:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Videocon_V7400",
+        "device": "U8100",
+        "fingerprint": "HUAWEI/u8100/u8100:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Vodafone 845",
+        "device": "U8120",
+        "fingerprint": "HUAWEI/u8120/u8120:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Vodafone 858",
+        "device": "hwu8160",
+        "fingerprint": "HUAWEI/hwu8160/hwu8160:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "WAS-L03T",
+        "device": "HWWAS-H",
+        "fingerprint": "HUAWEI/hwwas-h/hwwas-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "WAS-LX1",
+        "device": "HWWAS-H",
+        "fingerprint": "HUAWEI/hwwas-h/hwwas-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "WAS-LX1A",
+        "device": "HWWAS-H",
+        "fingerprint": "HUAWEI/hwwas-h/hwwas-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "WAS-LX2",
+        "device": "HWWAS-H",
+        "fingerprint": "HUAWEI/hwwas-h/hwwas-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "WAS-LX2J",
+        "device": "HWWAS-H",
+        "fingerprint": "HUAWEI/hwwas-h/hwwas-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "WAS-LX3",
+        "device": "HWWAS-H",
+        "fingerprint": "HUAWEI/hwwas-h/hwwas-h:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Y220-U00",
+        "device": "HWY220-U",
+        "fingerprint": "HUAWEI/hwy220-u/hwy220-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Y220-U05",
+        "device": "HWY220-U",
+        "fingerprint": "HUAWEI/hwy220-u/hwy220-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Y220-U10",
+        "device": "HWY220-U",
+        "fingerprint": "HUAWEI/hwy220-u/hwy220-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Y220-U17",
+        "device": "HWY220-U",
+        "fingerprint": "HUAWEI/hwy220-u/hwy220-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Y320-U01",
+        "device": "HWY320",
+        "fingerprint": "HUAWEI/hwy320/hwy320:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Y340-U081",
+        "device": "hwY340-U081",
+        "fingerprint": "HUAWEI/hwy340-u081/hwy340-u081:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Y511-T00",
+        "device": "HWY511-T",
+        "fingerprint": "HUAWEI/hwy511-t/hwy511-t:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Y511-U00",
+        "device": "HWY511-U",
+        "fingerprint": "HUAWEI/hwy511-u/hwy511-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Y538",
+        "device": "hwY538",
+        "fingerprint": "HUAWEI/hwy538/hwy538:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Y541-U02",
+        "device": "HWY541-U",
+        "fingerprint": "HUAWEI/hwy541-u/hwy541-u:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Y545-U05",
+        "device": "hwY545-U05",
+        "fingerprint": "HUAWEI/hwy545-u05/hwy545-u05:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Y550-L02",
+        "device": "hwY550-L02",
+        "fingerprint": "HUAWEI/hwy550-l02/hwy550-l02:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Y550-L03",
+        "device": "hwY550-L03",
+        "fingerprint": "HUAWEI/hwy550-l03/hwy550-l03:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Y635-L01",
+        "device": "hwY635",
+        "fingerprint": "HUAWEI/hwy635/hwy635:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Y635-L02",
+        "device": "hwY635",
+        "fingerprint": "HUAWEI/hwy635/hwy635:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Y635-L03",
+        "device": "hwY635",
+        "fingerprint": "HUAWEI/hwy635/hwy635:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Y635-L21",
+        "device": "hwY635",
+        "fingerprint": "HUAWEI/hwy635/hwy635:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "Y635-TL00",
+        "device": "hwY635",
+        "fingerprint": "HUAWEI/hwy635/hwy635:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "YAL-AL00",
+        "device": "HWYAL",
+        "fingerprint": "HUAWEI/hwyal/hwyal:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "YAL-AL10",
+        "device": "HWYAL",
+        "fingerprint": "HUAWEI/hwyal/hwyal:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "YAL-L21",
+        "device": "HWYAL",
+        "fingerprint": "HUAWEI/hwyal/hwyal:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "YAL-L41",
+        "device": "HWYAL",
+        "fingerprint": "HUAWEI/hwyal/hwyal:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "YAL-TL00",
+        "device": "HWYAL",
+        "fingerprint": "HUAWEI/hwyal/hwyal:12/SP1A.210812.016/7769886:user/release-keys"
+    },
+    {
+        "model": "eH811",
+        "device": "hweH811",
+        "fingerprint": "HUAWEI/hweh811/hweh811:12/SP1A.210812.016/7769886:user/release-keys"
+    }
+]

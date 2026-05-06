@@ -1,0 +1,837 @@
+[
+    {
+        "model": "A0001",
+        "device": "A0001",
+        "fingerprint": "ONEPLUS/a0001/a0001:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "AC2001",
+        "device": "Nord",
+        "fingerprint": "ONEPLUS/nord/nord:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "AC2003",
+        "device": "Nord",
+        "fingerprint": "ONEPLUS/nord/nord:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "BE2011",
+        "device": "OnePlusN100",
+        "fingerprint": "ONEPLUS/oneplusn100/oneplusn100:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "BE2012",
+        "device": "OnePlusN100TMO",
+        "fingerprint": "ONEPLUS/oneplusn100tmo/oneplusn100tmo:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "BE2013",
+        "device": "OnePlusN100",
+        "fingerprint": "ONEPLUS/oneplusn100/oneplusn100:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "BE2013",
+        "device": "OnePlusN100TMO",
+        "fingerprint": "ONEPLUS/oneplusn100tmo/oneplusn100tmo:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "BE2015",
+        "device": "OnePlusN100METRO",
+        "fingerprint": "ONEPLUS/oneplusn100metro/oneplusn100metro:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "BE2025",
+        "device": "OnePlusN10METRO",
+        "fingerprint": "ONEPLUS/oneplusn10metro/oneplusn10metro:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "BE2026",
+        "device": "OnePlusN10",
+        "fingerprint": "ONEPLUS/oneplusn10/oneplusn10:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "BE2028",
+        "device": "OnePlusN10",
+        "fingerprint": "ONEPLUS/oneplusn10/oneplusn10:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "BE2028",
+        "device": "OnePlusN10TMO",
+        "fingerprint": "ONEPLUS/oneplusn10tmo/oneplusn10tmo:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "BE2029",
+        "device": "OnePlusN10",
+        "fingerprint": "ONEPLUS/oneplusn10/oneplusn10:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "BE2029",
+        "device": "OnePlusN10METRO",
+        "fingerprint": "ONEPLUS/oneplusn10metro/oneplusn10metro:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "BE2029",
+        "device": "OnePlusN10TMO",
+        "fingerprint": "ONEPLUS/oneplusn10tmo/oneplusn10tmo:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "C00",
+        "device": "Cebu",
+        "fingerprint": "ONEPLUS/cebu/cebu:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "CPH2381",
+        "device": "OP535DL1",
+        "fingerprint": "ONEPLUS/op535dl1/op535dl1:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "CPH2399",
+        "device": "OP557AL1",
+        "fingerprint": "ONEPLUS/op557al1/op557al1:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "CPH2401",
+        "device": "OP557AL1",
+        "fingerprint": "ONEPLUS/op557al1/op557al1:14/UP1A.231005.007/11480754:user/release-keys"
+    },
+    {
+        "model": "CPH2409",
+        "device": "OP535DL1",
+        "fingerprint": "ONEPLUS/op535dl1/op535dl1:14/UP1A.231005.007/11480754:user/release-keys"
+    },
+    {
+        "model": "CPH2411",
+        "device": "OP5566L1",
+        "fingerprint": "ONEPLUS/op5566l1/op5566l1:14/UP1A.231005.007/11480754:user/release-keys"
+    },
+    {
+        "model": "CPH2413",
+        "device": "OP5552L1",
+        "fingerprint": "ONEPLUS/op5552l1/op5552l1:14/UP1A.231005.007/11480754:user/release-keys"
+    },
+    {
+        "model": "CPH2415",
+        "device": "OP5552L1",
+        "fingerprint": "ONEPLUS/op5552l1/op5552l1:14/UP1A.231005.007/11480754:user/release-keys"
+    },
+    {
+        "model": "CPH2417",
+        "device": "OP5552L1",
+        "fingerprint": "ONEPLUS/op5552l1/op5552l1:14/UP1A.231005.007/11480754:user/release-keys"
+    },
+    {
+        "model": "CPH2419",
+        "device": "OP5552L1",
+        "fingerprint": "ONEPLUS/op5552l1/op5552l1:14/UP1A.231005.007/11480754:user/release-keys"
+    },
+    {
+        "model": "CPH2423",
+        "device": "OP5567L1",
+        "fingerprint": "ONEPLUS/op5567l1/op5567l1:14/UP1A.231005.007/11480754:user/release-keys"
+    },
+    {
+        "model": "CPH2447",
+        "device": "OP594DL1",
+        "fingerprint": "ONEPLUS/op594dl1/op594dl1:14/UP1A.231005.007/11480754:user/release-keys"
+    },
+    {
+        "model": "CPH2449",
+        "device": "OP594DL1",
+        "fingerprint": "ONEPLUS/op594dl1/op594dl1:14/UP1A.231005.007/11480754:user/release-keys"
+    },
+    {
+        "model": "CPH2451",
+        "device": "OP594DL1",
+        "fingerprint": "ONEPLUS/op594dl1/op594dl1:14/UP1A.231005.007/11480754:user/release-keys"
+    },
+    {
+        "model": "CPH2459",
+        "device": "OP5159L1",
+        "fingerprint": "ONEPLUS/op5159l1/op5159l1:14/UP1A.231005.007/11480754:user/release-keys"
+    },
+    {
+        "model": "CPH2465",
+        "device": "OP5958L1",
+        "fingerprint": "ONEPLUS/op5958l1/op5958l1:14/UP1A.231005.007/11480754:user/release-keys"
+    },
+    {
+        "model": "CPH2467",
+        "device": "OP5958L1",
+        "fingerprint": "ONEPLUS/op5958l1/op5958l1:14/UP1A.231005.007/11480754:user/release-keys"
+    },
+    {
+        "model": "CPH2487",
+        "device": "OP5961L1",
+        "fingerprint": "ONEPLUS/op5961l1/op5961l1:14/UP1A.231005.007/11480754:user/release-keys"
+    },
+    {
+        "model": "CPH2491",
+        "device": "OP556FL1",
+        "fingerprint": "ONEPLUS/op556fl1/op556fl1:14/UP1A.231005.007/11480754:user/release-keys"
+    },
+    {
+        "model": "CPH2493",
+        "device": "OP556FL1",
+        "fingerprint": "ONEPLUS/op556fl1/op556fl1:14/UP1A.231005.007/11480754:user/release-keys"
+    },
+    {
+        "model": "CPH2513",
+        "device": "OP5958L1",
+        "fingerprint": "ONEPLUS/op5958l1/op5958l1:15/AP3A.241205.013/12621605:user/release-keys"
+    },
+    {
+        "model": "CPH2515",
+        "device": "OP5958L1",
+        "fingerprint": "ONEPLUS/op5958l1/op5958l1:15/AP3A.241205.013/12621605:user/release-keys"
+    },
+    {
+        "model": "CPH2551",
+        "device": "OP5973L1",
+        "fingerprint": "ONEPLUS/op5973l1/op5973l1:15/AP3A.241205.013/12621605:user/release-keys"
+    },
+    {
+        "model": "CPH2573",
+        "device": "OP595DL1",
+        "fingerprint": "ONEPLUS/op595dl1/op595dl1:15/AP3A.241205.013/12621605:user/release-keys"
+    },
+    {
+        "model": "CPH2581",
+        "device": "OP595DL1",
+        "fingerprint": "ONEPLUS/op595dl1/op595dl1:15/AP3A.241205.013/12621605:user/release-keys"
+    },
+    {
+        "model": "CPH2583",
+        "device": "OP595DL1",
+        "fingerprint": "ONEPLUS/op595dl1/op595dl1:15/AP3A.241205.013/12621605:user/release-keys"
+    },
+    {
+        "model": "CPH2585",
+        "device": "OP5D35L1",
+        "fingerprint": "ONEPLUS/op5d35l1/op5d35l1:15/AP3A.241205.013/12621605:user/release-keys"
+    },
+    {
+        "model": "CPH2605",
+        "device": "OP5955L1",
+        "fingerprint": "ONEPLUS/op5955l1/op5955l1:15/AP3A.241205.013/12621605:user/release-keys"
+    },
+    {
+        "model": "CPH2609",
+        "device": "OP5D35L1",
+        "fingerprint": "ONEPLUS/op5d35l1/op5d35l1:15/AP3A.241205.013/12621605:user/release-keys"
+    },
+    {
+        "model": "CPH2611",
+        "device": "OP5D35L1",
+        "fingerprint": "ONEPLUS/op5d35l1/op5d35l1:15/AP3A.241205.013/12621605:user/release-keys"
+    },
+    {
+        "model": "CPH2613",
+        "device": "OP5D3FL1",
+        "fingerprint": "ONEPLUS/op5d3fl1/op5d3fl1:15/AP3A.241205.013/12621605:user/release-keys"
+    },
+    {
+        "model": "CPH2619",
+        "device": "OP5D49L1",
+        "fingerprint": "ONEPLUS/op5d49l1/op5d49l1:15/AP3A.241205.013/12621605:user/release-keys"
+    },
+    {
+        "model": "CPH2621",
+        "device": "OP5D49L1",
+        "fingerprint": "ONEPLUS/op5d49l1/op5d49l1:15/AP3A.241205.013/12621605:user/release-keys"
+    },
+    {
+        "model": "CPH2645",
+        "device": "OP5D3BL1",
+        "fingerprint": "ONEPLUS/op5d3bl1/op5d3bl1:15/AP3A.241205.013/12621605:user/release-keys"
+    },
+    {
+        "model": "CPH2647",
+        "device": "OP5D3BL1",
+        "fingerprint": "ONEPLUS/op5d3bl1/op5d3bl1:15/AP3A.241205.013/12621605:user/release-keys"
+    },
+    {
+        "model": "CPH2649",
+        "device": "OP5D55L1",
+        "fingerprint": "ONEPLUS/op5d55l1/op5d55l1:15/AP3A.241205.013/12621605:user/release-keys"
+    },
+    {
+        "model": "CPH2653",
+        "device": "OP5D55L1",
+        "fingerprint": "ONEPLUS/op5d55l1/op5d55l1:15/AP3A.241205.013/12621605:user/release-keys"
+    },
+    {
+        "model": "CPH2655",
+        "device": "OP5D55L1",
+        "fingerprint": "ONEPLUS/op5d55l1/op5d55l1:15/AP3A.241205.013/12621605:user/release-keys"
+    },
+    {
+        "model": "CPH2661",
+        "device": "OP5E93L1",
+        "fingerprint": "ONEPLUS/op5e93l1/op5e93l1:15/AP3A.241205.013/12621605:user/release-keys"
+    },
+    {
+        "model": "CPH2663",
+        "device": "OP5E93L1",
+        "fingerprint": "ONEPLUS/op5e93l1/op5e93l1:15/AP3A.241205.013/12621605:user/release-keys"
+    },
+    {
+        "model": "CPH2691",
+        "device": "OP5D3BL1",
+        "fingerprint": "ONEPLUS/op5d3bl1/op5d3bl1:15/AP3A.241205.013/12621605:user/release-keys"
+    },
+    {
+        "model": "CPH2707",
+        "device": "OP6131L1",
+        "fingerprint": "ONEPLUS/op6131l1/op6131l1:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "CPH2709",
+        "device": "OP6131L1",
+        "fingerprint": "ONEPLUS/op6131l1/op6131l1:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "CPH2717",
+        "device": "OP613BL1",
+        "fingerprint": "ONEPLUS/op613bl1/op613bl1:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "CPH2719",
+        "device": "OP613BL1",
+        "fingerprint": "ONEPLUS/op613bl1/op613bl1:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "CPH2723",
+        "device": "OP612BL1",
+        "fingerprint": "ONEPLUS/op612bl1/op612bl1:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "CPH2745",
+        "device": "OP611FL1",
+        "fingerprint": "ONEPLUS/op611fl1/op611fl1:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "CPH2747",
+        "device": "OP611FL1",
+        "fingerprint": "ONEPLUS/op611fl1/op611fl1:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "CPH2749",
+        "device": "OP611FL1",
+        "fingerprint": "ONEPLUS/op611fl1/op611fl1:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "CPH2767",
+        "device": "OP612DL1",
+        "fingerprint": "ONEPLUS/op612dl1/op612dl1:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "CPH2769",
+        "device": "OP612DL1",
+        "fingerprint": "ONEPLUS/op612dl1/op612dl1:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "CPH2771",
+        "device": "OP612DL1",
+        "fingerprint": "ONEPLUS/op612dl1/op612dl1:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "CPH2793",
+        "device": "OP6135L1",
+        "fingerprint": "ONEPLUS/op6135l1/op6135l1:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "CPH2795",
+        "device": "OP6135L1",
+        "fingerprint": "ONEPLUS/op6135l1/op6135l1:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "D00",
+        "device": "Dubai",
+        "fingerprint": "ONEPLUS/dubai/dubai:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "DE2117",
+        "device": "OnePlusN200",
+        "fingerprint": "ONEPLUS/oneplusn200/oneplusn200:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "DE2118",
+        "device": "OnePlusN200TMO",
+        "fingerprint": "ONEPLUS/oneplusn200tmo/oneplusn200tmo:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "DN2101",
+        "device": "OP515BL1",
+        "fingerprint": "ONEPLUS/op515bl1/op515bl1:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "DN2103",
+        "device": "OP515BL1",
+        "fingerprint": "ONEPLUS/op515bl1/op515bl1:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "E00",
+        "device": "Edinburgh",
+        "fingerprint": "ONEPLUS/edinburgh/edinburgh:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "EB2101",
+        "device": "OnePlusNordCE",
+        "fingerprint": "ONEPLUS/oneplusnordce/oneplusnordce:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "EB2103",
+        "device": "OnePlusNordCE",
+        "fingerprint": "ONEPLUS/oneplusnordce/oneplusnordce:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "GM1900",
+        "device": "OnePlus7",
+        "fingerprint": "ONEPLUS/oneplus7/oneplus7:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "GM1901",
+        "device": "OnePlus7",
+        "fingerprint": "ONEPLUS/oneplus7/oneplus7:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "GM1903",
+        "device": "OnePlus7",
+        "fingerprint": "ONEPLUS/oneplus7/oneplus7:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "GM1905",
+        "device": "OnePlus7",
+        "fingerprint": "ONEPLUS/oneplus7/oneplus7:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "GM1910",
+        "device": "OnePlus7Pro",
+        "fingerprint": "ONEPLUS/oneplus7pro/oneplus7pro:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "GM1911",
+        "device": "OnePlus7Pro",
+        "fingerprint": "ONEPLUS/oneplus7pro/oneplus7pro:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "GM1913",
+        "device": "OnePlus7Pro",
+        "fingerprint": "ONEPLUS/oneplus7pro/oneplus7pro:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "GM1915",
+        "device": "OnePlus7ProTMO",
+        "fingerprint": "ONEPLUS/oneplus7protmo/oneplus7protmo:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "GM1917",
+        "device": "OnePlus7Pro",
+        "fingerprint": "ONEPLUS/oneplus7pro/oneplus7pro:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "GM1920",
+        "device": "OnePlus7ProNR",
+        "fingerprint": "ONEPLUS/oneplus7pronr/oneplus7pronr:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "GM1925",
+        "device": "OP7ProNRSpr",
+        "fingerprint": "ONEPLUS/op7pronrspr/op7pronrspr:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "GN2200",
+        "device": "OP515AL1",
+        "fingerprint": "ONEPLUS/op515al1/op515al1:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "H80A",
+        "device": "songni",
+        "fingerprint": "ONEPLUS/songni/songni:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "H93A",
+        "device": "songni",
+        "fingerprint": "ONEPLUS/songni/songni:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "HD1900",
+        "device": "OnePlus7T",
+        "fingerprint": "ONEPLUS/oneplus7t/oneplus7t:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "HD1901",
+        "device": "OnePlus7T",
+        "fingerprint": "ONEPLUS/oneplus7t/oneplus7t:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "HD1903",
+        "device": "OnePlus7T",
+        "fingerprint": "ONEPLUS/oneplus7t/oneplus7t:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "HD1905",
+        "device": "OnePlus7T",
+        "fingerprint": "ONEPLUS/oneplus7t/oneplus7t:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "HD1907",
+        "device": "OnePlus7TTMO",
+        "fingerprint": "ONEPLUS/oneplus7ttmo/oneplus7ttmo:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "HD1910",
+        "device": "OnePlus7TPro",
+        "fingerprint": "ONEPLUS/oneplus7tpro/oneplus7tpro:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "HD1911",
+        "device": "OnePlus7TPro",
+        "fingerprint": "ONEPLUS/oneplus7tpro/oneplus7tpro:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "HD1913",
+        "device": "OnePlus7TPro",
+        "fingerprint": "ONEPLUS/oneplus7tpro/oneplus7tpro:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "HD1925",
+        "device": "OnePlus7TProNR",
+        "fingerprint": "ONEPLUS/oneplus7tpronr/oneplus7tpronr:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "IN2010",
+        "device": "OnePlus8",
+        "fingerprint": "ONEPLUS/oneplus8/oneplus8:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "IN2011",
+        "device": "OnePlus8",
+        "fingerprint": "ONEPLUS/oneplus8/oneplus8:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "IN2013",
+        "device": "OnePlus8",
+        "fingerprint": "ONEPLUS/oneplus8/oneplus8:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "IN2015",
+        "device": "OnePlus8",
+        "fingerprint": "ONEPLUS/oneplus8/oneplus8:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "IN2015",
+        "device": "OnePlus8Visible",
+        "fingerprint": "ONEPLUS/oneplus8visible/oneplus8visible:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "IN2015",
+        "device": "OnePlus8TMO",
+        "fingerprint": "ONEPLUS/oneplus8tmo/oneplus8tmo:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "IN2017",
+        "device": "OnePlus8TMO",
+        "fingerprint": "ONEPLUS/oneplus8tmo/oneplus8tmo:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "IN2019",
+        "device": "OnePlus8VZW",
+        "fingerprint": "ONEPLUS/oneplus8vzw/oneplus8vzw:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "IN2020",
+        "device": "OnePlus8Pro",
+        "fingerprint": "ONEPLUS/oneplus8pro/oneplus8pro:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "IN2021",
+        "device": "OnePlus8Pro",
+        "fingerprint": "ONEPLUS/oneplus8pro/oneplus8pro:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "IN2023",
+        "device": "OnePlus8Pro",
+        "fingerprint": "ONEPLUS/oneplus8pro/oneplus8pro:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "IN2025",
+        "device": "OnePlus8Pro",
+        "fingerprint": "ONEPLUS/oneplus8pro/oneplus8pro:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "IV2201",
+        "device": "OP555BL1",
+        "fingerprint": "ONEPLUS/op555bl1/op555bl1:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "KB2000",
+        "device": "OnePlus8T",
+        "fingerprint": "ONEPLUS/oneplus8t/oneplus8t:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "KB2001",
+        "device": "OnePlus8T",
+        "fingerprint": "ONEPLUS/oneplus8t/oneplus8t:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "KB2003",
+        "device": "OnePlus8T",
+        "fingerprint": "ONEPLUS/oneplus8t/oneplus8t:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "KB2005",
+        "device": "OnePlus8T",
+        "fingerprint": "ONEPLUS/oneplus8t/oneplus8t:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "KB2007",
+        "device": "OnePlus8TTMO",
+        "fingerprint": "ONEPLUS/oneplus8ttmo/oneplus8ttmo:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "LE2100",
+        "device": "OnePlus9R",
+        "fingerprint": "ONEPLUS/oneplus9r/oneplus9r:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "LE2101",
+        "device": "OnePlus9R",
+        "fingerprint": "ONEPLUS/oneplus9r/oneplus9r:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "LE2110",
+        "device": "OnePlus9",
+        "fingerprint": "ONEPLUS/oneplus9/oneplus9:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "LE2111",
+        "device": "OnePlus9",
+        "fingerprint": "ONEPLUS/oneplus9/oneplus9:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "LE2113",
+        "device": "OnePlus9",
+        "fingerprint": "ONEPLUS/oneplus9/oneplus9:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "LE2115",
+        "device": "OnePlus9",
+        "fingerprint": "ONEPLUS/oneplus9/oneplus9:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "LE2117",
+        "device": "OnePlus9TMO",
+        "fingerprint": "ONEPLUS/oneplus9tmo/oneplus9tmo:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "LE2120",
+        "device": "OnePlus9Pro",
+        "fingerprint": "ONEPLUS/oneplus9pro/oneplus9pro:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "LE2121",
+        "device": "OnePlus9Pro",
+        "fingerprint": "ONEPLUS/oneplus9pro/oneplus9pro:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "LE2123",
+        "device": "OnePlus9Pro",
+        "fingerprint": "ONEPLUS/oneplus9pro/oneplus9pro:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "LE2125",
+        "device": "OnePlus9Pro",
+        "fingerprint": "ONEPLUS/oneplus9pro/oneplus9pro:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "LE2127",
+        "device": "OnePlus9ProTMO",
+        "fingerprint": "ONEPLUS/oneplus9protmo/oneplus9protmo:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "MT2110",
+        "device": "OP5154L1",
+        "fingerprint": "ONEPLUS/op5154l1/op5154l1:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "MT2111",
+        "device": "OP5155L1",
+        "fingerprint": "ONEPLUS/op5155l1/op5155l1:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "NE2210",
+        "device": "OP516EL1",
+        "fingerprint": "ONEPLUS/op516el1/op516el1:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "NE2211",
+        "device": "OP516FL1",
+        "fingerprint": "ONEPLUS/op516fl1/op516fl1:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "NE2213",
+        "device": "OP516FL1",
+        "fingerprint": "ONEPLUS/op516fl1/op516fl1:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "NE2215",
+        "device": "OP516FL1",
+        "fingerprint": "ONEPLUS/op516fl1/op516fl1:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "NE2217",
+        "device": "OP516FL1",
+        "fingerprint": "ONEPLUS/op516fl1/op516fl1:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "ONE A2003",
+        "device": "OnePlus2",
+        "fingerprint": "ONEPLUS/oneplus2/oneplus2:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "ONE E1003",
+        "device": "OnePlus",
+        "fingerprint": "ONEPLUS/oneplus/oneplus:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "ONEPLUS A3000",
+        "device": "OnePlus3",
+        "fingerprint": "ONEPLUS/oneplus3/oneplus3:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "ONEPLUS A3000",
+        "device": "OnePlus3T",
+        "fingerprint": "ONEPLUS/oneplus3t/oneplus3t:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "ONEPLUS A5000",
+        "device": "OnePlus5",
+        "fingerprint": "ONEPLUS/oneplus5/oneplus5:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "ONEPLUS A5010",
+        "device": "OnePlus5T",
+        "fingerprint": "ONEPLUS/oneplus5t/oneplus5t:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "ONEPLUS A6000",
+        "device": "OnePlus6",
+        "fingerprint": "ONEPLUS/oneplus6/oneplus6:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "ONEPLUS A6003",
+        "device": "OnePlus6",
+        "fingerprint": "ONEPLUS/oneplus6/oneplus6:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "ONEPLUS A6010",
+        "device": "OnePlus6T",
+        "fingerprint": "ONEPLUS/oneplus6t/oneplus6t:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "ONEPLUS A6013",
+        "device": "OnePlus6T",
+        "fingerprint": "ONEPLUS/oneplus6t/oneplus6t:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "ONEPLUS A6013",
+        "device": "OnePlus6TSingle",
+        "fingerprint": "ONEPLUS/oneplus6tsingle/oneplus6tsingle:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "One",
+        "device": "A0001",
+        "fingerprint": "ONEPLUS/a0001/a0001:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "Oneplus_Dosa_IN",
+        "device": "Oneplus_Dosa_IN",
+        "fingerprint": "ONEPLUS/oneplus_dosa_in/oneplus_dosa_in:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "PGKM10",
+        "device": "OP5565",
+        "fingerprint": "ONEPLUS/op5565/op5565:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "PHP110",
+        "device": "OP5927",
+        "fingerprint": "ONEPLUS/op5927/op5927:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "PJA110",
+        "device": "OP5943L1",
+        "fingerprint": "ONEPLUS/op5943l1/op5943l1:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "PJD110",
+        "device": "OP5929L1",
+        "fingerprint": "ONEPLUS/op5929l1/op5929l1:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "PJE110",
+        "device": "OP5CF9L1",
+        "fingerprint": "ONEPLUS/op5cf9l1/op5cf9l1:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "PJF110",
+        "device": "OP5CFBL1",
+        "fingerprint": "ONEPLUS/op5cfbl1/op5cfbl1:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "PJX110",
+        "device": "OP5D06L1",
+        "fingerprint": "ONEPLUS/op5d06l1/op5d06l1:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "PJZ110",
+        "device": "OP5D0DL1",
+        "fingerprint": "ONEPLUS/op5d0dl1/op5d0dl1:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "PKG110",
+        "device": "OP5D2BL1",
+        "fingerprint": "ONEPLUS/op5d2bl1/op5d2bl1:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "PKR110",
+        "device": "OP60EBL1",
+        "fingerprint": "ONEPLUS/op60ebl1/op60ebl1:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "PKX110",
+        "device": "OP60F5L1",
+        "fingerprint": "ONEPLUS/op60f5l1/op60f5l1:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "PLK110",
+        "device": "OP60FFL1",
+        "fingerprint": "ONEPLUS/op60ffl1/op60ffl1:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "PLQ110",
+        "device": "OP6113L1",
+        "fingerprint": "ONEPLUS/op6113l1/op6113l1:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "PLU110",
+        "device": "OP60F0L1",
+        "fingerprint": "ONEPLUS/op60f0l1/op60f0l1:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "PLY110",
+        "device": "OP64D3L1",
+        "fingerprint": "ONEPLUS/op64d3l1/op64d3l1:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "PLZ110",
+        "device": "OP64DDL1",
+        "fingerprint": "ONEPLUS/op64ddl1/op64ddl1:13/TP1A.220624.014/10403759:user/release-keys"
+    },
+    {
+        "model": "Y Series",
+        "device": "shibuya",
+        "fingerprint": "ONEPLUS/shibuya/shibuya:13/TP1A.220624.014/10403759:user/release-keys"
+    }
+]
