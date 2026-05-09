@@ -2005,6 +2005,16 @@
         "d": "kansas"
     },
     {
+        "m": "moto g - 2026",
+        "k": "moto g - 2025",
+        "d": "utah"
+    },
+    {
+        "m": "moto g - 2026",
+        "k": "moto g - 2026",
+        "d": "utah"
+    },
+    {
         "m": "moto g 5G",
         "k": "moto g 5G",
         "d": "kiev"
@@ -2063,6 +2073,16 @@
         "m": "moto g fast",
         "k": "moto g fast",
         "d": "rav"
+    },
+    {
+        "m": "moto g max",
+        "k": "moto g max",
+        "d": "naples"
+    },
+    {
+        "m": "moto g max",
+        "k": "moto g67",
+        "d": "naples"
     },
     {
         "m": "moto g optimo",
@@ -2143,6 +2163,16 @@
         "m": "moto g play - 2024",
         "k": "motorola edge 40 pro",
         "d": "fogona"
+    },
+    {
+        "m": "moto g play - 2026",
+        "k": "moto g - 2025",
+        "d": "nevada"
+    },
+    {
+        "m": "moto g play - 2026",
+        "k": "moto g play - 2026",
+        "d": "nevada"
     },
     {
         "m": "moto g plus",
@@ -2790,11 +2820,6 @@
         "d": "naples"
     },
     {
-        "m": "moto g67",
-        "k": "moto g67",
-        "d": "naples"
-    },
-    {
         "m": "moto g67 power 5G",
         "k": "XT2533-4",
         "d": "portov"
@@ -2908,6 +2933,11 @@
         "m": "moto g86 power 5G",
         "k": "moto g86 power 5G",
         "d": "nice"
+    },
+    {
+        "m": "moto g87",
+        "k": "moto g87",
+        "d": "naples"
     },
     {
         "m": "moto g96 5G",
@@ -3558,6 +3588,16 @@
         "m": "motorola razr 60s",
         "k": "motorola razr 60s",
         "d": "aito"
+    },
+    {
+        "m": "motorola razr 70 plus",
+        "k": "motorola razr 50 ultra",
+        "d": "eiger"
+    },
+    {
+        "m": "motorola razr 70 plus",
+        "k": "motorola razr 70 plus",
+        "d": "eiger"
     },
     {
         "m": "motorola razr fold",
