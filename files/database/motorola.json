@@ -2615,6 +2615,16 @@
         "d": "manila"
     },
     {
+        "m": "moto g37",
+        "k": "moto g - 2025",
+        "d": "sydnyl"
+    },
+    {
+        "m": "moto g37",
+        "k": "moto g37",
+        "d": "sydnyl"
+    },
+    {
         "m": "moto g40 fusion",
         "k": "moto g(40) fusion",
         "d": "hanoip"
@@ -3598,6 +3608,16 @@
         "m": "motorola razr 70 plus",
         "k": "motorola razr 70 plus",
         "d": "eiger"
+    },
+    {
+        "m": "motorola razr 70 ultra",
+        "k": "motorola razr 60 ultra",
+        "d": "lhotse"
+    },
+    {
+        "m": "motorola razr 70 ultra",
+        "k": "motorola razr 70 ultra",
+        "d": "lhotse"
     },
     {
         "m": "motorola razr fold",
