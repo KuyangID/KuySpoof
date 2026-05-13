@@ -7935,6 +7935,11 @@
         "d": "m16x"
     },
     {
+        "m": "Galaxy Wide9",
+        "k": "SM-M176S",
+        "d": "a17x"
+    },
+    {
         "m": "Galaxy Win Pro",
         "k": "SM-G3818",
         "d": "wilcox3g"
